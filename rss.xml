@@ -10,8 +10,28 @@
         </author>
         <description>my blog to studying</description>
         <language>zh-CN</language>
-        <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
-        <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
+        <pubDate>Sat, 25 May 2024 22:30:09 +0800</pubDate>
+        <lastBuildDate>Sat, 25 May 2024 22:30:09 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/25/categories/</guid>
+            <title>Categories</title>
+            <link>http://example.com/2024/05/25/categories/</link>
+            <pubDate>Sat, 25 May 2024 22:30:09 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</guid>
             <title>Step.4 主题特殊功能</title>
@@ -1798,17 +1818,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
             <link>http://example.com/2013/12/24/long-title/</link>
             <pubDate>Tue, 24 Dec 2013 23:31:06 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/categories/</guid>
-            <title>Categories</title>
-            <link>http://example.com/2013/12/24/categories/</link>
-            <category term="Foo" scheme="http://example.com/categories/Foo/" />
-            <category term="Bar" scheme="http://example.com/categories/Foo/Bar/" />
-            <category term="Baz" scheme="http://example.com/categories/Foo/Bar/Baz/" />
-            <pubDate>Tue, 24 Dec 2013 23:30:09 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
  ]]></description>
         </item>
         <item>

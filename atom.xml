@@ -8,7 +8,27 @@
     <author>
       <name>萝卜仔</name>
     </author>
-    <updated>2020-08-13T13:45:48.000Z</updated>
+    <updated>2024-05-25T14:30:09.000Z</updated>
+    <entry>
+        <id>http://example.com/2024/05/25/categories/</id>
+        <title>Categories</title>
+        <link rel="alternate" href="http://example.com/2024/05/25/categories/"/>
+        <content type="html">&lt;p&gt;&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;div class=&#34;info&#34;&gt;
+          &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
+          &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/p&gt;
+</content>
+        <updated>2024-05-25T14:30:09.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/</id>
         <title>Step.4 主题特殊功能</title>
@@ -1796,17 +1816,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <content type="html">&lt;p&gt;This post has a long title. Make sure the title displayed right.&lt;/p&gt;
 </content>
         <updated>2013-12-24T15:31:06.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://example.com/2013/12/24/categories/</id>
-        <title>Categories</title>
-        <link rel="alternate" href="http://example.com/2013/12/24/categories/"/>
-        <content type="html">&lt;p&gt;This post contains 3 categories. Make sure your theme can display all of the categories.&lt;/p&gt;
-</content>
-        <category term="Foo" scheme="http://example.com/categories/Foo/" />
-        <category term="Bar" scheme="http://example.com/categories/Foo/Bar/" />
-        <category term="Baz" scheme="http://example.com/categories/Foo/Bar/Baz/" />
-        <updated>2013-12-24T15:30:09.000Z</updated>
     </entry>
     <entry>
         <id>http://example.com/2013/12/24/link-post/</id>

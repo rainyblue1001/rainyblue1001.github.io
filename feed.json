@@ -7,6 +7,14 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2024/05/25/categories/",
+            "url": "http://example.com/2024/05/25/categories/",
+            "title": "Categories",
+            "date_published": "2024-05-25T14:30:09.000Z",
+            "content_html": "<p><div class=\"links\"><div class=\"item\" title=\"霜月琉璃\" style=\"--block-color:#e9546b;\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\" data-background-image=\"https://cdn.jsdelivr.net/gh/amehime/shoka@latest/images/avatar.jpg\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\">優萌初華</span>\n          <p class=\"desc\">琉璃的医学 & 编程笔记</p>\n          </div></div><div class=\"item\" title=\"霜月琉璃\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\" data-background-image=\"/images/avatar.jpg\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\">優萌初華</span>\n          <p class=\"desc\">https://shoka.lostyu.me</p>\n          </div></div><div class=\"item\" title=\"優萌初華\" style=\"--block-color:#9d5b8b;\"><span class=\"exturl image\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\" data-background-image=\"/images/404.png\"></span>\n          <div class=\"info\">\n          <span class=\"exturl title\" data-url=\"aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=\">優萌初華</span>\n          <p class=\"desc\">琉璃的医学 & 编程笔记</p>\n          </div></div></div></p>\n",
+            "tags": []
+        },
+        {
             "id": "http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/",
             "url": "http://example.com/2020/08/13/computer-science/note/theme-shoka-doc/special/",
             "title": "Step.4 主题特殊功能",
@@ -182,18 +190,6 @@
             "date_published": "2013-12-24T15:31:06.000Z",
             "content_html": "<p>This post has a long title. Make sure the title displayed right.</p>\n",
             "tags": []
-        },
-        {
-            "id": "http://example.com/2013/12/24/categories/",
-            "url": "http://example.com/2013/12/24/categories/",
-            "title": "Categories",
-            "date_published": "2013-12-24T15:30:09.000Z",
-            "content_html": "<p>This post contains 3 categories. Make sure your theme can display all of the categories.</p>\n",
-            "tags": [
-                "Foo",
-                "Bar",
-                "Baz"
-            ]
         },
         {
             "id": "http://example.com/2013/12/24/link-post/",
