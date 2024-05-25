@@ -10,8 +10,16 @@
         </author>
         <description>my blog to studying</description>
         <language>zh-CN</language>
-        <pubDate>Sat, 25 May 2024 22:30:09 +0800</pubDate>
-        <lastBuildDate>Sat, 25 May 2024 22:30:09 +0800</lastBuildDate>
+        <pubDate>Sat, 25 May 2024 23:03:11 +0800</pubDate>
+        <lastBuildDate>Sat, 25 May 2024 23:03:11 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/05/25/shoka%E5%8A%9F%E8%83%BD%E5%A4%87%E6%B3%A8/</guid>
+            <title>shoka功能备注</title>
+            <link>http://example.com/2024/05/25/shoka%E5%8A%9F%E8%83%BD%E5%A4%87%E6%B3%A8/</link>
+            <pubDate>Sat, 25 May 2024 23:03:11 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;代码块&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#代码块&#34;&gt;#&lt;/a&gt; 代码块&lt;/h1&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/05/25/categories/</guid>
             <title>Categories</title>
@@ -1826,17 +1834,6 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
             <link>http://example.com/2013/12/24/link-post/</link>
             <pubDate>Tue, 24 Dec 2013 23:30:04 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;This is a link post. Clicking on the link should open &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5nb29nbGUuY29tLw==&#34;&gt;Google&lt;/span&gt; in a new tab or window.&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://example.com/2013/12/24/tags/</guid>
-            <title>Tags</title>
-            <link>http://example.com/2013/12/24/tags/</link>
-            <category term="Foo" scheme="http://example.com/tags/Foo/" />
-            <category term="Bar" scheme="http://example.com/tags/Bar/" />
-            <category term="Baz" scheme="http://example.com/tags/Baz/" />
-            <pubDate>Tue, 24 Dec 2013 23:29:53 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;This post contains 3 tags. Make sure your theme can display all of the tags.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
