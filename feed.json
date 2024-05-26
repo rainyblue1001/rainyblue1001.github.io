@@ -115,22 +115,22 @@
             ]
         },
         {
-            "id": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
-            "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
-            "title": "照片",
+            "id": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/",
+            "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/",
+            "title": "画廊邮报",
             "date_published": "2020-08-13T12:45:48.000Z",
-            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\" /></p>\n",
+            "content_html": "<p>This post contains 4 photos:</p>\n<ul>\n<li>Widescreen wallpaper</li>\n<li>Portrait photo</li>\n<li>Dual widescreen wallpaper</li>\n<li>Small photo</li>\n</ul>\n<p>All photos should be displayed properly.</p>\n<p><em>From <span class=\"exturl\" data-url=\"aHR0cDovL3dhbGxiYXNlLmNj\">Wallbase.cc</span></em></p>\n",
             "tags": [
                 "Daily Life Category",
                 "The Post"
             ]
         },
         {
-            "id": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/",
-            "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/",
-            "title": "画廊邮报",
+            "id": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
+            "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
+            "title": "照片",
             "date_published": "2020-08-13T12:45:48.000Z",
-            "content_html": "<p>This post contains 4 photos:</p>\n<ul>\n<li>Widescreen wallpaper</li>\n<li>Portrait photo</li>\n<li>Dual widescreen wallpaper</li>\n<li>Small photo</li>\n</ul>\n<p>All photos should be displayed properly.</p>\n<p><em>From <span class=\"exturl\" data-url=\"aHR0cDovL3dhbGxiYXNlLmNj\">Wallbase.cc</span></em></p>\n",
+            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\" /></p>\n",
             "tags": [
                 "Daily Life Category",
                 "The Post"
