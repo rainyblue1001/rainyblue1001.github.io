@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "萝卜仔的博客",
+    "title": "Radish'blog",
     "subtitle": "",
     "icon": "http://rainyblue.cn/images/favicon.ico",
-    "description": "my blog to studying",
+    "description": "All other pursuits are inferior, only studying is exalted.",
     "home_page_url": "http://rainyblue.cn",
     "items": [
         {

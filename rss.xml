@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>萝卜仔的博客</title>
+        <title>Radish&#39;blog</title>
         <subtitle></subtitle>
         <icon>http://rainyblue.cn/images/favicon.ico</icon>
         <link>http://rainyblue.cn</link>
         <author>
           <name>萝卜仔</name>
         </author>
-        <description>my blog to studying</description>
+        <description>All other pursuits are inferior, only studying is exalted.</description>
         <language>zh-CN</language>
         <pubDate>Sun, 26 May 2024 00:00:04 +0800</pubDate>
         <lastBuildDate>Sun, 26 May 2024 00:00:04 +0800</lastBuildDate>
