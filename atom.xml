@@ -80,6 +80,26 @@
         <updated>2024-05-27T04:12:57.079Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2024/05/26/Daily%20Life%20Category/images/</id>
+        <title></title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/26/Daily%20Life%20Category/images/"/>
+        <content type="html">&lt;p&gt;title: 照片&lt;br /&gt;
+ date: 2020/08/13 20:45:48&lt;br /&gt;
+update: 2020/09/27&lt;br /&gt;
+categories:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[生活类，照片收藏]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;cover: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3JhaW55Ymx1ZTEwMDEvaW1hZ2VAbWFpbi9pbWcvMjAyNDA1MjcxMjI4MDgucG5n&#34;&gt;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/20240527122808.png&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+</content>
+        <updated>2024-05-26T09:53:39.643Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2024/05/26/Educational%20Category/learning/markdown/</id>
         <title>Markdown Style test</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/26/Educational%20Category/learning/markdown/"/>
@@ -1310,7 +1330,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <id>http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/</id>
         <title>画廊邮报</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/"/>
-        <content type="html">&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
+        <content type="html">&lt;p&gt;本帖包含 4 张照片&lt;br /&gt;
+宽屏壁纸&lt;br /&gt;
+人像照片&lt;br /&gt;
+双宽屏壁纸&lt;br /&gt;
+。小照片&lt;br /&gt;
+所有照片都应该正常显示。&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==&#34;&gt;来自 Wallbase.cc&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Widescreen wallpaper&lt;/li&gt;
 &lt;li&gt;Portrait photo&lt;/li&gt;
@@ -1320,22 +1347,8 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
 </content>
-        <category term="Daily Life Category" scheme="http://rainyblue.cn/categories/Daily-Life-Category/" />
-        <category term="The Post" scheme="http://rainyblue.cn/categories/Daily-Life-Category/The-Post/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="Daily Life Category" scheme="http://rainyblue.cn/categories/Daily-Life-Category/" />
-        <category term="The Post" scheme="http://rainyblue.cn/categories/Daily-Life-Category/The-Post/" />
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
         <updated>2020-08-13T12:45:48.000Z</updated>
     </entry>
     <entry>

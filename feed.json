@@ -15,6 +15,14 @@
             "tags": []
         },
         {
+            "id": "http://rainyblue.cn/2024/05/26/Daily%20Life%20Category/images/",
+            "url": "http://rainyblue.cn/2024/05/26/Daily%20Life%20Category/images/",
+            "title": "",
+            "date_published": "2024-05-26T09:53:39.643Z",
+            "content_html": "<p>title: 照片<br />\n date: 2020/08/13 20:45:48<br />\nupdate: 2020/09/27<br />\ncategories:</p>\n<ul>\n<li>[生活类，照片收藏]</li>\n</ul>\n<p>cover: <span class=\"exturl\" data-url=\"aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3JhaW55Ymx1ZTEwMDEvaW1hZ2VAbWFpbi9pbWcvMjAyNDA1MjcxMjI4MDgucG5n\">https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/20240527122808.png</span></p>\n<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\" /></p>\n",
+            "tags": []
+        },
+        {
             "id": "http://rainyblue.cn/2024/05/26/Educational%20Category/learning/markdown/",
             "url": "http://rainyblue.cn/2024/05/26/Educational%20Category/learning/markdown/",
             "title": "Markdown Style test",
@@ -127,21 +135,10 @@
             "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/gallery-post/",
             "title": "画廊邮报",
             "date_published": "2020-08-13T12:45:48.000Z",
-            "content_html": "<p>This post contains 4 photos:</p>\n<ul>\n<li>Widescreen wallpaper</li>\n<li>Portrait photo</li>\n<li>Dual widescreen wallpaper</li>\n<li>Small photo</li>\n</ul>\n<p>All photos should be displayed properly.</p>\n<p><em>From <span class=\"exturl\" data-url=\"aHR0cDovL3dhbGxiYXNlLmNj\">Wallbase.cc</span></em></p>\n",
+            "content_html": "<p>本帖包含 4 张照片<br />\n宽屏壁纸<br />\n人像照片<br />\n双宽屏壁纸<br />\n。小照片<br />\n所有照片都应该正常显示。<br />\n<span class=\"exturl\" data-url=\"aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==\">来自 Wallbase.cc</span></p>\n<p>This post contains 4 photos:</p>\n<ul>\n<li>Widescreen wallpaper</li>\n<li>Portrait photo</li>\n<li>Dual widescreen wallpaper</li>\n<li>Small photo</li>\n</ul>\n<p>All photos should be displayed properly.</p>\n<p><em>From <span class=\"exturl\" data-url=\"aHR0cDovL3dhbGxiYXNlLmNj\">Wallbase.cc</span></em></p>\n",
             "tags": [
-                "Daily Life Category",
-                "The Post"
-            ]
-        },
-        {
-            "id": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
-            "url": "http://rainyblue.cn/2020/08/13/Daily%20Life%20Category/images/",
-            "title": "照片",
-            "date_published": "2020-08-13T12:45:48.000Z",
-            "content_html": "<p>This is a image test post.</p>\n<p><img data-src=\"/assets/wallpaper-2572384.jpg\" alt=\"\" /></p>\n<p><img data-src=\"/assets/wallpaper-2311325.jpg\" alt=\"Caption\" /></p>\n<p><img data-src=\"/assets/wallpaper-878514.jpg\" alt=\"\" /></p>\n<p><img data-src=\"https://placehold.it/350x150.jpg\" alt=\"Small Picture\" /></p>\n",
-            "tags": [
-                "Daily Life Category",
-                "The Post"
+                "生活类",
+                "照片收藏"
             ]
         },
         {
