@@ -8,7 +8,32 @@
     <author>
       <name>萝卜仔</name>
     </author>
-    <updated>2024-05-27T04:12:57.079Z</updated>
+    <updated>2024-05-27T09:38:45.000Z</updated>
+    <entry>
+        <id>http://rainyblue.cn/2024/05/27/Educational%20Category/python/python/</id>
+        <title>Python</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/27/Educational%20Category/python/python/"/>
+        <content type="html">&lt;p&gt;###python 的简述&lt;/p&gt;
+&lt;p&gt;Python 是一种广泛使用的高级编程语言，其设计哲学强调代码的可读性和简洁的语法（特别是使用空格缩进来区分代码块，而非使用大括号或关键字）。Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，因此它适用于各种类型的软件开发。&lt;/p&gt;
+&lt;p&gt;Python 由荷兰计算机程序员 Guido van Rossum 于 1989 年圣诞节期间开始开发。当前最新的主要版本是 Python 3。&lt;/p&gt;
+&lt;p&gt;Python 的特点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;易于学习：Python 有相对较少的关键字，结构简单，和一个明确的语法，学习起来更加简单。&lt;/li&gt;
+&lt;li&gt;易于阅读：Python 代码定义的更清晰。&lt;/li&gt;
+&lt;li&gt;易于维护：Python 的成功在于它的源代码是相当容易维护的。&lt;/li&gt;
+&lt;li&gt;广泛的标准库：Python 的最大的优势之一是丰富的库，跨平台的，在 UNIX，Windows 和 Macintosh 兼容很好。&lt;/li&gt;
+&lt;li&gt;互动模式：互动模式的支持，您可以从终端输入执行代码并获得结果的交互，交互式的测试和调试代码片断。&lt;/li&gt;
+&lt;li&gt;可移植：基于其开放源代码的特性，Python 已经被移植（也就是使其工作）到许多平台。&lt;/li&gt;
+&lt;li&gt;可扩展：如果你需要一段运行很快的关键代码，或者是想要写一些不愿开放的算法，你可以使用 C 或 C++ 完成那部分程序，然后从你的 Python 程序中调用。&lt;/li&gt;
+&lt;li&gt;数据库：Python 提供所有主要的商业数据库的接口。&lt;/li&gt;
+&lt;li&gt;GUI 编程：Python 支持 GUI 可以创建和移植到许多系统调用。&lt;/li&gt;
+&lt;li&gt;可嵌入： 你可以将 Python 嵌入到 C/C++ 程序中，让你的程序的用户获得 &amp;quot;脚本化&amp;quot; 的能力。&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+        <category term="学习类" scheme="http://rainyblue.cn/categories/Educational-Category/" />
+        <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational-Category/python/" />
+        <updated>2024-05-27T09:38:45.000Z</updated>
+    </entry>
     <entry>
         <id>http://rainyblue.cn/2024/05/27/Work%20Category/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</id>
         <title></title>
@@ -314,10 +339,48 @@ alt=&amp;quot;IMAGE ALT TEXT HERE&amp;quot; width=&amp;quot;240&amp;quot; height
         <id>http://rainyblue.cn/2024/05/25/Healthy%20Living/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/</id>
         <title>健康生活</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Healthy%20Living/%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB/"/>
-        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
- 健康生活&lt;br /&gt;
-:::&lt;/p&gt;
-&lt;h1 id=&#34;健康生活&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#健康生活&#34;&gt;#&lt;/a&gt; 健康生活&lt;/h1&gt;
+        <content type="html">&lt;h3 id=&#34;健康生活追求身体与心灵的和谐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#健康生活追求身体与心灵的和谐&#34;&gt;#&lt;/a&gt; 健康生活：追求身体与心灵的和谐&lt;/h3&gt;
+&lt;p&gt;在当今快节奏的生活中，越来越多的人开始关注自己的生活质量。健康生活已经成为了一个热门话题，因为它关乎到我们的身体健康、心理健康以及生活质量。那么，如何才能过上健康的生活呢？本文将从饮食、运动、作息、心理等方面为您介绍一些健康生活的方法和建议。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;健康饮食&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;饮食是健康生活的基础。要想保持身体健康，首先要从饮食入手。以下是一些建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;多吃蔬菜水果：蔬菜水果富含维生素、矿物质和膳食纤维，有助于提高免疫力，预防疾病。每天至少吃 5 份蔬菜和水果。&lt;/li&gt;
+&lt;li&gt;控制油脂摄入：过多的油脂摄入容易导致肥胖、高血压等疾病。尽量选择橄榄油、亚麻籽油等不饱和脂肪酸含量较高的食用油。&lt;/li&gt;
+&lt;li&gt;适量摄入蛋白质：蛋白质是人体的重要组成部分，但过量摄入也会对身体造成负担。每天摄入适量的鱼、肉、蛋、奶等优质蛋白质食物。&lt;/li&gt;
+&lt;li&gt;低盐低糖：过多的盐分摄入容易导致高血压，而过多的糖分摄入则容易导致糖尿病。尽量减少食用加工食品，避免过多摄入盐和糖。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;健康运动&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;运动是保持身体健康的重要手段。适当的运动可以增强心肺功能、促进血液循环、减轻压力。以下是一些建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每周至少进行 150 分钟的中等强度有氧运动，如快走、慢跑、游泳等。&lt;/li&gt;
+&lt;li&gt;每周进行 2-3 次力量训练，锻炼全身肌肉，增强关节稳定性。&lt;/li&gt;
+&lt;li&gt;每天进行伸展运动，增加关节活动度，预防运动损伤。&lt;/li&gt;
+&lt;li&gt;尝试瑜伽、太极等身心合一的运动，帮助放松心情，减轻压力。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;健康作息&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;良好的作息习惯对于保持身体健康至关重要。以下是一些建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;保证充足的睡眠：成年人每天需要 7-8 小时的睡眠。保持良好的睡眠环境，避免过度使用电子产品影响睡眠质量。&lt;/li&gt;
+&lt;li&gt;规律作息：尽量保持每天固定的起床和睡觉时间，有助于调整生物钟，提高睡眠质量。&lt;/li&gt;
+&lt;li&gt;合理安排工作和休息时间：工作期间适当休息，避免长时间保持同一姿势，预防颈椎病、腰椎病等职业病。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;心理健康&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;心理健康同样重要。保持良好的心理状态，有助于我们更好地应对生活中的挑战。以下是一些建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学会倾诉：与亲朋好友分享自己的喜怒哀乐，释放心理压力。&lt;/li&gt;
+&lt;li&gt;培养兴趣爱好：参与自己喜欢的活动，如绘画、音乐、阅读等，丰富精神生活。&lt;/li&gt;
+&lt;li&gt;学会自我调节：遇到困难时，保持积极的心态，相信自己有能力解决问题。&lt;/li&gt;
+&lt;li&gt;寻求专业帮助：当心理压力过大，无法自我调节时，可以寻求心理咨询师的帮助。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;总之，健康生活需要我们从饮食、运动、作息、心理等多方面着手，形成良好的生活习惯。只有这样，我们才能拥有一个健康的身体，享受美好的生活。&lt;/p&gt;
 </content>
         <category term="健康生活" scheme="http://rainyblue.cn/categories/Healthy-Living/" />
         <updated>2024-05-25T15:46:25.000Z</updated>
@@ -1773,7 +1836,7 @@ grape&lt;/p&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_6&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_6&#34;&gt; goto&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_7&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_7&#34;&gt; 4ever&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_8&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_8&#34;&gt; time-machine&lt;/label&gt;&lt;/li&gt;
-&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_9&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_9&#34;&gt; Int&lt;/label&gt;&lt;/li&gt;
+&lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_9&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_9&#34;&gt; x import java.util.Scanner;​public class Main {​    public static void main(String[] args) {        Scanner in = new Scanner(&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL1N5c3RlbS5pbg==&#34;&gt;System.in&lt;/span&gt;);                int rs = in.nextInt();              int readability = rs / 10;        int strength = rs % 10;                switch(strength)        {            case 1:                System.out.print(&amp;quot;Faint signals, barely perceptible&amp;quot;);            break;            case 2:                System.out.print(&amp;quot;Very weak signals&amp;quot;);            break;            case 3:                System.out.print(&amp;quot;Weak signals&amp;quot;);            break;            case 4:                System.out.print(&amp;quot;Fair signals&amp;quot;);            break;            case 5:                System.out.print(&amp;quot;Fairly good signals&amp;quot;);            break;            case 6:                System.out.print(&amp;quot;Good signals&amp;quot;);            break;            case 7:                System.out.print(&amp;quot;Moderately strong signals&amp;quot;);            break;            case 8:                System.out.print(&amp;quot;Strong signals&amp;quot;);            break;            case 9:                System.out.print(&amp;quot;Extremely strong signals&amp;quot;);            break;        }                switch(readability)        {            case 1:                System.out.print(&amp;quot;, unreadable.&amp;quot;);            break;            case 2:                System.out.print(&amp;quot;, barely readable, occasional words distinguishable.&amp;quot;);            break;            case 3:                System.out.print(&amp;quot;, readable with considerable difficulty.&amp;quot;);            break;            case 4:                System.out.print(&amp;quot;, readable with practically no difficulty.&amp;quot;);            break;            case 5:                System.out.print(&amp;quot;, perfectly readable.&amp;quot;);            break;        }    }​}java&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_10&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_10&#34;&gt; $12&lt;/label&gt;&lt;/li&gt;
 &lt;li class=&#34;task-list-item&#34;&gt;&lt;input type=&#34;checkbox&#34; id=&#34;cbx_11&#34; disabled=&#34;true&#34; /&gt;&lt;label for=&#34;cbx_11&#34;&gt; 我是变量&lt;/label&gt;&lt;/li&gt;
 &lt;/ul&gt;
