@@ -20,7 +20,7 @@
             <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational-Category/python/" />
             <category term="python" scheme="http://rainyblue.cn/tags/python/" />
             <pubDate>Mon, 27 May 2024 17:38:45 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;###python 的简述&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;#python 的简述&lt;/p&gt;
 &lt;p&gt;Python 是一种广泛使用的高级编程语言，其设计哲学强调代码的可读性和简洁的语法（特别是使用空格缩进来区分代码块，而非使用大括号或关键字）。Python 支持多种编程范式，包括面向对象、命令式、函数式和过程式编程，因此它适用于各种类型的软件开发。&lt;/p&gt;
 &lt;p&gt;Python 由荷兰计算机程序员 Guido van Rossum 于 1989 年圣诞节期间开始开发。当前最新的主要版本是 Python 3。&lt;/p&gt;
 &lt;p&gt;Python 的特点：&lt;/p&gt;
