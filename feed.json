@@ -77,16 +77,6 @@
             ]
         },
         {
-            "id": "http://rainyblue.cn/2024/05/25/Interests%20Category/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/",
-            "url": "http://rainyblue.cn/2024/05/25/Interests%20Category/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/",
-            "title": "兴趣爱好",
-            "date_published": "2024-05-25T12:46:25.000Z",
-            "content_html": "<p>:::note info<br />\n 兴趣爱好<br />\n:::</p>\n<h1 id=\"兴趣爱好\"><a class=\"anchor\" href=\"#兴趣爱好\">#</a> 兴趣爱好</h1>\n",
-            "tags": [
-                "兴趣类"
-            ]
-        },
-        {
             "id": "http://rainyblue.cn/2024/05/25/Work%20Category/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/",
             "url": "http://rainyblue.cn/2024/05/25/Work%20Category/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/",
             "title": "工作记录",
@@ -94,6 +84,16 @@
             "content_html": "<p>:::note info<br />\n 工作记录<br />\n:::</p>\n<h1 id=\"工作记录\"><a class=\"anchor\" href=\"#工作记录\">#</a> 工作记录</h1>\n",
             "tags": [
                 "工作类"
+            ]
+        },
+        {
+            "id": "http://rainyblue.cn/2024/05/25/Interests%20Category/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/",
+            "url": "http://rainyblue.cn/2024/05/25/Interests%20Category/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/",
+            "title": "兴趣爱好",
+            "date_published": "2024-05-25T12:46:25.000Z",
+            "content_html": "<p>:::note info<br />\n 兴趣爱好<br />\n:::</p>\n<h1 id=\"兴趣爱好\"><a class=\"anchor\" href=\"#兴趣爱好\">#</a> 兴趣爱好</h1>\n",
+            "tags": [
+                "兴趣类"
             ]
         },
         {
