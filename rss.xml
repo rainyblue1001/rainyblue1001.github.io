@@ -77,6 +77,8 @@
             <guid isPermalink="true">http://rainyblue.cn/2024/05/29/Educational%20Category/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</guid>
             <title>学习记录</title>
             <link>http://rainyblue.cn/2024/05/29/Educational%20Category/%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/</link>
+            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational-Category/" />
+            <category term="Markdown" scheme="http://rainyblue.cn/tags/Markdown/" />
             <pubDate>Wed, 29 May 2024 00:15:54 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;欢迎使用-cmd-markdown-编辑阅读器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#欢迎使用-cmd-markdown-编辑阅读器&#34;&gt;#&lt;/a&gt; 欢迎使用 Cmd Markdown 编辑阅读器&lt;/h1&gt;
 &lt;hr /&gt;
