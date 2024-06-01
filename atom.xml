@@ -415,6 +415,38 @@ Bob--&amp;gt;Alice: I am good thanks!
         <updated>2024-05-27T11:10:00.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2024/05/27/Educational/python/Data-cleansing/%E5%AE%9E%E9%AA%8C1/</id>
+        <title>数据清洗</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/27/Educational/python/Data-cleansing/%E5%AE%9E%E9%AA%8C1/"/>
+        <content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;实验项目名称：&lt;/strong&gt; 实验 1 Numpy 数值计算 &lt;strong&gt;实验目的和要求：&lt;/strong&gt; 1、掌握 ndarray 数组的创建与操作； 2、掌握矩阵的创建与应用； 3、掌握 Numpy 读写文件及统计分析； 4、掌握 Numpy 数值计算综合应用。&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;主要仪器设备：&lt;/strong&gt; PC 机一台；Windows 操作系统；Python 运行环境；Python IDLE; Jupyter Notebook; 开发工具（PyCharm)。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;实验内容和原理：&lt;/strong&gt; 1、Numpy 实现对数组计算距离； 2、Numpy 实现对文件进行操作及计算； 3、Numpy 统计函数的使用。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;操作方法和实验步骤（绘图）：&lt;/strong&gt; 编写程序：使用 numpy 数组计算由 5 个坐标：(1,9)、(5,12)、(8,20)、(11,10)、(2,8) 构成的图形的周长。  &lt;img data-src=&#34;media/4db597e51e758b3dbf84492a77819bf5.png&#34; alt=&#34;&#34; /&gt; 操作步骤及代码： # 1、编写程序：使用 numpy 数组计算由 5 个坐标：(1,9)、(5,12)、(8,20)、(11,10)、(2,8) 构成的图形的周长。 #思路：对于坐标问题，首先是先想到两点之间确定线段的长度，而对于不规则的图像，需要先确定相邻两点，然后通过多次相加就能得出其周长  import numpy as np v1 = np.array ([(1, 9), (5, 12), (8, 20), (11, 10), (2, 8)]) v2 = np.array ([(2, 8), (1, 9), (5, 12), (8, 20), (11, 10)]) v3 = np.array ([(2, 8), (1, 9), (5, 12), (8, 20), (11, 10), (2, 8)]) print (v3) #相邻两个点求距离，再求和就好了，首尾两个点也要求一下。 dis1 = np.sum (np.sqrt (np.sum (np.square (v1 - v2), axis=1))) print (dis1) &lt;img data-src=&#34;media/80b86596f17199855ea1b279a1860daa.png&#34; alt=&#34;&#34; /&gt; 2、编写程序，实现以下功能： (1) 利用下列 &#39;iris.data&#39; 创建数组 iris_2d, 实现将该文件内容以数组形式读取并加载到程序中。 &lt;img data-src=&#34;media/bdc26e5bd31d4f98a7cea6ff849cc14f.png&#34; alt=&#34;&#34; /&gt; (2) 在 iris_2d 数据集的前四列中，寻找 20 个随机位插入 np.nan 值。 (3) 在 iris_2d 的 第 2 列中查找缺失值的数量和位置。 (4) 过滤出具有第 3 列 &amp;gt; 1.5 和 第 1 列 &amp;lt;5.0 所有行出来。 (5) 使用 0 替换数组中 nan（最好将数组复制到一个新对象中处理）。 (6) 针对 iris_2d 的花瓣长度（第 3 列）数据进行判断，如果花瓣长度为 &amp;lt; 3 则为’小’，3-5 则为’中’，’&amp;gt; = 5 则为’大’, 将此判断结果组成一个文本数组列添加到 iris_2d 中。 (7) 在 iris_2d 中创建一个新列 newv，该列的值通过公式计算所得，公式如下：（pi * 第 3 列 * 第 1 列 ^2）/ 3，并将新数组以 txt 形式存放在 &#39;iris_2d.txt&#39; 文件中。 (8) 查找在 iris 数据集的第 4 列花瓣宽度中第一次出现值大于 1.0 的位置。 操作步骤及代码：  import numpy as np # (1) 利用下列 &#39;iris.data&#39; 创建数组 iris_2d, 实现将该文件内容以数组形式读取并加载到程序中。 url = r&amp;quot;D:\86198\Downloads\iris.data&amp;quot; iris_2d = np.genfromtxt (url, delimiter=&#39;,&#39;, dtype=&#39;float&#39;) print (iris_2d.shape) &lt;img data-src=&#34;media/7c7a584cf438d7e1d5e8d214e19d9fa6.png&#34; alt=&#34;&#34; /&gt; # 2_2: 在 iris_2d 数据集的前四列中，寻找 20 个随机位插入 np.nan 值 iris_2d [np.random.randint (0, 150, size=20), np.random.randint (0, 4, size=20)] = np.nan # 2_3: 在 iris_2d 的 第 2 列中查找缺失值的数量和位置 print (np.sum (np.isnan (iris_2d [:, 1]))) print (np.where (np.isnan (iris_2d [:, 1]))) &lt;img data-src=&#34;media/37493ca276999a1144c2cec6daa20efa.png&#34; alt=&#34;&#34; /&gt;  # 2_4: 过滤出具有第 3 列 &amp;gt; 1.5 和 第 1 列 &amp;lt;5.0 所有行出来 filter_end = iris_2d [(iris_2d [:, 2] &amp;gt; 1.5) &amp;amp; (iris_2d [:, 0] &amp;lt; 5.0)] print (filter_end) &lt;img data-src=&#34;media/a1741af027c803ba9b919b928ad918a4.png&#34; alt=&#34;&#34; /&gt;  # 2_5: 使用 0 替换数组中 nan（最好将数组复制到一个新对象中处理） r1 = iris_2d [::] r1 [np.isnan (r1)] = 0 print (r1)  &lt;img data-src=&#34;media/28da455c012a9aea34ed0aa458c74d36.png&#34; alt=&#34;&#34; /&gt;  # # 2_6: 针对 iris_2d 的花瓣长度（第 3 列）数据进行判断，如果花瓣长度为 &amp;lt;3 则为’小’，3-5 则为’中’， # ’&amp;gt; = 5 则为’大’, 将此判断结果组成一个文本数组列添加到 iris_2d 中； petal_length_bin = np.digitize (iris_2d [:, 2].astype (&#39;float&#39;), [0, 3, 5, 10]) label_map = {1: &#39;small&#39;, 2: &#39;medium&#39;, 3: &#39;large&#39;, 4: np.nan} petal_length_cat = [label_map [x] for x in petal_length_bin] r = np.array (petal_length_cat).reshape (150,1) iris_2d= np.hstack ((iris_2d,r)) &lt;img data-src=&#34;media/956d3b1daa79df370b851d06014d60c0.png&#34; alt=&#34;&#34; /&gt;print (iris_2d) #2_7: 在 iris_2d 中创建一个新列 newv，该列的值通过公式计算所得，公式如下：（pi * 第 3 列 * 第 1 列 ^2）/ 3 #并将新数组以 txt 形式存放在 &#39;iris_2d.txt&#39; 文件中。 i_0 = iris_2d [:, 0].astype (&#39;float&#39;) i_2 = iris_2d [:, 2].astype (&#39;float&#39;) newv = (np.pi * i_2 * ((i_0)**2))/3 newv = newv [:, np.newaxis] out = np.hstack ([iris_2d, newv]) print (out) &lt;img data-src=&#34;media/39f9e41e2ee234bc2bbfcdb45e6af1b1.png&#34; alt=&#34;&#34; /&gt;np.savetxt (&#39;iris_2d.txt&#39;,out,fmt = &#39;% s&#39;,delimiter=&#39;,&#39;)  #2_8: 查找在 iris 数据集的第 4 列花瓣宽度中第一次出现值大于 1.0 的位置 r1 = np.argwhere (iris_2d [:, 3].astype (float) &amp;gt; 1.0)[0] &lt;img data-src=&#34;media/49baae62f4c45096ca1193bd11a1a343.png&#34; alt=&#34;&#34; /&gt;print (r1) 3、编写程序，对电话卡 &amp;quot;CustomerSurvival.csv&amp;quot; 数据进行分析统计。 (1) 读取文件 (2) 分析数据 -- 求 extra_time、extra_flow、use_month 平均值、最大值、最小值 (3) 分析数据 -- 数据占比统计，统计所有额外剩余通话 (流量) 时长的人数占总人数的比例。 (4) 数据数量统计，统计每一类套餐的人数与总人数的占比。 操作步骤及代码： # 3：对电话卡 &amp;quot;CustomerSurvival.csv&amp;quot; 数据进行分析统计。 # 3_1 读取文件（传统方法读取 csv 文件） import numpy as np  data = [] header = [] with open (&amp;quot;F:\data\CustomerSurvival.csv&amp;quot;, &#39;r&#39;) as f:  for index, line in enumerate (f.readlines ()):  if index == 0:  header = line [:-1].split (&#39;,&#39;)  else:  data.append (tuple (line [:-1].split (&#39;,&#39;))) result = np.array (data, dtype={&#39;names&#39;: header, &#39;formats&#39;: [&#39;i2&#39;, &#39;U10&#39;, &#39;f8&#39;, &#39;f8&#39;, &#39;f8&#39;, &#39;i2&#39;, &#39;i1&#39;]}) print (result) # 以上代码可使用以下三行代码实现（使用 numpy 下的 genfromtxt 函数读取 csv 文件） header = [&#39;index&#39;, &#39;name&#39;, &#39;pack_type&#39;, &#39;extra_time&#39;, &#39;extra_flow&#39;, &#39;use_month,loss&#39;] data = np.genfromtxt (&amp;quot;F:\data\CustomerSurvival.csv&amp;quot;, delimiter=&#39;,&#39;, dtype={&#39;names&#39;: header,  &#39;formats&#39;: [&#39;i2&#39;, &#39;U10&#39;, &#39;f8&#39;, &#39;f8&#39;, &#39;f8&#39;,  &#39;i2&#39;, &#39;i1&#39;]}) print (data)  # 3_2 分析数据 -- 求 extra_time、extra_flow、use_month 平均值、最大值、最小值 extra_time = result [&#39;extra_time&#39;] print (max (extra_time)) print (min (extra_time)) print (sum (extra_time) /len (extra_time)) # 3_3 分析数据 -- 数据占比统计，统计所有有额外剩余通话（流量）时长的人数占总人数的比例 extra_flow = result [&#39;extra_flow&#39;] extra_flow_re = extra_flow [extra_flow &amp;gt; 0] print (len (extra_flow_re) /len (extra_flow)) # 3_4 分析数据 -- 数据数量统计，统计每一类套餐的人数与总人数的占比 pack_type = result [&#39;pack_type&#39;] types = set (pack_type) for i in types:  print (&#39; 套餐 {}：&#39;.format (i))  l = len (pack_type [pack_type == i]) &lt;img data-src=&#34;media/6b83457dd13eb7e9e2fbc4056d504e3a.png&#34; alt=&#34;&#34; /&gt; print (l /len (pack_type)) 4、编写程序，读取 &amp;quot;iris.csv&amp;quot; 数据集中的花萼数据，并对花萼数据 (iris_sepal) 进行排序输出，同时将相同数据去重，并求出和、均值、标准差、方差、最小值、最大值。 操作步骤及代码： #4：读取 &amp;quot;iris.csv&amp;quot; 数据集中的花萼数据，并对花萼数据 (iris_sepal) 进行排序输出，同时将相同数据去重，并求出和、均值、标准差、方差、最小值、最大值 import numpy as np iris_sepal = np.loadtxt (r&amp;quot;F:\data\iris.csv&amp;quot;, delimiter=&amp;quot;,&amp;quot;,skiprows=1,dtype=&#39;float32&#39;) #读取文件 print (iris_sepal) print (&#39; 花萼长度表为：&#39;,len (iris_sepal)) #花萼长度 iris_sepal.sort (axis=0) #对数据进行排序 print (&#39; 排序后的花萼长度为：&#39;,iris_sepal) print (&#39; 去重后的花萼长度为：&#39;,len (np.unique (iris_sepal)))# 去除重复值 print (&#39; 花萼长度表的总和为：&#39;,np.sum (iris_sepal,axis=0)) #计算数组总和 print (&#39; 花萼长度表的均值为：&#39;,np.mean (iris_sepal,axis=0)) #计算数组均值 print (&#39; 花萼长度表的标准差为：&#39;,np.std (iris_sepal,axis=0))# 计算数组标准差 print (&#39; 花萼长度表的方差为：&#39;,np.var (iris_sepal,axis=0)) #计算数组方差 print (&#39; 花萼长度表的最小值为：&#39;,np.min (iris_sepal,axis=0)) #计算最小值 &lt;img data-src=&#34;media/12775f06dfb0794d6032076e16723a25.png&#34; alt=&#34;&#34; /&gt;print (&#39; 花萼长度表的最大值为：&#39;,np.max (iris_sepal,axis=0)) #计算最大值&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;实验结果与分析&lt;/strong&gt; &lt;img data-src=&#34;media/7c7a584cf438d7e1d5e8d214e19d9fa6.png&#34; alt=&#34;&#34; /&gt;1、实验结果如下： 分析：对于坐标问题，首先是先想到两点之间确定线段的长度，而对于不规则的图像，需要先确定相邻两点，然后通过多次相加就能得出其周长 &lt;img data-src=&#34;media/dc28f4118b5535392b56957fa5c5ddd3.png&#34; alt=&#34;&#34; /&gt;2、实验结果如下： 分析：首先，我们需要使用 numpy 的 genfromtxt 函数来读取 &#39;iris.data&#39; 文件并将其转换为二维数组。这个函数可以处理各种分隔符，包括逗号、空格等。然后，我们需要在 iris_2d 的前四列中随机选择 20 个位置，并将这些位置的值设置为 np.nan。我们可以使用 numpy 的 random.choice 函数来生成随机索引，然后使用这些索引来设置 np.nan 值。接下来，我们需要找到 iris_2d 的第 2 列中的缺失值。我们可以使用 numpy 的 isnan 函数来检查每个元素是否为 np.nan，然后使用 numpy 的 any 函数来检查每行是否有缺失值。然后，我们需要过滤出 iris_2d 中第 3 列大于 1.5 且第 1 列小于 5.0 的所有行。我们可以使用 numpy 的逻辑运算符来实现这一点。我们需要在 iris_2d 中创建一个新的列 newv，该列的值是通过公式（pi * 第 3 列 * 第 1 列 ^2）/ 3 计算得出的。我们可以使用 numpy 的广播功能来实现这一点。使用 numpy 的 argmax 函数找到 iris_2d 的第 4 列（花瓣宽度）中第一个大于 1.0 的值的位置 &lt;img data-src=&#34;media/6b83457dd13eb7e9e2fbc4056d504e3a.png&#34; alt=&#34;&#34; /&gt;3、实验结果如下： 分析：首先，我们需要使用 pandas 库来读取 csv 文件。然后，我们可以使用 pandas 的 describe () 函数来获取 extra_time、extra_flow、use_month 的平均值、最大值、最小值。对于数据占比统计，我们需要先找出所有额外剩余通话 (流量) 时长的人数，然后除以总人数得到比例。对于数据数量统计，我们需要对套餐类型进行分组，然后计算每一类套餐的人数与总人数的占比。  &lt;img data-src=&#34;media/12775f06dfb0794d6032076e16723a25.png&#34; alt=&#34;&#34; /&gt;4、实验结果如下： 分析：使用 pandas 库来读取 csv 文件，需要对花萼数据进行排序并去重 drop_duplicates ()，计算和 sum ()、均值.mean ()、标准差 std ()、方差 var ()、最小值 min ()、最大值 max ()&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+        <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+        <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
+        <category term="数据清洗" scheme="http://rainyblue.cn/categories/Educational/python/Data-cleansing/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <updated>2024-05-27T11:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2024/05/27/Educational/python/Data-cleansing/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/</id>
         <title>数据清洗</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/27/Educational/python/Data-cleansing/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/"/>
@@ -1851,20 +1883,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
         <title>画廊邮报</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
@@ -1884,6 +1902,20 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
         <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
