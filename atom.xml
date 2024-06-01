@@ -218,7 +218,7 @@ Bob--&amp;gt;Alice: I am good thanks!
     </entry>
     <entry>
         <id>http://rainyblue.cn/2024/05/27/Educational/python/Web-crawlers/%E6%95%B0%E6%8D%AE%E7%88%AC%E8%99%AB/</id>
-        <title>数据爬虫</title>
+        <title>网络爬虫</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/27/Educational/python/Web-crawlers/%E6%95%B0%E6%8D%AE%E7%88%AC%E8%99%AB/"/>
         <content type="html">&lt;h1 id=&#34;课堂笔记&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课堂笔记&#34;&gt;#&lt;/a&gt; 课堂笔记&lt;/h1&gt;
 &lt;h2 id=&#34;读输入-字符串输出&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#读输入-字符串输出&#34;&gt;#&lt;/a&gt; 读输入、字符串输出&lt;/h2&gt;
@@ -410,7 +410,7 @@ Bob--&amp;gt;Alice: I am good thanks!
 &lt;figure class=&#34;highlight java&#34;&gt;&lt;figcaption data-lang=&#34;java&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;token import&#34;&gt;&lt;span class=&#34;token namespace&#34;&gt;java&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;util&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;Scanner&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;class&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Main&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;public&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;static&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;String&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; args&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token class-name&#34;&gt;Scanner&lt;/span&gt; in &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;new&lt;/span&gt; &lt;span class=&#34;token class-name&#34;&gt;Scanner&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;in&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token comment&#34;&gt;// 获得输入的整数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; fahrenheit &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; in&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;nextInt&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token comment&#34;&gt;// 计算摄氏度&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token keyword&#34;&gt;double&lt;/span&gt; centigrade &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;fahrenheit &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;32&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;9&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;/&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;5.0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token comment&#34;&gt;// 将浮点数转换为整数输出&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token class-name&#34;&gt;System&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;out&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;token function&#34;&gt;println&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;centigrade&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
-        <category term="Python网络爬虫" scheme="http://rainyblue.cn/categories/Educational/python/Python%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/" />
+        <category term="网络爬虫" scheme="http://rainyblue.cn/categories/Educational/python/Web-crawlers/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <updated>2024-05-27T11:10:00.000Z</updated>
     </entry>
@@ -859,18 +859,6 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
         <updated>2024-05-25T13:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</id>
-        <title>工作记录</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/"/>
-        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
- 工作记录&lt;br /&gt;
-:::&lt;/p&gt;
-&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
-</content>
-        <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
-        <updated>2024-05-25T12:46:25.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</id>
         <title>兴趣爱好</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/"/>
@@ -880,6 +868,18 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
 &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
 </content>
         <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
+        <updated>2024-05-25T12:46:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</id>
+        <title>工作记录</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/"/>
+        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
+ 工作记录&lt;br /&gt;
+:::&lt;/p&gt;
+&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
+</content>
+        <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <updated>2024-05-25T12:46:25.000Z</updated>
     </entry>
     <entry>
@@ -1851,6 +1851,20 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
         <title>画廊邮报</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
@@ -1870,20 +1884,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-</content>
-        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
         <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
