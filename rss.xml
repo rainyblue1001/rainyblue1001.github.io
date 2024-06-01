@@ -2861,14 +2861,14 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://rainyblue.cn/2020/08/13/computer-science/note/theme-shoka-doc/</guid>
+            <guid isPermalink="true">http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/</guid>
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
-            <link>http://rainyblue.cn/2020/08/13/computer-science/note/theme-shoka-doc/</link>
-            <category term="计算机科学" scheme="http://rainyblue.cn/categories/computer-science/" />
-            <category term="二进制杂谈" scheme="http://rainyblue.cn/categories/computer-science/note/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/computer-science/note/Theme-Shoka-Documentation/" />
+            <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/</link>
+            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
+            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
-            <category term="教程" scheme="http://rainyblue.cn/tags/%E6%95%99%E7%A8%8B/" />
+            <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;跳票 N 久终于更新的简单的使用说明&lt;/p&gt;
@@ -2958,7 +2958,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;h2 id=&#34;022-023&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#022-023&#34;&gt;#&lt;/a&gt; 0.2.2 👉 0.2.3&lt;/h2&gt;
 &lt;p&gt;❗ 增加主题文件外自定义语言包的功能，&lt;a href=&#34;display/#%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%AD%E8%A8%80%E5%8C%85&#34;&gt;配置戳此&lt;/a&gt;&lt;br /&gt;
 🔧 提高低版本浏览器兼容性&lt;/p&gt;
-&lt;h2 id=&#34;021-022&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#021-022&#34;&gt;#&lt;/a&gt; 0.2.1 👉 0.2.2&lt;/h2&gt;
+&lt;h2 id=&#34;xxxxxxxxxx-keywords-站点关键词用分隔feed-limit-20-order_by-date-tag_dir-false-category_dir-false-rss-enable-true-template-themesshokalayout_alternaterssejs-output-rssxml-atom-enable-true-template-themesshokalayout_alternateatomejs-output-atomxml-jsonfeed-enable-true-template-themesshokalayout_alternatejsonejs-output-feedjsonyml&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#xxxxxxxxxx-keywords-站点关键词用分隔feed-limit-20-order_by-date-tag_dir-false-category_dir-false-rss-enable-true-template-themesshokalayout_alternaterssejs-output-rssxml-atom-enable-true-template-themesshokalayout_alternateatomejs-output-atomxml-jsonfeed-enable-true-template-themesshokalayout_alternatejsonejs-output-feedjsonyml&#34;&gt;#&lt;/a&gt; xxxxxxxxxx keywords: #站点关键词，用 “,” 分隔​feed:    limit: 20    order_by: &amp;quot;-date&amp;quot;    tag_dir: false    category_dir: false    rss:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;        output: &amp;quot;rss.xml&amp;quot;    atom:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;        output: &amp;quot;atom.xml&amp;quot;    jsonFeed:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;        output: &amp;quot;feed.json&amp;quot;yml&lt;/h2&gt;
 &lt;p&gt;⚠️ 弃用 &lt;code&gt;mediumzoom&lt;/code&gt; ，改成 &lt;code&gt;fancybox&lt;/code&gt; ，&lt;a href=&#34;display/#%E5%9B%BE%E7%89%87%E5%B1%95%E7%A4%BA%E4%B8%8E%E7%9B%B8%E5%86%8C&#34;&gt;配置戳此&lt;/a&gt;&lt;br /&gt;
 💡  增加语言包： &lt;code&gt;繁体中文&lt;/code&gt; 和 &lt;code&gt;日语&lt;/code&gt; &lt;br /&gt;
 💡  quiz 功能优化，根据语言显示题型标签&lt;br /&gt;
