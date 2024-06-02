@@ -104,7 +104,7 @@
 &lt;/ul&gt;
 &lt;p&gt;宿主环境：&lt;/p&gt;
 &lt;p&gt;宿主环境（Host Environment）是指程序运行所依赖的环境。例如，iOS 系统和 Android 系统提供了两种不同的宿主环境，微信、微博等应用都需要依赖宿主环境才能运行，如下图所示。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213232570.png&#34; alt=&#34;image-20240602213232570&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3JhaW55Ymx1ZTEwMDEvaW1hZ2VAbWFpbi9pbWcvaW1hZ2UtMjAyNDA2MDIyMTMyMzI1NzAucG5n&#34;&gt;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213232570.png&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序可以跨平台，这是因为微信小程序并不是一个直接安装在 Android 系统或 iOS 系统中的应用，而是运行在微信客户端上的应用。微信客户端给微信小程序提供的环境就是微信小程序的宿主环境。&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213312205.png&#34; alt=&#34;image-20240602213312205&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的宿主环境为微信小程序提供了丰富的组件和 API（Application Program Interface，应用程序接口），具体解释如下：&lt;/p&gt;
