@@ -104,9 +104,9 @@
 &lt;/ul&gt;
 &lt;p&gt;宿主环境：&lt;/p&gt;
 &lt;p&gt;宿主环境（Host Environment）是指程序运行所依赖的环境。例如，iOS 系统和 Android 系统提供了两种不同的宿主环境，微信、微博等应用都需要依赖宿主环境才能运行，如下图所示。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL3JhaW55Ymx1ZTEwMDEvaW1hZ2VAbWFpbi9pbWcvaW1hZ2UtMjAyNDA2MDIyMTMyMzI1NzAucG5n&#34;&gt;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213232570.png&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213232570.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序可以跨平台，这是因为微信小程序并不是一个直接安装在 Android 系统或 iOS 系统中的应用，而是运行在微信客户端上的应用。微信客户端给微信小程序提供的环境就是微信小程序的宿主环境。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213312205.png&#34; alt=&#34;image-20240602213312205&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213312205.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的宿主环境为微信小程序提供了丰富的组件和 API（Application Program Interface，应用程序接口），具体解释如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;组件：用于快速搭建页面的结构。微信小程序的组件包括视图容器、基础内容、表单、导航、媒体、地图、画布、开放能力等。&lt;/li&gt;
@@ -1377,18 +1377,6 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
         <updated>2024-05-25T13:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</id>
-        <title>兴趣爱好</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/"/>
-        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
- 兴趣爱好&lt;br /&gt;
-:::&lt;/p&gt;
-&lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
-</content>
-        <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
-        <updated>2024-05-25T12:46:25.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</id>
         <title>工作记录</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/"/>
@@ -1398,6 +1386,18 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
 &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
 </content>
         <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
+        <updated>2024-05-25T12:46:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</id>
+        <title>兴趣爱好</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/"/>
+        <content type="html">&lt;p&gt;:::note info&lt;br /&gt;
+ 兴趣爱好&lt;br /&gt;
+:::&lt;/p&gt;
+&lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
+</content>
+        <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
         <updated>2024-05-25T12:46:25.000Z</updated>
     </entry>
     <entry>
@@ -2369,6 +2369,20 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
         <title>画廊邮报</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
@@ -2388,20 +2402,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-</content>
-        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2572384.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-2311325.jpg&#34; alt=&#34;Caption&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;/assets/wallpaper-878514.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://placehold.it/350x150.jpg&#34; alt=&#34;Small Picture&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
         <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
