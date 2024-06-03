@@ -225,7 +225,8 @@
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;span class=&#34;red&#34;&gt;图片资源地址 src 可以是本地路径或 URL 地址。如果使用本地路径，可以在项目中创建一个目录，例如 images 目录，并在该目录中放入图片，例如 test.jpg，然后通过本地路径 /images/test.jpg 即可引用图片。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;image 组件的 mode 属性用于指定图片的裁剪模式或缩放模式，常用的 mode 合法值&lt;/p&gt;
+&lt;p&gt;image 组件的 mode 属性用于指定图片的裁剪模式或缩放模式&lt;/p&gt;
+&lt;p&gt;常用的 mode 合法值：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -3619,6 +3620,25 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="日常类" scheme="http://rainyblue.cn/categories/Daily-Life/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/Daily-Life/photos/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/</id>
         <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/"/>
@@ -3763,25 +3783,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-</content>
-        <category term="日常类" scheme="http://rainyblue.cn/categories/Daily-Life/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/Daily-Life/photos/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
-&lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="日常类" scheme="http://rainyblue.cn/categories/Daily-Life/" />
         <category term="照片收藏" scheme="http://rainyblue.cn/categories/Daily-Life/photos/" />
