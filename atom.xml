@@ -108,13 +108,10 @@
 &lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603013158221.png&#34; alt=&#34;image-20240603013158221&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的宿主环境为微信小程序提供了丰富的组件和 API（Application Program Interface，应用程序接口），具体解释如下：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;组件：用于快速搭建页面的结构。微信小程序的组件包括视图容器、基础内容、表单、导航、媒体、地图、画布、开放能力等。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;API：用于让开发者方便地调用微信提供的功能，例如获取用户信息、微信登录、微信支付等。&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;组件：用于快速搭建页面的结构。微信小程序的组件包括视图容器、基础内容、表单、导航、媒体、地图、画布、开放能力等。&lt;/li&gt;
+&lt;li&gt;API：用于让开发者方便地调用微信提供的功能，例如获取用户信息、微信登录、微信支付等。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;...&lt;/p&gt;
 &lt;p&gt;#3. 微信小程序开发前准备&lt;/p&gt;
 &lt;p&gt;①注册微信小程序开发账号&lt;/p&gt;
 &lt;p&gt;②获取微信小程序 AppID&lt;/p&gt;
@@ -2372,6 +2369,25 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
         <title>画廊邮报</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
@@ -2391,25 +2407,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;/ul&gt;
 &lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-</content>
-        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
-&lt;/code&gt;&lt;/pre&gt;
 </content>
         <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
         <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
