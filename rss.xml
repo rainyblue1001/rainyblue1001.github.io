@@ -722,6 +722,22 @@
 &lt;p&gt;推广：在推广模块使用小程序流量主、广告主等功能。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;微信小程序的上线发布流程&lt;/p&gt;
+&lt;p&gt;一个微信小程序从开发完到发布上线，一般分为以下 3 个步骤：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;上传代码&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;打开微信小程序，在微信开发者工具的工具栏中单击 “上传” 按钮，页面中弹出提示框，根据提示填写相应的信息，然后单击 “上传” 按钮，即可上传代码。&lt;/p&gt;
+&lt;p&gt;登录微信小程序管理后台，在左侧边栏中单击 “版本管理”，即可进入版本管理页面，查看开发版本，即可查看刚才提交上传的版本。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;提交审核&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;单击 “提交审核” 按钮，根据页面提示信息进行操作，即可提交已上传的版本并进行审核。&lt;/p&gt;
+&lt;p&gt;提交审核后在审核版本中会出现正在审核的版本，审核需要一定时间，PPT 中不再演示。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;发布&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;审核通过后审核版本中将显示 “发布” 按钮，单击该按钮，即可完成微信小程序的发布。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
@@ -1606,18 +1622,6 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</guid>
-            <title>工作记录</title>
-            <link>http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</link>
-            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
-            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
- 工作记录&lt;br /&gt;
-:::&lt;/p&gt;
-&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</guid>
             <title>兴趣爱好</title>
             <link>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</link>
@@ -1627,6 +1631,18 @@ alt=&#34;IMAGE ALT TEXT HERE&#34; width=&#34;240&#34; height=&#34;180&#34; borde
  兴趣爱好&lt;br /&gt;
 :::&lt;/p&gt;
 &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</guid>
+            <title>工作记录</title>
+            <link>http://rainyblue.cn/2024/05/25/Work/%E7%A4%BE%E4%BC%9A%E8%AE%B0%E5%BD%95/</link>
+            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
+            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;:::note info&lt;br /&gt;
+ 工作记录&lt;br /&gt;
+:::&lt;/p&gt;
+&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
