@@ -105,9 +105,9 @@
 &lt;/ul&gt;
 &lt;p&gt;宿主环境：&lt;/p&gt;
 &lt;p&gt;宿主环境（Host Environment）是指程序运行所依赖的环境。例如，iOS 系统和 Android 系统提供了两种不同的宿主环境，微信、微博等应用都需要依赖宿主环境才能运行，如下图所示。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603013138291.png&#34; alt=&#34;image-20240603013138291&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145546412.png&#34; alt=&#34;image-20240603145546412&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序可以跨平台，这是因为微信小程序并不是一个直接安装在 Android 系统或 iOS 系统中的应用，而是运行在微信客户端上的应用。[微信客户端给微信小程序提供的环境就是微信小程序的宿主环境].{red}。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603013158221.png&#34; alt=&#34;image-20240603013158221&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145601465.png&#34; alt=&#34;image-20240603145601465&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的宿主环境为微信小程序提供了丰富的组件和 API（Application Program Interface，应用程序接口），具体解释如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;组件：用于快速搭建页面的结构。微信小程序的组件包括视图容器、基础内容、表单、导航、媒体、地图、画布、开放能力等。&lt;/li&gt;
@@ -141,7 +141,7 @@
 &lt;hr /&gt;
 &lt;h1 id=&#34;4微信小程序开发基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4微信小程序开发基础&#34;&gt;#&lt;/a&gt; 4. 微信小程序开发基础&lt;/h1&gt;
 &lt;p&gt;微信小程序项目创建完成后，微信开发者工具会自动创建微信小程序的项目结构&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602213916294.png&#34; alt=&#34;image-20240602213916294&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145645322.png&#34; alt=&#34;image-20240603145645322&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;pages：用于存放微信小程序的所有页面。&lt;/li&gt;
 &lt;li&gt;eslintrc.js：用于格式化代码，使代码风格保持一致。&lt;/li&gt;
@@ -161,7 +161,7 @@
 &lt;/ol&gt;
 &lt;p&gt;页面组成：&lt;/p&gt;
 &lt;p&gt;一个微信小程序是由一个或多个页面组成的，这些页面被存放在 pages 目录中。下面以 pages 目录下的 index 页面为例展示其组成部分，index 页面的组成部分如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602215238330.png&#34; alt=&#34;image-20240602215238330&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145704124.png&#34; alt=&#34;image-20240603145704124&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;index 页面由 4 个文件组成，分别是 index.js、index.json、index.wxml 和 index.wxss&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;JS：类似网页制作中的 JavaScript 语言，用于实现页面逻辑和交互，文件扩展名为.js。需要注意的是，微信小程序中的 JS 不含 DOM 和 BOM，但它提供了丰富的 API，可以实现许多特殊的功能，例如微信登录、音频播放、文件上传等。&lt;/li&gt;
@@ -186,7 +186,7 @@
 &lt;li&gt;第 1 部分是渲染层与逻辑层之间的通信，即将逻辑层的数据渲染到页面中&lt;/li&gt;
 &lt;li&gt;第 2 部分是逻辑层和第三方服务器之间的通信，即通过向第三方服务器发送请求，得到需要的数据。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602215956450.png&#34; alt=&#34;image-20240602215956450&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145720170.png&#34; alt=&#34;image-20240603145720170&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Native 表示微信客户端的底层，渲染层与逻辑层之间的通信和逻辑层与第三方服务器之间的通信都由微信客户端的底层进行转发。&lt;/p&gt;
 &lt;h1 id=&#34;5微信开发者工具的使用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5微信开发者工具的使用&#34;&gt;#&lt;/a&gt; 5. 微信开发者工具的使用&lt;/h1&gt;
 &lt;p&gt;菜单栏：&lt;/p&gt;
@@ -292,13 +292,13 @@
 &lt;/ul&gt;
 &lt;p&gt;项目设置 —— 基本信息的设置&lt;/p&gt;
 &lt;p&gt;在微信开发者工具中，选择菜单栏的 “设置”，然后选择 “项目设置”，将会弹出一个用于项目设置的选项卡，单击 “基本信息” 项，即可对项目的基本信息进行设置，如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602220813873.png&#34; alt=&#34;image-20240602220813873&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145752610.png&#34; alt=&#34;image-20240603145752610&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;项目设置 —— 性能分析&lt;/p&gt;
 &lt;p&gt;单击 “性能分析”，即可查看项目的线上数据和本地情况，供开发者有针对性地进行优化，如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602220925904.png&#34; alt=&#34;image-20240602220925904&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145808181.png&#34; alt=&#34;image-20240603145808181&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;项目设置 —— 本地设置&lt;/p&gt;
 &lt;p&gt;单击 “本地设置”，即可对项目进行本地设置，如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602220956302.png&#34; alt=&#34;image-20240602220956302&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145816962.png&#34; alt=&#34;image-20240603145816962&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;调试基础库：选择基础库的版本，用于在对应版本的微信客户端上运行。高版本的基础库无法兼容低版本的微信客户端。版本号后边的百分比表示该版本的用户占比。本书中使用的基础库的版本为 2.25.2。&lt;/p&gt;
@@ -324,7 +324,7 @@
 &lt;/ul&gt;
 &lt;p&gt;项目设置 —— 项目配置&lt;/p&gt;
 &lt;p&gt;单击 “项目配置”，即可查看项目的域名信息和高级配置，如图：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602221133566.png&#34; alt=&#34;image-20240602221133566&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145832542.png&#34; alt=&#34;image-20240603145832542&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;域名信息：用于显示项目的安全域名信息。&lt;/li&gt;
 &lt;li&gt;高级配置：用于显示代码包的大小、Tabbar 的个数等信息。&lt;/li&gt;
@@ -548,7 +548,7 @@
 &lt;hr /&gt;
 &lt;h1 id=&#34;6微信小程序的项目成员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#6微信小程序的项目成员&#34;&gt;#&lt;/a&gt; 6. 微信小程序的项目成员&lt;/h1&gt;
 &lt;p&gt;一般情况下，微信小程序中项目成员的组织结构如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602221253568.png&#34; alt=&#34;image-20240602221253568&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145851071.png&#34; alt=&#34;image-20240603145851071&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;项目管理者负责统筹整个项目的进展和风险，把控微信小程序对外发布上线的节奏。产品组、设计组、开发组和测试组之间相互配合，协调工作，共同完成微信小程序项目。&lt;/p&gt;
@@ -561,7 +561,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;微信小程序成员管理的示意图如下图所示：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240602221454230.png&#34; alt=&#34;image-20240602221454230&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/image-20240603145907869.png&#34; alt=&#34;image-20240603145907869&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;管理员可以添加或删除项目成员和体验成员，项目成员也可以添加或删除体验成员。&lt;/p&gt;
 &lt;p&gt;项目成员的权限&lt;/p&gt;
 &lt;p&gt;在一个微信小程序中，每个项目成员的权限各有不同，只有为每个项目成员分配了各自的权限，才能保证项目的正常进行。例如开发者有开发者权限、登录权限等，下面将介绍不同项目成员拥有的权限，具体如下表所示：&lt;/p&gt;
@@ -2611,31 +2611,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
-        <title>画廊邮报</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
-        <content type="html">&lt;p&gt;本帖包含 4 张照片&lt;br /&gt;
-宽屏壁纸&lt;br /&gt;
-人像照片&lt;br /&gt;
-双宽屏壁纸&lt;br /&gt;
-。小照片&lt;br /&gt;
-所有照片都应该正常显示。&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==&#34;&gt;来自 Wallbase.cc&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
-&lt;li&gt;Portrait photo&lt;/li&gt;
-&lt;li&gt;Dual widescreen wallpaper&lt;/li&gt;
-&lt;li&gt;Small photo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
-</content>
-        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2020/08/13/Daily-Life/images/</id>
         <title>照片</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/images/"/>
@@ -2777,6 +2752,31 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
         <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
         <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</id>
+        <title>画廊邮报</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/"/>
+        <content type="html">&lt;p&gt;本帖包含 4 张照片&lt;br /&gt;
+宽屏壁纸&lt;br /&gt;
+人像照片&lt;br /&gt;
+双宽屏壁纸&lt;br /&gt;
+。小照片&lt;br /&gt;
+所有照片都应该正常显示。&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==&#34;&gt;来自 Wallbase.cc&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Portrait photo&lt;/li&gt;
+&lt;li&gt;Dual widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Small photo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+        <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
         <updated>2020-08-13T12:45:48.000Z</updated>
     </entry>
     <entry>
