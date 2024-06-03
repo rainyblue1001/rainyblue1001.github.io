@@ -10,8 +10,166 @@
         </author>
         <description>All other pursuits are inferior, only studying is exalted.</description>
         <language>zh-CN</language>
-        <pubDate>Sun, 02 Jun 2024 14:09:27 +0800</pubDate>
-        <lastBuildDate>Sun, 02 Jun 2024 14:09:27 +0800</lastBuildDate>
+        <pubDate>Mon, 03 Jun 2024 15:03:28 +0800</pubDate>
+        <lastBuildDate>Mon, 03 Jun 2024 15:03:28 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/06/03/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-2/</guid>
+            <title>第二章：微信小程序页面制作</title>
+            <link>http://rainyblue.cn/2024/06/03/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-2/</link>
+            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+            <category term="微信小程序" scheme="http://rainyblue.cn/categories/Educational/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/" />
+            <category term="微信小程序" scheme="http://rainyblue.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/" />
+            <pubDate>Mon, 03 Jun 2024 15:03:28 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;若想开发一个微信小程序，首先应学习如何进行页面制作，也就是学习如何搭建微信小程序的页面结构并实现美观的页面样式效果。为了使初学者快速掌握微信小程序的页面制作，本章将从微信小程序常用组件、页面样式等方面进行详细讲解。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;1wxml简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1wxml简介&#34;&gt;#&lt;/a&gt; 1.WXML 简介&lt;/h1&gt;
+&lt;p&gt;了解 WXML 的概念，能够说出 WXML 的特点、WXML 与 HTML 的区别&lt;/p&gt;
+&lt;h2 id=&#34;11-wxml&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#11-wxml&#34;&gt;#&lt;/a&gt; 1.1 WXML&lt;/h2&gt;
+&lt;p&gt;概念：在制作微信小程序页面时，页面的结构可以用 WXML 来实现。WXML 是微信团队为微信小程序开发而设计的一套语言，可以结合微信小程序中的各种组件构建页面结构。&lt;/p&gt;
+&lt;p&gt;WXML 与 HTML 的区别&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;HTML 和 WXML 使用的标签不同。例如，HTML 经常使用&lt;div&gt;标签搭建页面结构，而 WXML 则使用&lt;view&gt;标签搭建页面结构；HTML 经常使用&lt;span&gt;标签定义行内文本 ，而 WXML 则使用&lt;text&gt;标签定义行内文本 。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WXML 提供了和 Vue.js 中模板语法类似的模板语法，例如数据绑定、列表渲染、条件渲染等，而 HTML 中没有。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;HTML 页面可以在浏览器中预览，而 WXML 页面仅能在微信客户端和微信开发者工具中预览。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WXML 中的单标签必须在结尾 “&amp;gt;” 前面加上 “/”，否则微信开发者工具会报语法错误，而 HTML 中允许省略单标签 “&amp;gt;” 前面的 “/”。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;WXML 中所使用的标签是微信小程序定义的标签，应避免使用 HTML 标签，这样才能保证页面被正确转译。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;12wxss&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#12wxss&#34;&gt;#&lt;/a&gt; 1.2WXSS&lt;/h2&gt;
+&lt;p&gt;概念：在微信小程序的页面制作中，使用 WXML 搭建页面结构以后，也需要设置样式来美化页面。微信小程序提供了一套类似 CSS 的语言 WXSS，通过 WXSS 可以美化页面样式。&lt;/p&gt;
+&lt;p&gt;WXSS 与 CSS 的区别&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不同的手机屏幕分辨率不同，如果用 CSS 中的 px 单位，会遇到屏幕适配的问题，需要手动进行像素单位换算。而微信小程序提供了一个新的单位 rpx，使用 rpx 单位可以很轻松地适配各种手机屏幕。&lt;/li&gt;
+&lt;li&gt;在微信小程序中，项目根目录中的 app.wxss 文件作为全局样式，会作用于当前微信小程序的所有页面，而局部页面的 WXSS 样式仅对当前页面生效，CSS 则没有这样的功能。&lt;/li&gt;
+&lt;li&gt;在 WXSS 中设置背景图片的时候，可以使用网络图片或者以 Base64 格式编码的图片，不能使用本地图片，例如，“background-image:url (&#39;/images/1.png&#39;); ” 是无效的，而 CSS 可以使用本地图片来设置背景图片。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;常用组件&lt;/p&gt;
+&lt;p&gt;概念：微信小程序页面和普通网页都是通过标签来定义页面结构的，但是在微信小程序开发中，更习惯将这些标签称为组件，这些组件自带微信风格的 UI 样式和特定功能效果。微信小程序提供了丰富的组件，通过组合这些组件可以进行高效开发。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;组件&lt;/th&gt;
+&lt;th&gt;功能&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;view&lt;/td&gt;
+&lt;td&gt;视图容器&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;video&lt;/td&gt;
+&lt;td&gt;视频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;text&lt;/td&gt;
+&lt;td&gt;文本&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;checkbox&lt;/td&gt;
+&lt;td&gt;复选框&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;button&lt;/td&gt;
+&lt;td&gt;按钮&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;radio&lt;/td&gt;
+&lt;td&gt;单选按钮&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;image&lt;/td&gt;
+&lt;td&gt;图片&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;input&lt;/td&gt;
+&lt;td&gt;输入框&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;form&lt;/td&gt;
+&lt;td&gt;表单&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;audio&lt;/td&gt;
+&lt;td&gt;音频&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;页面路径配置&lt;/p&gt;
+&lt;p&gt;开发一个功能完整的微信小程序时，一般需要制作多个页面。&lt;/p&gt;
+&lt;p&gt;在微信小程序中可以通过 app.json 全局配置文件中的 pages 配置项来配置微信小程序的页面路径。pages 配置项是一个数组，该数组用于指定微信小程序由哪些页面组成，数组中的每一个元素都对应一个页面的路径信息。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;quot;pages&amp;quot;: [
+  &amp;quot;pages/index/index&amp;quot;,
+  &amp;quot;pages/logs/logs&amp;quot;
+],
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;上述代码中共配置了两个页面，分别是 pages/index/index 页面和 pages/logs/logs 页面。默认情况下，pages 数组中的第一项为微信小程序的初始页面，即 pages/index/index 页面。如果想将其他页面设置为初始页面，读者可以手动调整数组中元素的顺序，将需要设为初始页面的页面路径设为第一项即可。&lt;/p&gt;
+&lt;p&gt;pages/index/index 中的 pages 表示存放页面的目录，index/index 中第一个 index 表示 index 目录，第二个 index 表示文件名。 同理，pages/logs/logs 中的 pages 表示存放页面的目录，logs/logs 中第一 logs 表示 logs 目录，第二个 logs 表示文件名。&lt;/p&gt;
+&lt;p red=&#34;&#34;&gt;[文件名不需要写后缀名，以 pages/index/index 页面为例，配置成功后，微信开发者工具会自动生成 index.wxml 文件、index.wxss 文件、index.js 文件和 index.json 文件].&lt;/p&gt;
+&lt;p&gt;创建新页面的方法&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过 pages 数组中新增一项来新增页面
+&lt;ul&gt;
+&lt;li&gt;如果需要在微信小程序中创建一个新的页面，可以在 app.json 文件的 pages 数组中增加一项新页面的信息，微信开发者工具会创建对应的页面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;通过项目资源管理器新增页面
+&lt;ul&gt;
+&lt;li&gt;通过在微信开发者工具的项目资源管理器的 pages 目录下右键单击鼠标，选择 “新建 Page” 来创建页面，微信开发者工具会自动在 app.json 文件中添加对应的路径。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p red=&#34;&#34;&gt;[如果对页面文件直接进行删除操作，则不会触发代码的自动更新效果，需要手动修改 app.json 文件中的 pages 数组].&lt;/p&gt;
+&lt;p&gt;view 组件&lt;/p&gt;
+&lt;p&gt;在 HTML 中，&lt;div&gt;标签可以定义文档中的分区或节，把文档分割为独立的、不同的部分，在 WXML 中，view 组件起着类似的作用。view 组件表示视图容器，常用于实现页面的布局效果。&lt;/p&gt;
+&lt;p&gt;view 组件通过&lt;view&gt;标签定义，示例代码如下。&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;view&amp;gt;view组件&amp;lt;/view&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;view 组件提供了一些属性，用于实现特殊的效果。&lt;/p&gt;
+&lt;p&gt;view 组件的常用属性：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;属性&lt;/th&gt;
+&lt;th&gt;类型&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;hover-class&lt;/td&gt;
+&lt;td&gt;string&lt;/td&gt;
+&lt;td&gt;指定手指按下去的样式。当该属性值为 none 时，没有点击态。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hover-stop-propagation&lt;/td&gt;
+&lt;td&gt;boolean&lt;/td&gt;
+&lt;td&gt;指定是否阻止本节点的祖先节点出现点击态。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hover-start-time&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;手指按住后多久出现点击态，单位为毫秒。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;hover-stay-time&lt;/td&gt;
+&lt;td&gt;number&lt;/td&gt;
+&lt;td&gt;手指松开后点击态保留时间，单位为毫秒。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p red=&#34;&#34;&gt;[点击态是指手指在屏幕上按下时的状态].&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/06/02/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-1/</guid>
             <title>第一章：小程序入门</title>
@@ -2614,6 +2772,31 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;keywords&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;#站点关键词，用 “,” 分隔&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token key atrule&#34;&gt;feed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;limit&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;20&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;order_by&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;-date&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;tag_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;category_dir&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;false&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;rss&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/rss.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;rss.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;atom&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/atom.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;atom.xml&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token key atrule&#34;&gt;jsonFeed&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;enable&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token boolean important&#34;&gt;true&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;template&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;themes/shoka/layout/_alternate/json.ejs&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token key atrule&#34;&gt;output&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;feed.json&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</guid>
+            <title>画廊邮报</title>
+            <link>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</link>
+            <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
+            <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
+            <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;本帖包含 4 张照片&lt;br /&gt;
+宽屏壁纸&lt;br /&gt;
+人像照片&lt;br /&gt;
+双宽屏壁纸&lt;br /&gt;
+。小照片&lt;br /&gt;
+所有照片都应该正常显示。&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==&#34;&gt;来自 Wallbase.cc&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Portrait photo&lt;/li&gt;
+&lt;li&gt;Dual widescreen wallpaper&lt;/li&gt;
+&lt;li&gt;Small photo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://rainyblue.cn/2020/08/13/Daily-Life/images/</guid>
             <title>照片</title>
             <link>http://rainyblue.cn/2020/08/13/Daily-Life/images/</link>
@@ -2755,31 +2938,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 💡  弃用 Velocity，改用 anime.js，方便未来添加更多&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;花里胡哨的&lt;/span&gt;功能&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;严重拖慢页面滑行速度&lt;/span&gt;&lt;br /&gt;
 🔧 新增多枚 icon，包括豆瓣 &lt;code&gt;i-douban&lt;/code&gt;  等&lt;br /&gt;
 🔧 一些显示问题&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</guid>
-            <title>画廊邮报</title>
-            <link>http://rainyblue.cn/2020/08/13/Daily-Life/gallery-post/</link>
-            <category term="生活类" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/" />
-            <category term="照片收藏" scheme="http://rainyblue.cn/categories/%E7%94%9F%E6%B4%BB%E7%B1%BB/%E7%85%A7%E7%89%87%E6%94%B6%E8%97%8F/" />
-            <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;本帖包含 4 张照片&lt;br /&gt;
-宽屏壁纸&lt;br /&gt;
-人像照片&lt;br /&gt;
-双宽屏壁纸&lt;br /&gt;
-。小照片&lt;br /&gt;
-所有照片都应该正常显示。&lt;br /&gt;
-&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3huLS1XYWxsYmFzZS1vczdxczUzcy5jYw==&#34;&gt;来自 Wallbase.cc&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;This post contains 4 photos:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Widescreen wallpaper&lt;/li&gt;
-&lt;li&gt;Portrait photo&lt;/li&gt;
-&lt;li&gt;Dual widescreen wallpaper&lt;/li&gt;
-&lt;li&gt;Small photo&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;All photos should be displayed properly.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dhbGxiYXNlLmNj&#34;&gt;Wallbase.cc&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
