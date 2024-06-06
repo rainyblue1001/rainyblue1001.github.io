@@ -10,9 +10,41 @@
         </author>
         <description>Only studying is exalted.</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 05 Jun 2024 14:09:27 +0800</pubDate>
-        <lastBuildDate>Wed, 05 Jun 2024 14:09:27 +0800</lastBuildDate>
+        <pubDate>Thu, 06 Jun 2024 12:00:00 +0800</pubDate>
+        <lastBuildDate>Thu, 06 Jun 2024 12:00:00 +0800</lastBuildDate>
         <category term="Shoka" />
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/06/06/Educational/python/Data-cleansing/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/</guid>
+            <title>数据分析复习提纲</title>
+            <link>http://rainyblue.cn/2024/06/06/Educational/python/Data-cleansing/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97/</link>
+            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+            <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
+            <category term="数据清洗" scheme="http://rainyblue.cn/categories/Educational/python/Data-cleansing/" />
+            <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+            <pubDate>Thu, 06 Jun 2024 12:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;一-考试题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-考试题型&#34;&gt;#&lt;/a&gt; 一、考试题型&lt;/h1&gt;
+&lt;p&gt;1、选择题（不定项，Numpy、Pandas、可视化、Sklearn）  20 分&lt;/p&gt;
+&lt;p&gt;2、简答题（Numpy、Pandas）             10 分&lt;/p&gt;
+&lt;p&gt;3、分析题（根据题目要求绘制项目聚类或分类流程图）  10 分&lt;/p&gt;
+&lt;p&gt;4、综合应用题（分类、聚类、回归）          60 分&lt;/p&gt;
+&lt;h2 id=&#34;二-考试内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-考试内容&#34;&gt;#&lt;/a&gt; 二、考试内容&lt;/h2&gt;
+&lt;h3 id=&#34;1-numpy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-numpy&#34;&gt;#&lt;/a&gt; 1、Numpy&lt;/h3&gt;
+&lt;p&gt;（1）Numpy 两大对象及特点&lt;/p&gt;
+&lt;p&gt;（2）Series 组成&lt;/p&gt;
+&lt;p&gt;（3）Numpy 数组的属性&lt;/p&gt;
+&lt;p&gt;（4）Numpy 生成数组、矩阵的常用函数、矩阵转置&lt;/p&gt;
+&lt;h3 id=&#34;2-pandas&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-pandas&#34;&gt;#&lt;/a&gt; 2、Pandas&lt;/h3&gt;
+&lt;p&gt;（1）Pandas 作用&lt;/p&gt;
+&lt;p&gt;（2）重复值、缺失值处理函数及方法&lt;/p&gt;
+&lt;p&gt;（3）Pandas 数据结构及特点&lt;/p&gt;
+&lt;p&gt;（4）读写 CSV 数据的相关函数&lt;/p&gt;
+&lt;p&gt;（5）数据合并&lt;/p&gt;
+&lt;h3 id=&#34;3-可视化库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-可视化库&#34;&gt;#&lt;/a&gt; 3、可视化库&lt;/h3&gt;
+&lt;p&gt;绘制画布、常用图表、坐标轴的函数。&lt;/p&gt;
+&lt;h3 id=&#34;4-sklearn应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-sklearn应用&#34;&gt;#&lt;/a&gt; 4、Sklearn 应用&lt;/h3&gt;
+&lt;p&gt;APP 用户群体划分、二手手机价格预测、客户服装尺寸预测、钻石价格预测。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/06/05/Educational/ruanjian/2023%E5%B9%B4%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2/</guid>
             <title>2023年软件项目管理复习提纲</title>
