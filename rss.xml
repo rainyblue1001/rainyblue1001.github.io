@@ -3220,21 +3220,21 @@ Bob--&amp;gt;Alice: I am good thanks!
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</guid>
-            <title>工作记录</title>
-            <link>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</link>
-            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
-            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</guid>
             <title>兴趣爱好</title>
             <link>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</link>
             <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
             <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</guid>
+            <title>工作记录</title>
+            <link>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</link>
+            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
+            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
@@ -3303,8 +3303,7 @@ Bob--&amp;gt;Alice: I am good thanks!
             <title>Step.4 主题特殊功能</title>
             <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/special/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
             <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
@@ -3868,8 +3867,7 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <title>Step.3 界面显示</title>
             <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/display/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
             <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 21:12:48 +0800</pubDate>
@@ -4012,8 +4010,7 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
             <title>Step.2 基本配置</title>
             <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/config/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
             <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 20:56:48 +0800</pubDate>
@@ -4174,8 +4171,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
             <title>Step.1 依赖插件</title>
             <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/dependents/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
             <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 20:46:48 +0800</pubDate>
@@ -4293,8 +4289,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
             <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
             <link>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/" />
-            <category term="Theme Shoka Documentation" scheme="http://rainyblue.cn/categories/Educational/Shoka%E6%95%99%E7%A8%8B/Theme-Shoka-Documentation/" />
+            <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
             <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
             <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
             <pubDate>Thu, 13 Aug 2020 20:45:48 +0800</pubDate>
