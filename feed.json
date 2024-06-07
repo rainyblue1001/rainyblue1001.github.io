@@ -33,9 +33,9 @@
         {
             "id": "http://rainyblue.cn/2024/06/04/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-3/",
             "url": "http://rainyblue.cn/2024/06/04/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-3/",
-            "title": "微信小程序开发-3",
+            "title": "第三章：微信小程序页面交互",
             "date_published": "2024-06-04T02:50:24.000Z",
-            "content_html": "<figure class=\"highlight markdown\"><figcaption data-lang=\"markdown\"></figcaption><table><tr><td data-num=\"1\"></td><td><pre>项目经理</pre></td></tr><tr><td data-num=\"2\"></td><td><pre>├── 产品经理</pre></td></tr><tr><td data-num=\"3\"></td><td><pre>│   └── 数据分析师</pre></td></tr><tr><td data-num=\"4\"></td><td><pre>├── 技术主管</pre></td></tr><tr><td data-num=\"5\"></td><td><pre>│   ├── 后端开发工程师</pre></td></tr><tr><td data-num=\"6\"></td><td><pre>│   ├── 前端开发工程师</pre></td></tr><tr><td data-num=\"7\"></td><td><pre>│   └── 移动应用开发工程师</pre></td></tr><tr><td data-num=\"8\"></td><td><pre>│       ├── iOS开发工程师</pre></td></tr><tr><td data-num=\"9\"></td><td><pre>│       └── Android开发工程师</pre></td></tr><tr><td data-num=\"10\"></td><td><pre>├── UI/UX设计师</pre></td></tr><tr><td data-num=\"11\"></td><td><pre>└── 质量保证工程师</pre></td></tr><tr><td data-num=\"12\"></td><td><pre>    └── 运维工程师</pre></td></tr></table></figure><p>项目经理 ├── 产品经理 │   └── 数据分析师 ├── 技术主管 │   ├── 后端开发工程师 │   ├── 前端开发工程师 │   └── 移动应用开发工程师 │       ├── iOS 开发工程师 │       └── Android 开发工程师 ├── UI/UX 设计师 └── 质量保证工程师    └── 运维工程师</p>\n",
+            "content_html": "<p>通过第 2 章的学习，读者已可以在微信小程序项目中实现页面结构和样式效果，但是这些页面并不能进行交互。在实际的微信小程序项目中，用户是可以与微信小程序页面发生交互的，即可以通过触摸、长按等操作实现各种各样的功能。本章将对微信小程序页面交互的相关知识进行详细讲解。</p>\n",
             "tags": [
                 "学习类",
                 "微信小程序开发",

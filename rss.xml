@@ -1248,13 +1248,13 @@
         </item>
         <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/06/04/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-3/</guid>
-            <title>微信小程序开发-3</title>
+            <title>第三章：微信小程序页面交互</title>
             <link>http://rainyblue.cn/2024/06/04/Educational/weixin/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BC%80%E5%8F%91-3/</link>
             <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
             <category term="微信小程序开发" scheme="http://rainyblue.cn/categories/Educational/weixin/" />
             <category term="微信小程序" scheme="http://rainyblue.cn/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/" />
             <pubDate>Tue, 04 Jun 2024 10:50:24 +0800</pubDate>
-            <description><![CDATA[ &lt;figure class=&#34;highlight markdown&#34;&gt;&lt;figcaption data-lang=&#34;markdown&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;项目经理&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;├── 产品经理&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│   └── 数据分析师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;├── 技术主管&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│   ├── 后端开发工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│   ├── 前端开发工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│   └── 移动应用开发工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│       ├── iOS开发工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;│       └── Android开发工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;├── UI/UX设计师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;└── 质量保证工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    └── 运维工程师&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;项目经理 ├── 产品经理 │   └── 数据分析师 ├── 技术主管 │   ├── 后端开发工程师 │   ├── 前端开发工程师 │   └── 移动应用开发工程师 │       ├── iOS 开发工程师 │       └── Android 开发工程师 ├── UI/UX 设计师 └── 质量保证工程师    └── 运维工程师&lt;/p&gt;
+            <description><![CDATA[ &lt;p&gt;通过第 2 章的学习，读者已可以在微信小程序项目中实现页面结构和样式效果，但是这些页面并不能进行交互。在实际的微信小程序项目中，用户是可以与微信小程序页面发生交互的，即可以通过触摸、长按等操作实现各种各样的功能。本章将对微信小程序页面交互的相关知识进行详细讲解。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
