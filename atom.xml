@@ -675,7 +675,7 @@ c-16-25.333-24-45-24-59z&#39;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/spa
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;自定义文件名&lt;/th&gt;
+&lt;th&gt;xxxxxxxxxx feed:    limit: 20    order_by: &amp;quot;-date&amp;quot;    tag_dir: false    category_dir: false    rss:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/rss.ejs&amp;quot;        output: &amp;quot;rss.xml&amp;quot;    atom:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/atom.ejs&amp;quot;        output: &amp;quot;atom.xml&amp;quot;    jsonFeed:        enable: true        template: &amp;quot;themes/shoka/layout/_alternate/json.ejs&amp;quot;        output: &amp;quot;feed.json&amp;quot;yml&lt;/th&gt;
 &lt;th&gt;对应默认样式文件&lt;/th&gt;
 &lt;th&gt;样式功能&lt;/th&gt;
 &lt;/tr&gt;
@@ -4074,11 +4074,11 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;h1 id=&#34;7习题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#7习题&#34;&gt;#&lt;/a&gt; 7. 习题&lt;/h1&gt;
 &lt;h2 id=&#34;一-填空题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-填空题&#34;&gt;#&lt;/a&gt; 一、 填空题&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;微信小程序是运行在！！&lt;strong&gt; 微信&lt;/strong&gt;！！之上的应用。&lt;/li&gt;
+&lt;li&gt;微信小程序是运行在  &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;微信&lt;/span&gt;  之上的应用。&lt;/li&gt;
 &lt;li&gt;微信小程序开发完成后需要通过 “上传” 按钮将代码上传到！！小程序管理后台！！。&lt;/li&gt;
-&lt;li&gt;微信小程序项目中的  &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;app.json&lt;/span&gt;  文件是全局配置文件。&lt;/li&gt;
-&lt;li&gt;微信开发者工具中用于保存文件的快捷键是 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;ctrl +s&lt;/span&gt; 。&lt;/li&gt;
-&lt;li&gt;在微信小程序中，每个页面由 4 个文件组成，分别是 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXML&lt;/span&gt; 文件、 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXSS&lt;/span&gt; 文件、&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;JSON&lt;/span&gt; 文件和 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;JS&lt;/span&gt; 文件&lt;/li&gt;
+&lt;li&gt;微信小程序项目中的！！app.json !!  文件是全局配置文件。&lt;/li&gt;
+&lt;li&gt;微信开发者工具中用于保存文件的快捷键是！！ctrl +s !! 。&lt;/li&gt;
+&lt;li&gt;在微信小程序中，每个页面由 4 个文件组成，分别是 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXML&lt;/span&gt; 文件、 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXSS&lt;/span&gt; 文件、&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;JSON&lt;/span&gt; 文件和！！JS  !! 文件&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;二-判断题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-判断题&#34;&gt;#&lt;/a&gt; 二、 判断题&lt;/h2&gt;
 &lt;ol&gt;
@@ -4089,7 +4089,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;li class=&#34;quiz true&#34;&gt;项目成员表示参与微信小程序开发、运行的成员。（ ）&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;三、 选择题&lt;/p&gt;
-&lt;p class=&#34;quiz&#34;&gt;1. 下列选项中，关于微信小程序说法错误的是（ ）{.gap}。&lt;/p&gt;
+&lt;p class=&#34;quiz&#34;&gt;1. 下列选项中，关于微信小程序说法错误的是（ ）{.gap} 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;微信小程序是运行在微信之中应用&lt;/p&gt;
@@ -4105,7 +4105,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;2. 下列选项中，不属于微信小程序特点的是（ ）。&lt;/p&gt;
+&lt;p class=&#34;quiz&#34;&gt;2. 下列选项中，不属于微信小程序特点的是（ ）{.gap} 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;无须安装&lt;/p&gt;
@@ -4121,7 +4121,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;3. 下列选项中，用于在微信开发者工具中输出调试信息的面板是（ ）。&lt;/p&gt;
+&lt;p class=&#34;quiz&#34;&gt;3. 下列选项中，用于在微信开发者工具中输出调试信息的面板是（ ）{.gap} 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Wxml&lt;/p&gt;
@@ -4137,7 +4137,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;4. 下列选项中，关于微信小程序项目目录结构说法错误的是（ ）。&lt;/p&gt;
+&lt;p class=&#34;quiz&#34;&gt;4. 下列选项中，关于微信小程序项目目录结构说法错误的是（ ）{.gap} 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;pages 目录用于存放所有微信小程序的页面&lt;/p&gt;
@@ -4153,7 +4153,7 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;p&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;5. 下列选项中，关于微信开发者工具说法错误的是（ ）。&lt;/p&gt;
+&lt;p class=&#34;quiz&#34;&gt;5. 下列选项中，关于微信开发者工具说法错误的是（ ）{.gap} 。&lt;/p&gt;
 &lt;ul class=&#34;options&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;工具栏 “预览” 按钮用于在微信中进行预览&lt;/p&gt;
@@ -4417,21 +4417,21 @@ Bob--&amp;gt;Alice: I am good thanks!
         <updated>2024-05-25T13:46:25.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</id>
-        <title>工作记录</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/"/>
-        <content type="html">&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
-</content>
-        <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
-        <updated>2024-05-25T12:46:25.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</id>
         <title>兴趣爱好</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/"/>
         <content type="html">&lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
 </content>
         <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
+        <updated>2024-05-25T12:46:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</id>
+        <title>工作记录</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/"/>
+        <content type="html">&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
+</content>
+        <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <updated>2024-05-25T12:46:25.000Z</updated>
     </entry>
     <entry>
