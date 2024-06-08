@@ -3220,21 +3220,21 @@ Bob--&amp;gt;Alice: I am good thanks!
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</guid>
-            <title>工作记录</title>
-            <link>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</link>
-            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
-            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</guid>
             <title>兴趣爱好</title>
             <link>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</link>
             <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
             <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</guid>
+            <title>工作记录</title>
+            <link>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</link>
+            <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
+            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
@@ -3359,11 +3359,11 @@ Bob--&amp;gt;Alice: I am good thanks!
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
-          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001@master/images/avatar.jpg&#34;&gt;&lt;/span&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;霜月琉璃&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001.github.io@latest/images/avatar.jpg&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
-          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001@master/images/404.png&#34;&gt;&lt;/span&gt;
+          &lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#9d5b8b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001.github.io@latest/images/404.png&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;琉璃的医学 &amp; 编程笔记&lt;/p&gt;
@@ -3701,7 +3701,7 @@ H&lt;sub&gt;2&lt;/sub&gt;0&lt;br /&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/details&gt;
 &lt;details class=&#34;success&#34;&gt;&lt;summary&gt;绿色&lt;/summary&gt;&lt;div&gt;
-&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001@master/images/404.png&#34;&gt;&lt;/span&gt;
+&lt;div class=&#34;links&#34;&gt;&lt;div class=&#34;item&#34; title=&#34;優萌初華&#34; style=&#34;--block-color:#e9546b;&#34;&gt;&lt;span class=&#34;exturl image&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34; data-background-image=&#34;//cdn.jsdelivr.net/gh/rainyblue1001/rainyblue1001.github.io@latest/images/404.png&#34;&gt;&lt;/span&gt;
           &lt;div class=&#34;info&#34;&gt;
           &lt;span class=&#34;exturl title&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWU=&#34;&gt;優萌初華&lt;/span&gt;
           &lt;p class=&#34;desc&#34;&gt;https://shoka.lostyu.me&lt;/p&gt;
