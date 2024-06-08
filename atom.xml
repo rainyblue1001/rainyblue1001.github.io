@@ -4260,6 +4260,28 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <updated>2020-08-13T12:46:48.000Z</updated>
     </entry>
     <entry>
+        <id>http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/</id>
+        <title>照片</title>
+        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/"/>
+        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;assets/wallpaper-2572384.jpg&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;assets/wallpaper-2572384.jpg
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="日常类" scheme="http://rainyblue.cn/categories/Daily-Life/" />
+        <category term="照片收藏" scheme="http://rainyblue.cn/categories/Daily-Life/photos/" />
+        <updated>2020-08-13T12:45:48.000Z</updated>
+    </entry>
+    <entry>
         <id>http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/</id>
         <title>Hexo主题Shoka &amp; multi-markdown-it渲染器使用说明</title>
         <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Educational/theme-shoka/theme-shoka-doc/"/>
@@ -4381,28 +4403,6 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
         <category term="Shoka教程" scheme="http://rainyblue.cn/categories/Educational/shoka-theme/" />
         <category term="Hexo" scheme="http://rainyblue.cn/tags/Hexo/" />
         <category term="shoka" scheme="http://rainyblue.cn/tags/shoka/" />
-        <updated>2020-08-13T12:45:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/</id>
-        <title>照片</title>
-        <link rel="alternate" href="http://rainyblue.cn/2020/08/13/Daily-Life/photos/images/"/>
-        <content type="html">&lt;p&gt;This is a image test post.&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg&#34; alt=&#34;7 (2)&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![7 (2)](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(2).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(3).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%2520(3).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;![](https://cdn.jsdelivr.net/gh/rainyblue1001/image@main/img/7%20(18).jpg)
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;assets/wallpaper-2572384.jpg&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;assets/wallpaper-2572384.jpg
-&lt;/code&gt;&lt;/pre&gt;
-</content>
-        <category term="日常类" scheme="http://rainyblue.cn/categories/Daily-Life/" />
-        <category term="照片收藏" scheme="http://rainyblue.cn/categories/Daily-Life/photos/" />
         <updated>2020-08-13T12:45:48.000Z</updated>
     </entry>
 </feed>
