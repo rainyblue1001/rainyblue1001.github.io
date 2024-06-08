@@ -4075,10 +4075,10 @@ PS：jsDelivr 并不是实时更新，重新生成文件后需要耐心等待&lt
 &lt;h2 id=&#34;一-填空题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-填空题&#34;&gt;#&lt;/a&gt; 一、 填空题&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;微信小程序是运行在！！&lt;strong&gt; 微信&lt;/strong&gt;！！之上的应用。&lt;/li&gt;
-&lt;li&gt;微信小程序开发完成后需要通过 “上传” 按钮将代码上传到！！&lt;strong&gt; 小程序管理后台&lt;/strong&gt;！！。&lt;/li&gt;
-&lt;li&gt;微信小程序项目中的！！&lt;strong&gt;app.json&lt;/strong&gt;!! 文件是全局配置文件。&lt;/li&gt;
-&lt;li&gt;微信开发者工具中用于保存文件的快捷键是！！&lt;strong&gt;ctrl +s&lt;/strong&gt;!!。&lt;/li&gt;
-&lt;li&gt;在微信小程序中，每个页面由 4 个文件组成，分别是！！&lt;strong&gt;WXML&lt;/strong&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt; 文件、&lt;/span&gt;&lt;strong&gt;WXSS&lt;/strong&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt; 文件、&lt;/span&gt;&lt;strong&gt;JSON&lt;/strong&gt;!! 文件和 JS 文件&lt;/li&gt;
+&lt;li&gt;微信小程序开发完成后需要通过 “上传” 按钮将代码上传到！！小程序管理后台！！。&lt;/li&gt;
+&lt;li&gt;微信小程序项目中的  &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;app.json&lt;/span&gt;  文件是全局配置文件。&lt;/li&gt;
+&lt;li&gt;微信开发者工具中用于保存文件的快捷键是 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;ctrl +s&lt;/span&gt; 。&lt;/li&gt;
+&lt;li&gt;在微信小程序中，每个页面由 4 个文件组成，分别是 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXML&lt;/span&gt; 文件、 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXSS&lt;/span&gt; 文件、&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;JSON&lt;/span&gt; 文件和 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;JS&lt;/span&gt; 文件&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;二-判断题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-判断题&#34;&gt;#&lt;/a&gt; 二、 判断题&lt;/h2&gt;
 &lt;ol&gt;
