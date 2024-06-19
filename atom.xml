@@ -1100,13 +1100,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;微信小程序开发完成后需要通过 “上传” 按钮将代码上传到______。&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;小程序管理后台&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序开发完成后，需要通过 “上传” 按钮将代码上传到微信小程序的开发者平台，即&lt;span class=&#34;red&#34;&gt;小程序管理后台&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;微信小程序项目中的______文件是全局配置文件。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1169,32 +1167,29 @@
 &lt;p&gt;三、选择题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于微信小程序说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于微信小程序说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. 微信小程序是运行在微信之中应用&lt;/p&gt;
 &lt;p&gt;B. 微信小程序的体积非常小&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C. 微信小程序不可以跨平台&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D. 通过 “扫一扫” 或 “搜一搜” 即可打开对应的微信小程序&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C. 微信小程序不可以跨平台&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;这一说法是错误的，因为微信小序本身是基于微信平台的，但通过跨平台开发工具如 uni-app，可以实现代码一次编写，多端运行，从而达到跨平台的效果。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，不属于微信小程序特点的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，不属于微信小程序特点的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. 无须安装            B. 无须卸载              &lt;strong&gt;C. 体积大&lt;/strong&gt;              D. 入口丰富&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C. 体积大&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;特点：无须安装、触手可及、用完即走、无须卸载、名称唯一、入口丰富、传播能力强&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，用于在微信开发者工具中输出调试信息的面板是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，用于在微信开发者工具中输出调试信息的面板是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.Wxml&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;B.Console&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;C.Sources&lt;/p&gt;
 &lt;p&gt;D.Network&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B.Console&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Wxml：Wxml 面板，用于查看和调试 WXML 和 WXSS。&lt;/p&gt;
 &lt;p&gt;Console：控制台面板，用于输出调试信息，也可以直接编写代码执行。&lt;/p&gt;
 &lt;p&gt;Sources：源代码面板，用于显示当前项目的脚本文件，在该面板中开发者看到的文件是经过处理之后的脚本文件。&lt;/p&gt;
@@ -1202,26 +1197,24 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于微信小程序项目目录结构说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于微信小程序项目目录结构说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A.pages 目录用于存放所有微信小程序的页面&lt;/p&gt;
 &lt;p&gt;B.app.wxss 文件定义了微信小程序项目的全局样式&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D.app.js 文件是微信小程序项目的入口文件&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的全局配置文件是&lt;strong&gt; app.json&lt;/strong&gt;，而不是&lt;strong&gt; sitemap.json&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;app.json 是&lt;strong&gt;全局配置文件&lt;/strong&gt;，主要用于配置小程序的全局属性、页面路径、窗口样式等。&lt;/p&gt;
 &lt;p&gt;sitemap.json 是&lt;strong&gt;页面配置文件&lt;/strong&gt;，用于配置小程序的页面路径、页面的标题、页面是否允许分享等。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于微信开发者工具说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于微信开发者工具说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. 工具栏 “预览” 按钮用于在微信中进行预览&lt;/p&gt;
 &lt;p&gt;B. 菜单栏中 “文件” 项的主要作用是新建文件、保存文件或关闭文件等&lt;/p&gt;
 &lt;p&gt;C. 模拟器可以模拟小程序在微信客户端的运行效果&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;D. 编辑器中只能打开一个文件&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D. 编辑器中只能打开一个文件&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信开发者工具的编辑器支持同时打开和切换多个文件，以便于开发者进行多任务编辑和查看。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
@@ -1248,31 +1241,37 @@
 &lt;li&gt;
 &lt;p&gt;image 组件的____属性用于设置图片的展示模式。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;mode&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;red&#34;&gt;image 组件的 mode 属性用于指定图片的裁剪模式或缩放模式&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;swiper 组件内部只可以放置____组件。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;swiper-item&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;swiper 组件内部需要嵌套 swiper-item 组件，swiper-item 组件表示滑块视图内容&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在 Flex 布局中， ____属性能够设置项目在主轴方向的排列方式。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;justify-content 设置排列方式         flex-direction 设置主轴方向&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;justify-content&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;justify-content 设置排列方式&lt;/p&gt;
+&lt;p&gt;flex-direction 设置主轴方向&lt;/p&gt;
 &lt;p&gt;justify-content 定义了项目在主轴上的对齐方式，默认值为 flex-start，即项目在主轴方向上，与主轴起始位置对齐&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;text 组件的 ____属性用于实现长按选中文本内容的效果。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;user-select&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;user-select 文本是否可选，该属性会使文本节点显示为 inline-block&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在实现底部标签栏时，tabBar 配置项应在 ____文件中设置。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;app.json&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;red&#34;&gt;在微信小程序的全局配置文件 app.json 中添加 tabBar 配置项即可实现标签栏配置。&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
@@ -1280,26 +1279,26 @@
 &lt;p&gt;二、判断题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;给父元素设置 display:flex 后，可以使用 flex 的相关属性，例如通过 flex-direction 属性设置主轴方向。（ ）&lt;/p&gt;
+&lt;p&gt;给父元素设置 display:flex 后，可以使用 flex 的相关属性，例如通过 flex-direction 属性设置主轴方向。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;flex-direction 决定主轴的方向（即项目的排列方向），默认值为 row，即主轴为从左到右的水平方向，项目按照主轴方向排列&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;微信小程序中样式文件为 WXSS 文件，只支持 rpx 一种尺寸单位。（ ）&lt;/p&gt;
+&lt;p&gt;微信小程序中样式文件为 WXSS 文件，只支持 rpx 一种尺寸单位。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;微信小程序中的样式文件是 WXSS 文件，但是支持多种尺寸单位，包括 rpx、px、vw、vh 等&lt;/p&gt;
 &lt;p&gt;rpx（Responsive Pixel，自适应像素）。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;swiper 组件可以实现页面的轮播图效果。（ ）&lt;/p&gt;
+&lt;p&gt;swiper 组件可以实现页面的轮播图效果。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;swiper 组件表示滑块视图容器，用于创建一块可以滑动的区域。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;video 组件专门用于播放音频。（ ）&lt;/p&gt;
+&lt;p&gt;video 组件专门用于播放音频。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;video    视频&lt;/p&gt;
 &lt;p&gt;audio   音频&lt;/p&gt;
@@ -1309,7 +1308,7 @@
 &lt;p&gt;三、选择题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，用于配置微信小程序所有的页面地址的文件是（ ）&lt;/p&gt;
+&lt;p&gt;下列选项中，用于配置微信小程序所有的页面地址的文件是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）&lt;/p&gt;
 &lt;p&gt;A. app.js&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;B. app.json&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;C. app.wxss&lt;/p&gt;
@@ -1319,12 +1318,13 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，不属于表单组件的是（ ）&lt;/p&gt;
+&lt;p&gt;下列选项中，不属于表单组件的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）&lt;/p&gt;
 &lt;p&gt;A. input 组件&lt;/p&gt;
 &lt;p&gt;B. checkbox 组件&lt;/p&gt;
 &lt;p&gt;C. form 组件&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;D. swiper 组件&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;常见表单组件如下：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1367,11 +1367,11 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;D.swiper 组件表示滑块视图容器，用于创建一块可以滑动的区域&lt;/p&gt;
+&lt;p&gt;swiper 组件表示滑块视图容器，用于创建一块可以滑动的区域&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，不属于 Flex 布局的是（ ）&lt;/p&gt;
+&lt;p&gt;下列选项中，不属于 Flex 布局的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）&lt;/p&gt;
 &lt;p&gt;A.  display:flex;&lt;/p&gt;
 &lt;p&gt;B.   flex:1;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C.   float:left;&lt;/strong&gt;&lt;/p&gt;
@@ -1385,9 +1385,10 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，app.json 文件中的 tabBar 配置项最多允许的页数为（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，app.json 文件中的 tabBar 配置项最多允许的页数为（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A. 3              B. 4                  &lt;strong&gt;C. 5&lt;/strong&gt;                    D. 6&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;在微信小程序的全局配置文件 app.json 中添加 tabBar 配置项即可实现标签栏配置。&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;red&#34;&gt; 标签栏数量：微信小程序中的标签栏分为顶部标签栏和底部标签栏，标签数量一般在 2~5 个之间。&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
@@ -1396,7 +1397,7 @@
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;简述 WXML 和 HTML 的区别。&lt;/p&gt;
-&lt;p&gt;①  HTML 和 WXML 使用的标签不同。例如，HTML 经常使用&lt;div&gt;标签搭建页面结构，而 WXML 则使用&lt;view&gt;标签搭建页面结构；HTML 经常使用&lt;span&gt;标签定义行内文本 ，而 WXML 则使用&lt;text&gt;标签定义行内文本 。&lt;/p&gt;
+&lt;p&gt;①  HTML 和 WXML 使用的标签不同。例如，HTML 经常使用 &amp;lt;div&amp;gt; 标签搭建页面结构，而 WXML 则使用 &amp;lt; view &amp;gt; 标签搭建页面结构；HTML 经常使用 &amp;lt; span &amp;gt; 标签定义行内文本 ，而 WXML 则使用 &amp;lt; text &amp;gt; 标签定义行内文本 。&lt;/p&gt;
 &lt;p&gt;②  WXML 提供了和 Vue.js 中模板语法类似的模板语法，例如数据绑定、列表渲染、条件渲染等，而 HTML 中没有。&lt;/p&gt;
 &lt;p&gt;③  HTML 页面可以在浏览器中预览，而 WXML 页面仅能在微信客户端和微信开发者工具中预览。&lt;/p&gt;
 &lt;p&gt;④  WXML 中的单标签必须在结尾 “&amp;gt;” 前面加上 “/”，否则微信开发者工具会报语法错误，而 HTML 中允许省略单标签 “&amp;gt;” 前面的 “/”。&lt;/p&gt;
@@ -1419,24 +1420,28 @@
 &lt;li&gt;
 &lt;p&gt;在页面结构渲染过程中，通过____控制属性完成页面的条件渲染。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx:if&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;条件渲染通过标签的 wx:if 控制属性来完成&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在列表渲染中，通过____控制属性可以循环数组中的每一项。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx:for&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;列表渲染通过 wx:for 控制属性来实现。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在列表渲染中，使用____可以指定当前项的变量名。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx:for-item&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;在 wx:for 控制属性所在标签的内部，可以使用 item 变量获取当前项的值，使用 index 变量获取当前项的数组索引或对象属性名。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在 JS 文件中，通过____ 获取 data-* 自定义属性的值。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;e.target.dataset&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;data-* 自定义属性的属性值表示要传参的数据。&lt;/p&gt;
 &lt;p&gt;在事件处理函数中通过 target 或 currentTarget 对象的 dataset 属性可以获取数据。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1444,6 +1449,7 @@
 &lt;li&gt;
 &lt;p&gt;在微信小程序中，页面加载完成后执行的生命周期函数为 ____。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;onReady()&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;onLoad () : 监听页面加载，且一个页面只会在创建完成后触发一次&lt;/p&gt;
 &lt;p&gt;onShow (): 监听页面显示，只要页面显示就会触发此函数&lt;/p&gt;
 &lt;p&gt;onReady (): 监听页面初次渲染完成，一个页面只会调用一次&lt;/p&gt;
@@ -1455,21 +1461,21 @@
 &lt;p&gt;二、判断题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;在微信小程序中，可以通过 data-* 自定义属性来进行传参。（ ）&lt;/p&gt;
+&lt;p&gt;在微信小程序中，可以通过 data-* 自定义属性来进行传参。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;微信小程序可以通过自定义属性来进行传参。&lt;/p&gt;
 &lt;p&gt;data-* 自定义属性的属性值表示要传参的数据。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;‌所有绑定的数据都必须在 data 中进行初始化。（ ）&lt;/p&gt;
+&lt;p&gt;‌所有绑定的数据都必须在 data 中进行初始化。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;绝大多数情况下，页面上需要动态显示或操作的数据确实需要在对应的 JavaScript 文件中的 page 实例的 data 属性里定义和初始化，但也存在一些特例情况&lt;/p&gt;
 &lt;p&gt;对于那些不经常变化或者不需要动态响应式更新的数据，可能会选择直接在 WXML 文件中硬编码，而不是在 data 中定义&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;设置 enablePullDownRefresh 为 false 时，表示禁止下拉。（ ）&lt;/p&gt;
+&lt;p&gt;设置 enablePullDownRefresh 为 false 时，表示禁止下拉。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;onPullDownRefresh () : 监听用户下拉刷新事件&lt;/p&gt;
 &lt;p&gt;启用下拉刷新的方式:&lt;/p&gt;
@@ -1478,14 +1484,14 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;通过调用 wx.request () 方法可以发起网络请求。（ ）&lt;/p&gt;
+&lt;p&gt;通过调用 wx.request () 方法可以发起网络请求。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;客户端与服务器进行交互时，客户端请求服务器的过程称为网络请求。&lt;/p&gt;
 &lt;p&gt;在微信小程序中发起网络请求可以通过调用 wx.request () 方法来实现。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;通过调用 wx.showLoading () 方法可以弹出加载提示框。（ ）&lt;/p&gt;
+&lt;p&gt;通过调用 wx.showLoading () 方法可以弹出加载提示框。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在微信小程序中，如果想实现点击一个按钮弹出一个提示框的效果，可以使用以下 2 种方式。&lt;/p&gt;
 &lt;p&gt;①wx.showLoading () 方法&lt;/p&gt;
@@ -1496,12 +1502,13 @@
 &lt;p&gt;三、选择题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于列表渲染说法正确的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于列表渲染说法正确的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.   wx:for-index 可以用于重新定义当前项的变量名&lt;/p&gt;
 &lt;p&gt;B.   在列表渲染中，可以使用 item 变量获取当前项的值&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C.   wx:for 可以用于实现页面中的列表渲染&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D.   wx:for-item 可以用于设置当前索引变量的属性名&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;答案 BC 应该都是对的，但老师给的答案是选 B&lt;/p&gt;
 &lt;p&gt;A. 错误：wx:for-index 确实用于重新定义当前项索引变量的名字，默认情况下是 index，例如 wx:for-index=&amp;quot;idx&amp;quot;，但题目描述的是 “当前项的变量名”，这是错误的，应为 item。&lt;/p&gt;
 &lt;p&gt;B. 正确：在列表渲染中，使用 wx:for-item=&amp;quot;item&amp;quot; 可以定义一个变量来获取当前项的值，然后在 wxml 模板中通过访问当前项的内容。&lt;/p&gt;
 &lt;p&gt;C. 正确：wx:for 指令可以用于实现页面中的列表渲染，其基本语法格式是 wx:for=&amp;quot;&amp;quot;。&lt;/p&gt;
@@ -1509,7 +1516,7 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，用于监听页面初次渲染成功的回调函数是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，用于监听页面初次渲染成功的回调函数是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. onHide             B. onLoad                C. onShow             &lt;strong&gt;D. onReady&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;onLoad () : 监听页面加载，且一个页面只会在创建完成后触发一次&lt;/p&gt;
@@ -1520,7 +1527,7 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，可以在 wx:for 中指定当前项索引的变量名的一项是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，可以在 wx:for 中指定当前项索引的变量名的一项是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A. wx:for-i&lt;/p&gt;
 &lt;p&gt;B.  wx:for-j&lt;/p&gt;
 &lt;p&gt;C.  wx:for-item&lt;/p&gt;
@@ -1532,7 +1539,7 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，wx.showToast () 函数的参数属性中包含的回调函数有（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，wx.showToast () 函数的参数属性中包含的回调函数有（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A.  title、icon 和 mask&lt;/p&gt;
 &lt;p&gt;B.  success、fail 和 title&lt;/p&gt;
 &lt;p&gt;C.  duration、mask 和 success&lt;/p&gt;
@@ -1550,7 +1557,7 @@
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，将页面的 JS 文件中定义的数据绑定到页面上的语法是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，将页面的 JS 文件中定义的数据绑定到页面上的语法是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;A&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A.  &lt;code&gt;&amp;#123;&amp;#123; &amp;#125;&amp;#125;&lt;/code&gt; &lt;/strong&gt;             B.   &lt;code&gt;[]&lt;/code&gt;           C.  &lt;code&gt;&amp;#123; &amp;#125;&lt;/code&gt;        D.  &lt;code&gt;[[]]&lt;/code&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;微信小程序提供了 Mustache 语法（又称为双大括号语法）用于实现数据绑定，可将 data 中的数据通过 Mustache 语法输出到页面上。&lt;/p&gt;
@@ -1591,24 +1598,28 @@
 &lt;li&gt;
 &lt;p&gt;上传文件的 API 是  ____。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx.uploadFile()&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序提供了文件上传 API，使用文件上传 API 可以在微信小程序中发起一个 POST 请求，将本地资源上传到服务器。通过调用 wx.uploadFile () 方法即可使用文件上传 API。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;下载文件的 API 是 ___。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx.downloadFile()&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序提供了文件下载 API，使用文件下载 API 可以实现文件下载功能。通过调用 wx.downloadFile () 方法即可使用文件下载 API。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;scroll-view 组件可以实现 ___ 效果。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;滚动&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;在微信小程序中，可以通过 scroll-view 组件来实现滚动效果，它支持横向滚动和纵向滚动，默认是不滚动的，需要通过 scroll-x 和 scroll-y 属性允许横向和纵向滚动。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在 scroll-view 组件中，用  ___ 属性用于设置横向滚动条的位置。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;scroll-left&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;scroll-x: 允许横向滚动，默认值为 false&lt;br /&gt;
 scroll-y: 允许纵向滚动，默认值为 false&lt;br /&gt;
 scroll-top: 设置竖向滚动条的位置，默认值为空，类型：number/string&lt;br /&gt;
@@ -1620,10 +1631,11 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;在 slider 组件的属性中，___ 属性用于设置进度条的最大值。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;max&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;在微信小程序中，通过 slider 组件可以定义一个滑动选择器。&lt;/p&gt;
 &lt;p&gt;slider 组件的常用属性:&lt;/p&gt;
 &lt;p&gt;min: 进度条的最小值，默认值为 0&lt;/p&gt;
-&lt;p&gt;min: 进度条的最大值，默认值为 100&lt;/p&gt;
+&lt;p&gt;max: 进度条的最大值，默认值为 100&lt;/p&gt;
 &lt;p&gt;step：步长，取值大于 0，可被 max-min 整除，默认值为 1&lt;/p&gt;
 &lt;p&gt;value：当前取值，默认为 0&lt;/p&gt;
 &lt;p&gt;activeColor：已选择的颜色，默认值为 #1aad19&lt;/p&gt;
@@ -1636,7 +1648,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;p&gt;二、 判断题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;在 canvas 组件中，canvas-id 属性是其唯一标识符。（ ）&lt;/p&gt;
+&lt;p&gt;在 canvas 组件中，canvas-id 属性是其唯一标识符。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;canvas 组件可用于自定义绘制图形，该组件支持 2D 和 WebGL 的绘图。&lt;/p&gt;
 &lt;p&gt;canvas 组件的常用属性如下表：&lt;/p&gt;
@@ -1699,26 +1711,26 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;在 &amp;lt;slider&amp;gt; 组件上添加 bindchanging=&amp;quot;sliderChanging&amp;quot; 后，当滑块被拖曳时就会执行 sliderChanging () 事件处理函数。（ ）&lt;/p&gt;
+&lt;p&gt;在 &amp;lt;slider&amp;gt; 组件上添加 bindchanging=&amp;quot;sliderChanging&amp;quot; 后，当滑块被拖曳时就会执行 sliderChanging () 事件处理函数。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;bindchange: 完成一次拖曳后触发的事件&lt;/p&gt;
 &lt;p&gt;bindchanging: 拖曳过程中触发的事件&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;canvas 组件将 type 属性值设置为 2D 表示使用 Canvas 2D 接口。（ ）&lt;/p&gt;
+&lt;p&gt;canvas 组件将 type 属性值设置为 2D 表示使用 Canvas 2D 接口。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;  ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;type 指定 canvas 组件的类型，支持 2D 和 WebGL&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;文件上传 API 使用的方法是 wx.uploadFile ()。（ ）&lt;/p&gt;
+&lt;p&gt;文件上传 API 使用的方法是 wx.uploadFile ()。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;微信小程序提供了文件上传 API，调用 wx.uploadFile () 方法即可使用文件上传 API。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;通过调用 wx.previewImage () 方法可以使用选择媒体 API。（ ）&lt;/p&gt;
+&lt;p&gt;通过调用 wx.previewImage () 方法可以使用选择媒体 API。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;通过调用 wx.chooseMedia () 方法即可使用选择媒体 API，该方法执行后，会提示用户拍摄图片或视频，或从手机相册中选择图片或视频。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1727,7 +1739,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;p&gt;三、选择题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，用于滑动选择某一个值的组件是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，用于滑动选择某一个值的组件是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. view&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;B. slider&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;C. input&lt;/p&gt;
@@ -1737,7 +1749,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列 BackgroundAudioManager 实例的方法中，可以将音乐跳转到指定位置的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列 BackgroundAudioManager 实例的方法中，可以将音乐跳转到指定位置的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A. stop()&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;B. seek()&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;C. pause()&lt;/p&gt;
@@ -1750,19 +1762,20 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列关于 canvas 组件的说法中，错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列关于 canvas 组件的说法中，错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;A&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A. CSS 动画对 canvas 组件无效&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;B. canvas-id 是 canvas 组件的唯一标识符&lt;/p&gt;
 &lt;p&gt;C. canvas 组件用于自定义绘制图形&lt;/p&gt;
 &lt;p&gt;D. 在同一个页面中，canvas-id 是唯一的&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;CSS 动画和&lt;canvas&gt;元素的结合使用可以创建复杂的视觉效果。然而，&lt;canvas&gt;是一个基于 JavaScript 的图形绘制工具，它不直接支持 CSS 动画。你需要使用 JavaScript 配合&lt;canvas&gt;来实现动画。&lt;/p&gt;
+&lt;p&gt;CSS 动画和 &amp;lt;canvas&amp;gt; 元素的结合使用可以创建复杂的视觉效果。&lt;/p&gt;
+&lt;p&gt;然而，&amp;lt;canvas&amp;gt; 是一个基于 JavaScript 的图形绘制工具，它不直接支持 CSS 动画。你需要使用 JavaScript 配合 &amp;lt; canvas &amp;gt; 来实现动画。&lt;/p&gt;
 &lt;p&gt;canvas-id:canvas 组件的唯一标识符，若指定了 type 属性则无须再指定该属性&lt;/p&gt;
 &lt;p&gt;canvas 组件可用于自定义绘制图形，该组件支持 2D 和 WebGL 的绘图。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于 wx.getRecorderManager () 方法说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于 wx.getRecorderManager () 方法说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. start () 方法表示开始录音&lt;/p&gt;
 &lt;p&gt;B. pause () 方法表示暂停录音&lt;br /&gt;
  C. resume () 方法表示继续录音&lt;/p&gt;
@@ -1794,6 +1807,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;从本地缓存中异步获取指定 key 的内容使用 ____ 方法。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx.getStorage()&lt;/span&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -1829,6 +1843,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;微信小程序通过 ____ 方法获取登录凭证 code。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx.login()&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序提供了登录 API，调用 wx.login () 方法获取用户登录凭证 code&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1866,6 +1881,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;微信接口服务返回的信息中， ____   是用户的会话密钥，需要存储在开发者服务器中。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;session_key&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;调用 login () 方法，获取到 login code 和 session，并且 session 中包含 session_key 和 openid，说明用户登录凭证 code 验证成功。&lt;/p&gt;
 &lt;p&gt;session_key 是用户的会话密钥，需要存储在开发者服务器中。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1873,6 +1889,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;map 组件中地图视野发生变化时触发  ____  事件。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;bindregionchange&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;map 组件可以为用户提供地图功能。map 组件可以在页面中显示地图，并且支持移动、缩放、添加标记点等功能。&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1920,6 +1937,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;在 Animation 实例的常用方法中，  ____  用于导出动画队列。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;export()&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;export (): 导出动画队列。export () 方法每次调用后会清掉之前的动画操作&lt;/p&gt;
 &lt;p&gt;scale: 缩放&lt;/p&gt;
 &lt;p&gt;translate：平移变化&lt;/p&gt;
@@ -1929,6 +1947,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;微信小程序通过   ____ 方法创建一个 WebSocket 连接。&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;wx.connetcWebSocket&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;WebSocket API：允许服务器主动向微信小程序发送消息。&lt;/p&gt;
 &lt;p&gt;通过 wx.connectSocket () 方法可以创建一个 WebSocket 连接&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1936,53 +1955,57 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;li&gt;
 &lt;p&gt;微信小程序通过   ____ 方法可以通过 WebSocket 发送数据。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;send()&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;send()&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;微信小程序通过  &lt;code&gt;socket.send()&lt;/code&gt;  方法可以通过 WebSocket 发送数据。在微信小程序中建立 WebSocket 连接后，可以使用 &lt;code&gt;send&lt;/code&gt;  函数来发送数据&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;微信小程序通过  ____  方法监听 WebSocket 接收到服务器的消息事件。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;onMessage()&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;onMessage()&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;微信小程序通过  &lt;code&gt;wx.onSocketMessage&lt;/code&gt;  方法监听 WebSocket 接收到服务器的消息事件。当 WebSocket 接收到服务器发送的数据时，这个回调函数会被触发。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;二、判断题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;在微信小程序中，调用 wx.login () 方法可以获取临时登录凭证 code。（ ）&lt;/p&gt;
+&lt;p&gt;在微信小程序中，调用 wx.login () 方法可以获取临时登录凭证 code。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;微信小程序提供了登录 API，调用 wx.login () 方法获取用户登录凭证 code&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;同一个微信用户在 AppID 不同的微信小程序中的 openid 是不同的。（ ）&lt;/p&gt;
+&lt;p&gt;同一个微信用户在 AppID 不同的微信小程序中的 openid 是不同的。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;openid 是用户在某个小程序中的唯一标识，而当开发者拥有多个小程序时，同一个微信用户在不同的小程序中的 openid 是不一样的。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;openid 是微信小程序的唯一标识。（ ）&lt;/p&gt;
+&lt;p&gt;openid 是微信小程序的唯一标识。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在单个小程序内，openid 确实是该用户的唯一标识，但如果跨小程序来看，就不能说 openid 是唯一的，因为它在不同小程序中会有所不同。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;使用 wx.setStorageSync () 方法可以将数据同步存储在本地缓存指定的 key 中。（ ）&lt;/p&gt;
+&lt;p&gt;使用 wx.setStorageSync () 方法可以将数据同步存储在本地缓存指定的 key 中。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;  ）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;使用 &lt;code&gt;wx.setStorageSync()&lt;/code&gt;  方法可以将数据同步存储在本地缓存指定的 key 中，这也是正确的。这个方法用于在本地同步地设置或获取数据，非常适合用来保存一些简单的配置信息或用户的登录态。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;animation.export () 方法每次调用后仍保留之前的动画操作。（ ）&lt;/p&gt;
+&lt;p&gt;animation.export () 方法每次调用后仍保留之前的动画操作。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;至于 &lt;code&gt;animation.export()&lt;/code&gt;  方法，每次调用后确实会保留之前的动画操作。这意味着如果在链式调用中多次修改了动画，这些修改都会累积并应用到最终的动画效果中。因此，这个说法也是正确的。&lt;/p&gt;
+&lt;p&gt;微信小程序的 API 设计， &lt;code&gt;animation.export()&lt;/code&gt;  方法每次调用后并不会保留之前的动画操作。&lt;/p&gt;
+&lt;p&gt;相反， &lt;code&gt;export&lt;/code&gt;  方法每次调用后会清掉之前的动画操作。&lt;/p&gt;
+&lt;p&gt;这意味着如果你想要创建一个新的动画序列或者更新现有动画，你需要重新初始化和配置动画实例。这是为了确保动画数据的更新能够正确反映最新的动画设置，避免动画状态的混乱。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;三、选择题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，用于实现非标签页之间的跳转的方法是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，用于实现非标签页之间的跳转的方法是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;A&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A.  wx.navigateTo()&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;B.   wx.navigate()&lt;/p&gt;
 &lt;p&gt;C.   wx.navigatorTo()&lt;/p&gt;
@@ -1992,7 +2015,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于 map 组件属性说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于 map 组件属性说法错误的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.  longitude 为中心经度&lt;/p&gt;
 &lt;p&gt;B.   scale 为缩放级别，取值范围为 1~20&lt;/p&gt;
 &lt;p&gt;C.   latitude 为中心纬度&lt;/p&gt;
@@ -2005,7 +2028,7 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于 openid 的说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于 openid 的说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A.  openid 是用户的唯一标识&lt;/p&gt;
 &lt;p&gt;B.   openid 不等同于微信用户 id&lt;/p&gt;
 &lt;p&gt;C.   同一个微信用户在不同 AppID 的微信小程序中的 openid 是不同的&lt;/p&gt;
@@ -2017,20 +2040,17 @@ scroll-with-animation: 在设置滚动条位置时是否使用动画过渡，默
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于 marker 对象的属性说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于 marker 对象的属性说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A.  title 标注点名称&lt;/p&gt;
 &lt;p&gt;B.   zIndex 表示显示层级&lt;/p&gt;
 &lt;p&gt;C.   alpha 表示标注的透明度&lt;/p&gt;
 &lt;p&gt;D.  userInfo 表示用户信息对象&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;A.title 标注点名称&lt;/p&gt;
-&lt;p&gt;B.zIndex 表示显示层级&lt;/p&gt;
-&lt;p&gt;C.alpha 表示标注的透明度都是正确的说法。&lt;/p&gt;
 &lt;p&gt;D.userInfo 不是 marker 对象的属性，而是部分地图 API 中提供的一种用于保存用户信息的参数，可以通过自定义属性来实现类似功能。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;下列选项中，关于数据缓存说法错误的是（ ）。&lt;/p&gt;
+&lt;p&gt;下列选项中，关于数据缓存说法错误的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.  wx.getStorage () 方法用于从本地缓存中异步获取指定 key 内容&lt;/p&gt;
 &lt;p&gt;B.   wx.removeStorageSync () 方法用于以异步的方式从本地缓存中移除指定 key&lt;/p&gt;
 &lt;p&gt;C.   wx.setStorage () 方法用于将数据异步存储在本地缓存指定的 key&lt;/p&gt;
@@ -6049,43 +6069,6 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
         <updated>2024-06-08T08:22:51.000Z</updated>
     </entry>
     <entry>
-        <id>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</id>
-        <title>数据分析复习提纲</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/"/>
-        <content type="html">&lt;p&gt;应对期末考试，对本学期《Python 数据分析与应用》课程学习的内容进行复习。该文件为本次考试复习提纲！&lt;/p&gt;
- &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;一-考试题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-考试题型&#34;&gt;#&lt;/a&gt; 一、考试题型&lt;/h1&gt;
-&lt;p&gt;1、选择题（不定项，Numpy、Pandas、可视化、Sklearn）  20 分&lt;/p&gt;
-&lt;p&gt;2、简答题（Numpy、Pandas）             10 分&lt;/p&gt;
-&lt;p&gt;3、分析题（根据题目要求绘制项目聚类或分类流程图）  10 分&lt;/p&gt;
-&lt;p&gt;读取 &amp;gt; 预处理（缺）&amp;gt; 划分（横、纵）&amp;gt; 标准化 &amp;gt; 分聚回 &amp;gt; 评价&lt;/p&gt;
-&lt;p&gt;4、综合应用题（分类、聚类、回归）          60 分&lt;/p&gt;
-&lt;h1 id=&#34;二-考试内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-考试内容&#34;&gt;#&lt;/a&gt; 二、考试内容&lt;/h1&gt;
-&lt;h2 id=&#34;1-numpy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-numpy&#34;&gt;#&lt;/a&gt; 1、Numpy&lt;/h2&gt;
-&lt;p&gt;（1）Numpy 两大对象及特点&lt;/p&gt;
-&lt;p&gt;（2）Series 组成&lt;/p&gt;
-&lt;p&gt;（3）Numpy 数组的属性&lt;/p&gt;
-&lt;p&gt;（4）Numpy 生成数组、矩阵的常用函数、矩阵转置&lt;/p&gt;
-&lt;h2 id=&#34;2-pandas&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-pandas&#34;&gt;#&lt;/a&gt; 2、Pandas&lt;/h2&gt;
-&lt;p&gt;（1）Pandas 作用&lt;/p&gt;
-&lt;p&gt;（2）重复值、缺失值处理函数及方法&lt;/p&gt;
-&lt;p&gt;（3）Pandas 数据结构及特点&lt;/p&gt;
-&lt;p&gt;（4）读写 CSV 数据的相关函数&lt;/p&gt;
-&lt;p&gt;（5）数据合并&lt;/p&gt;
-&lt;h2 id=&#34;3-可视化库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-可视化库&#34;&gt;#&lt;/a&gt; 3、可视化库&lt;/h2&gt;
-&lt;p&gt;绘制画布、常用图表、坐标轴的函数。&lt;/p&gt;
-&lt;h2 id=&#34;4-sklearn应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-sklearn应用&#34;&gt;#&lt;/a&gt; 4、Sklearn 应用&lt;/h2&gt;
-&lt;p&gt;APP 用户群体划分、二手手机价格预测、客户服装尺寸预测、钻石价格预测。&lt;/p&gt;
-</content>
-        <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-        <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
-        <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
-        <updated>2024-06-06T04:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_code/</id>
         <title>数据分析简答题与代码题</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_code/"/>
@@ -6453,6 +6436,43 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
 &lt;p&gt;(5) 划分训练集和测试集，并对训练集和测试集进行标准差标准化。&lt;/p&gt;
 &lt;p&gt;(6) 构建 SVR 等至少两种回归模型进行钻石价格预测，并输出回归模型评价指标，查看模型效果。&lt;/p&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; pandas &lt;span class=&#34;token keyword&#34;&gt;as&lt;/span&gt; pd&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 读取数据集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; pd&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;read_csv&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;data/diamond_price.csv&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; encoding&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;gbk&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#预处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;drop&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;X(length)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                              &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Y(width)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                              &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Z(Depth)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;index&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;reset_index&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;inplace&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token boolean&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; drop&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token boolean&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;price_RMB&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Price(in US dollars)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;6.50&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;shape&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 拆分数据和标签&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_data &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;iloc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_target &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;iloc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 特征列选择&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# from  sklearn.linear_model import  Lasso&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# data_train = (diamond_data-diamond_data.mean())/diamond_data.std()&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# lasso = Lasso(alpha=1000).fit(data_train,diamond_target)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# print(lasso.coef_)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# diamond_data = diamond.iloc[:, [0,1,2,3]]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 划分训练集和测试集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;model_selection &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; train_test_split&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_test &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;train_test_split&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; test_size&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;random_state&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# # 标准差标准化&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;preprocessing &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; StandardScaler&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;stdScale &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; StandardScaler&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_trainScaler &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; stdScale&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;transform&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_testScaler &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; stdScale&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;transform&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#定义评价函数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;metrics &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; explained_variance_score&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;  r2_score&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;test&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;回归模型的可解释方差值为：&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          explained_variance_score&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;回归模型的R方值为：&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          r2_score&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 构建回归模型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;svm &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; LinearSVR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 支持向量回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;SVR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; LinearSVR&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred1 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; SVR_diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;支持向量回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#梯度提升回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;ensemble &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  GradientBoostingRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;GBR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; GradientBoostingRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; GBR_diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;梯度提升回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred2&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#回归决策树&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;tree &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  DecisionTreeRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DTR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  DecisionTreeRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred3 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; DTR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;60&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;回归决策树:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;61&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred3&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;62&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#线性回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;63&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;linear_model &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; LinearRegression&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;64&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;   LinearRegression&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;65&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred4 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; LR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;66&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;线性回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;67&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred4&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;68&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#最近邻回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;69&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;neighbors &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  KNeighborsRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;70&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;KNR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  KNeighborsRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;71&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred5 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; DTR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;72&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;最近邻回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;73&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred5&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+        <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
+        <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <updated>2024-06-06T04:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</id>
+        <title>数据分析复习提纲</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/"/>
+        <content type="html">&lt;p&gt;应对期末考试，对本学期《Python 数据分析与应用》课程学习的内容进行复习。该文件为本次考试复习提纲！&lt;/p&gt;
+ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;一-考试题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-考试题型&#34;&gt;#&lt;/a&gt; 一、考试题型&lt;/h1&gt;
+&lt;p&gt;1、选择题（不定项，Numpy、Pandas、可视化、Sklearn）  20 分&lt;/p&gt;
+&lt;p&gt;2、简答题（Numpy、Pandas）             10 分&lt;/p&gt;
+&lt;p&gt;3、分析题（根据题目要求绘制项目聚类或分类流程图）  10 分&lt;/p&gt;
+&lt;p&gt;读取 &amp;gt; 预处理（缺）&amp;gt; 划分（横、纵）&amp;gt; 标准化 &amp;gt; 分聚回 &amp;gt; 评价&lt;/p&gt;
+&lt;p&gt;4、综合应用题（分类、聚类、回归）          60 分&lt;/p&gt;
+&lt;h1 id=&#34;二-考试内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-考试内容&#34;&gt;#&lt;/a&gt; 二、考试内容&lt;/h1&gt;
+&lt;h2 id=&#34;1-numpy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-numpy&#34;&gt;#&lt;/a&gt; 1、Numpy&lt;/h2&gt;
+&lt;p&gt;（1）Numpy 两大对象及特点&lt;/p&gt;
+&lt;p&gt;（2）Series 组成&lt;/p&gt;
+&lt;p&gt;（3）Numpy 数组的属性&lt;/p&gt;
+&lt;p&gt;（4）Numpy 生成数组、矩阵的常用函数、矩阵转置&lt;/p&gt;
+&lt;h2 id=&#34;2-pandas&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-pandas&#34;&gt;#&lt;/a&gt; 2、Pandas&lt;/h2&gt;
+&lt;p&gt;（1）Pandas 作用&lt;/p&gt;
+&lt;p&gt;（2）重复值、缺失值处理函数及方法&lt;/p&gt;
+&lt;p&gt;（3）Pandas 数据结构及特点&lt;/p&gt;
+&lt;p&gt;（4）读写 CSV 数据的相关函数&lt;/p&gt;
+&lt;p&gt;（5）数据合并&lt;/p&gt;
+&lt;h2 id=&#34;3-可视化库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-可视化库&#34;&gt;#&lt;/a&gt; 3、可视化库&lt;/h2&gt;
+&lt;p&gt;绘制画布、常用图表、坐标轴的函数。&lt;/p&gt;
+&lt;h2 id=&#34;4-sklearn应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-sklearn应用&#34;&gt;#&lt;/a&gt; 4、Sklearn 应用&lt;/h2&gt;
+&lt;p&gt;APP 用户群体划分、二手手机价格预测、客户服装尺寸预测、钻石价格预测。&lt;/p&gt;
+</content>
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
