@@ -1117,20 +1117,21 @@
 &lt;li&gt;
 &lt;p&gt;微信小程序项目中的______文件是全局配置文件。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;!!app.json&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;app.json&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;app.json：微信小程序的全局配置文件，用于设置页面路径、窗口外观、页面表现、标签栏等。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;微信开发者工具中用于保存文件的快捷键是______。&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;&lt;span class=&#34;kbd&#34;&gt;Ctrl&lt;/span&gt; + &lt;span class=&#34;kbd red&#34;&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;Ctrl+S&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;快捷键 &lt;span class=&#34;kbd&#34;&gt;Ctrl&lt;/span&gt; + &lt;span class=&#34;kbd red&#34;&gt;S&lt;/span&gt;         表示&lt;span class=&#34;kbd&#34;&gt;保存&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;在微信小程序中，每个页面由 4 个文件组成，分别是______文件、______文件、______文件和 JS 文件&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;WXML WXSS JSON&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;JS：用于实现页面逻辑和交互，文件扩展名为.js。需要注意的是，微信小程序中的 JS 不含 DOM 和 BOM，但它提供了丰富的 API，可以实现许多特殊的功能，例如微信登录、音频播放、文件上传等。&lt;/p&gt;
 &lt;p&gt;JSON：用于利用 JSON 语法对页面进行配置，文件扩展名为.json。&lt;/p&gt;
 &lt;p&gt;WXML：用于构建页面结构，文件扩展名为.wxml。&lt;/p&gt;
@@ -1141,38 +1142,33 @@
 &lt;p&gt;二、判断题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;在微信小程序中，AppID 是每个小程序的唯一标识，每个小程序账号只有一个 AppID。（ ）&lt;/p&gt;
+&lt;p&gt;在微信小程序中，AppID 是每个小程序的唯一标识，每个小程序账号只有一个 AppID。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;AppID 又称为小程序 ID，是每个小程序的&lt;span class=&#34;red&#34;&gt;唯一&lt;/span&gt;标识，每个小程序账号只有一个 AppID&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;微信小程序项目中 app.js 文件是全局样式文件。（ ）&lt;/p&gt;
+&lt;p&gt;微信小程序项目中 app.js 文件是全局样式文件。（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;app.js：微信小程序的入口文件，用于描述微信小程序的整体逻辑。&lt;/p&gt;
 &lt;p&gt;app.wxss：微信小程序的全局样式文件，文件可以为空。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;通常称微信客户端为微信小程序提供的环境为微信小程序的宿主环境。（ ）&lt;/p&gt;
+&lt;p&gt;通常称微信客户端为微信小程序提供的环境为微信小程序的宿主环境。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序是运行在&lt;span class=&#34;red&#34;&gt;微信客户端上的应用&lt;/span&gt;。微信客户端给微信小程序提供的环境就是微信小程序的宿主环境。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;微信小程序具有无须安装、触手可及、用完即走、无须卸载等特点。（ ）&lt;/p&gt;
+&lt;p&gt;微信小程序具有无须安装、触手可及、用完即走、无须卸载等特点。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;无须安装、触手可及、用完即走、无须卸载、名称唯一、入口丰富、传播能力强&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;项目成员表示参与微信小程序开发、运行的成员。（ ）&lt;/p&gt;
+&lt;p&gt;项目成员表示参与微信小程序开发、运行的成员。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;）&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;项目成员：表示参与微信小程序开发、运行的成员，可登录微信小程序管理后台，包括运营者、开发者及和数据分析者。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;/li&gt;
@@ -1185,11 +1181,18 @@
 &lt;p&gt;B. 微信小程序的体积非常小&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;C. 微信小程序不可以跨平台&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D. 通过 “扫一扫” 或 “搜一搜” 即可打开对应的微信小程序&lt;/p&gt;
-&lt;blockquote&gt;&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C. 微信小程序不可以跨平台&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;这一说法是错误的，因为微信小序本身是基于微信平台的，但通过跨平台开发工具如 uni-app，可以实现代码一次编写，多端运行，从而达到跨平台的效果。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;下列选项中，不属于微信小程序特点的是（ ）。&lt;/p&gt;
 &lt;p&gt;A. 无须安装            B. 无须卸载              &lt;strong&gt;C. 体积大&lt;/strong&gt;              D. 入口丰富&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C. 体积大&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;特点：无须安装、触手可及、用完即走、无须卸载、名称唯一、入口丰富、传播能力强&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;下列选项中，用于在微信开发者工具中输出调试信息的面板是（ ）。&lt;/p&gt;
@@ -1198,6 +1201,7 @@
 &lt;p&gt;C.Sources&lt;/p&gt;
 &lt;p&gt;D.Network&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B.Console&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Wxml：Wxml 面板，用于查看和调试 WXML 和 WXSS。&lt;/p&gt;
 &lt;p&gt;Console：控制台面板，用于输出调试信息，也可以直接编写代码执行。&lt;/p&gt;
 &lt;p&gt;Sources：源代码面板，用于显示当前项目的脚本文件，在该面板中开发者看到的文件是经过处理之后的脚本文件。&lt;/p&gt;
@@ -1211,6 +1215,7 @@
 &lt;p&gt;&lt;strong&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;D.app.js 文件是微信小程序项目的入口文件&lt;/p&gt;
 &lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;微信小程序的全局配置文件是&lt;strong&gt; app.json&lt;/strong&gt;，而不是&lt;strong&gt; sitemap.json&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;app.json 是&lt;strong&gt;全局配置文件&lt;/strong&gt;，主要用于配置小程序的全局属性、页面路径、窗口样式等。&lt;/p&gt;
 &lt;p&gt;sitemap.json 是&lt;strong&gt;页面配置文件&lt;/strong&gt;，用于配置小程序的页面路径、页面的标题、页面是否允许分享等。&lt;/p&gt;
@@ -1222,6 +1227,10 @@
 &lt;p&gt;B. 菜单栏中 “文件” 项的主要作用是新建文件、保存文件或关闭文件等&lt;/p&gt;
 &lt;p&gt;C. 模拟器可以模拟小程序在微信客户端的运行效果&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;D. 编辑器中只能打开一个文件&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D. 编辑器中只能打开一个文件&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;微信开发者工具的编辑器支持同时打开和切换多个文件，以便于开发者进行多任务编辑和查看。&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;四、简答题&lt;/p&gt;
@@ -6043,6 +6052,43 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
  ]]></description>
         </item>
         <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</guid>
+            <title>数据分析复习提纲</title>
+            <link>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</link>
+            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
+            <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
+            <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
+            <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+            <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+            <pubDate>Thu, 06 Jun 2024 12:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;应对期末考试，对本学期《Python 数据分析与应用》课程学习的内容进行复习。该文件为本次考试复习提纲！&lt;/p&gt;
+ &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
+&lt;hr /&gt;
+&lt;h1 id=&#34;一-考试题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-考试题型&#34;&gt;#&lt;/a&gt; 一、考试题型&lt;/h1&gt;
+&lt;p&gt;1、选择题（不定项，Numpy、Pandas、可视化、Sklearn）  20 分&lt;/p&gt;
+&lt;p&gt;2、简答题（Numpy、Pandas）             10 分&lt;/p&gt;
+&lt;p&gt;3、分析题（根据题目要求绘制项目聚类或分类流程图）  10 分&lt;/p&gt;
+&lt;p&gt;读取 &amp;gt; 预处理（缺）&amp;gt; 划分（横、纵）&amp;gt; 标准化 &amp;gt; 分聚回 &amp;gt; 评价&lt;/p&gt;
+&lt;p&gt;4、综合应用题（分类、聚类、回归）          60 分&lt;/p&gt;
+&lt;h1 id=&#34;二-考试内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-考试内容&#34;&gt;#&lt;/a&gt; 二、考试内容&lt;/h1&gt;
+&lt;h2 id=&#34;1-numpy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-numpy&#34;&gt;#&lt;/a&gt; 1、Numpy&lt;/h2&gt;
+&lt;p&gt;（1）Numpy 两大对象及特点&lt;/p&gt;
+&lt;p&gt;（2）Series 组成&lt;/p&gt;
+&lt;p&gt;（3）Numpy 数组的属性&lt;/p&gt;
+&lt;p&gt;（4）Numpy 生成数组、矩阵的常用函数、矩阵转置&lt;/p&gt;
+&lt;h2 id=&#34;2-pandas&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-pandas&#34;&gt;#&lt;/a&gt; 2、Pandas&lt;/h2&gt;
+&lt;p&gt;（1）Pandas 作用&lt;/p&gt;
+&lt;p&gt;（2）重复值、缺失值处理函数及方法&lt;/p&gt;
+&lt;p&gt;（3）Pandas 数据结构及特点&lt;/p&gt;
+&lt;p&gt;（4）读写 CSV 数据的相关函数&lt;/p&gt;
+&lt;p&gt;（5）数据合并&lt;/p&gt;
+&lt;h2 id=&#34;3-可视化库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-可视化库&#34;&gt;#&lt;/a&gt; 3、可视化库&lt;/h2&gt;
+&lt;p&gt;绘制画布、常用图表、坐标轴的函数。&lt;/p&gt;
+&lt;h2 id=&#34;4-sklearn应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-sklearn应用&#34;&gt;#&lt;/a&gt; 4、Sklearn 应用&lt;/h2&gt;
+&lt;p&gt;APP 用户群体划分、二手手机价格预测、客户服装尺寸预测、钻石价格预测。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_code/</guid>
             <title>数据分析简答题与代码题</title>
             <link>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_code/</link>
@@ -6416,43 +6462,6 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
 &lt;p&gt;(5) 划分训练集和测试集，并对训练集和测试集进行标准差标准化。&lt;/p&gt;
 &lt;p&gt;(6) 构建 SVR 等至少两种回归模型进行钻石价格预测，并输出回归模型评价指标，查看模型效果。&lt;/p&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; pandas &lt;span class=&#34;token keyword&#34;&gt;as&lt;/span&gt; pd&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 读取数据集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; pd&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;read_csv&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;data/diamond_price.csv&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; encoding&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;gbk&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#预处理&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;drop&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;X(length)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                              &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Y(width)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;|&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;                              &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Z(Depth)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;index&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;reset_index&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;inplace&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token boolean&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; drop&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token boolean&#34;&gt;True&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;price_RMB&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  diamond&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;Price(in US dollars)&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;6.50&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;shape&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 拆分数据和标签&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_data &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;iloc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_target &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;iloc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 特征列选择&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# from  sklearn.linear_model import  Lasso&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# data_train = (diamond_data-diamond_data.mean())/diamond_data.std()&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# lasso = Lasso(alpha=1000).fit(data_train,diamond_target)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# print(lasso.coef_)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# diamond_data = diamond.iloc[:, [0,1,2,3]]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 划分训练集和测试集&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;model_selection &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; train_test_split&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_test &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; \&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;train_test_split&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; test_size&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0.2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;random_state&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# # 标准差标准化&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;preprocessing &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; StandardScaler&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;stdScale &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; StandardScaler&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_trainScaler &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; stdScale&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;transform&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;diamond_testScaler &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; stdScale&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;transform&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#定义评价函数&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;36&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;metrics &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; explained_variance_score&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;  r2_score&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;37&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;def&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;test&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;38&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;回归模型的可解释方差值为：&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;39&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          explained_variance_score&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;40&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;回归模型的R方值为：&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;41&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;          r2_score&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;y0&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;42&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;43&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 构建回归模型&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;44&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;svm &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; LinearSVR&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;45&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 支持向量回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;46&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;SVR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; LinearSVR&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_train&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;47&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred1 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; SVR_diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_data_test&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;48&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;支持向量回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;49&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;50&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#梯度提升回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;51&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;ensemble &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  GradientBoostingRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;52&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;GBR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; GradientBoostingRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;53&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred2 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; GBR_diamond&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;54&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;梯度提升回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;55&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred2&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;56&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#回归决策树&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;57&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;tree &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  DecisionTreeRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;58&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;DTR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  DecisionTreeRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;59&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred3 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; DTR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;60&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;回归决策树:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;61&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred3&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;62&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#线性回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;63&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;linear_model &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; LinearRegression&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;64&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;LR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;   LinearRegression&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;65&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred4 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; LR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;66&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;线性回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;67&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred4&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;68&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;#最近邻回归&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;69&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;from&lt;/span&gt; sklearn&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;neighbors &lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt;  KNeighborsRegressor&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;70&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;KNR_diamond &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;  KNeighborsRegressor&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;fit&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_trainScaler&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; diamond_target_train&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;71&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;y_pred5 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; DTR_diamond &lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;predict&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_testScaler&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;72&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;最近邻回归:&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;73&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;test&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;diamond_target_test&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; y_pred5&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</guid>
-            <title>数据分析复习提纲</title>
-            <link>http://rainyblue.cn/2024/06/06/Educational/python/Data-analysis/Data_analysis_review/</link>
-            <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
-            <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
-            <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-            <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
-            <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
-            <pubDate>Thu, 06 Jun 2024 12:00:00 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;应对期末考试，对本学期《Python 数据分析与应用》课程学习的内容进行复习。该文件为本次考试复习提纲！&lt;/p&gt;
- &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;一-考试题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一-考试题型&#34;&gt;#&lt;/a&gt; 一、考试题型&lt;/h1&gt;
-&lt;p&gt;1、选择题（不定项，Numpy、Pandas、可视化、Sklearn）  20 分&lt;/p&gt;
-&lt;p&gt;2、简答题（Numpy、Pandas）             10 分&lt;/p&gt;
-&lt;p&gt;3、分析题（根据题目要求绘制项目聚类或分类流程图）  10 分&lt;/p&gt;
-&lt;p&gt;读取 &amp;gt; 预处理（缺）&amp;gt; 划分（横、纵）&amp;gt; 标准化 &amp;gt; 分聚回 &amp;gt; 评价&lt;/p&gt;
-&lt;p&gt;4、综合应用题（分类、聚类、回归）          60 分&lt;/p&gt;
-&lt;h1 id=&#34;二-考试内容&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二-考试内容&#34;&gt;#&lt;/a&gt; 二、考试内容&lt;/h1&gt;
-&lt;h2 id=&#34;1-numpy&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-numpy&#34;&gt;#&lt;/a&gt; 1、Numpy&lt;/h2&gt;
-&lt;p&gt;（1）Numpy 两大对象及特点&lt;/p&gt;
-&lt;p&gt;（2）Series 组成&lt;/p&gt;
-&lt;p&gt;（3）Numpy 数组的属性&lt;/p&gt;
-&lt;p&gt;（4）Numpy 生成数组、矩阵的常用函数、矩阵转置&lt;/p&gt;
-&lt;h2 id=&#34;2-pandas&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-pandas&#34;&gt;#&lt;/a&gt; 2、Pandas&lt;/h2&gt;
-&lt;p&gt;（1）Pandas 作用&lt;/p&gt;
-&lt;p&gt;（2）重复值、缺失值处理函数及方法&lt;/p&gt;
-&lt;p&gt;（3）Pandas 数据结构及特点&lt;/p&gt;
-&lt;p&gt;（4）读写 CSV 数据的相关函数&lt;/p&gt;
-&lt;p&gt;（5）数据合并&lt;/p&gt;
-&lt;h2 id=&#34;3-可视化库&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-可视化库&#34;&gt;#&lt;/a&gt; 3、可视化库&lt;/h2&gt;
-&lt;p&gt;绘制画布、常用图表、坐标轴的函数。&lt;/p&gt;
-&lt;h2 id=&#34;4-sklearn应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-sklearn应用&#34;&gt;#&lt;/a&gt; 4、Sklearn 应用&lt;/h2&gt;
-&lt;p&gt;APP 用户群体划分、二手手机价格预测、客户服装尺寸预测、钻石价格预测。&lt;/p&gt;
- ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/06/05/Educational/Software/2023-Software-project-review/</guid>
@@ -10367,21 +10376,21 @@ Bob--&amp;gt;Alice: I am good thanks!
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</guid>
-            <title>兴趣爱好</title>
-            <link>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</link>
-            <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
-            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
-            <description><![CDATA[ &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
- ]]></description>
-        </item>
-        <item>
             <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</guid>
             <title>工作记录</title>
             <link>http://rainyblue.cn/2024/05/25/Work/%E5%B7%A5%E4%BD%9C/</link>
             <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
             <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</guid>
+            <title>兴趣爱好</title>
+            <link>http://rainyblue.cn/2024/05/25/Interests/%E5%85%B4%E8%B6%A3%E7%88%B1%E5%A5%BD/</link>
+            <category term="兴趣类" scheme="http://rainyblue.cn/categories/Interests/" />
+            <pubDate>Sat, 25 May 2024 20:46:25 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;兴趣爱好&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#兴趣爱好&#34;&gt;#&lt;/a&gt; 兴趣爱好&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
