@@ -457,26 +457,26 @@
 &lt;p&gt;1. 下列选项中，关于微信小程序项目目录结构说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A.pages 目录用于存放所有微信小程序的页面&lt;/p&gt;
 &lt;p&gt;B.app.wxss 文件定义了微信小程序项目的全局样式&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C.sitemap.json 文件是微信小程序项目的全局配置文件&lt;/p&gt;
 &lt;p&gt;D.app.js 文件是微信小程序项目的入口文件&lt;/p&gt;
 &lt;p&gt;2. 下列选项中，app.json 文件中的 tabBar 配置项最多允许的页数为（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt;）。&lt;/p&gt;
-&lt;p&gt;A. 3              B. 4                  &lt;strong&gt;C. 5&lt;/strong&gt;                    D. 6&lt;/p&gt;
+&lt;p&gt;A. 3              B. 4                  C. 5                    D. 6&lt;/p&gt;
 &lt;p&gt;3. 下列选项中，用于监听页面初次渲染成功的回调函数是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
-&lt;p&gt;A. onHide             B. onLoad                C. onShow             &lt;strong&gt;D. onReady&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A. onHide             B. onLoad                C. onShow             D. onReady&lt;/p&gt;
 &lt;p&gt;4. 下列选项中，将页面的 JS 文件中定义的数据绑定到页面上的语法是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;A&lt;/span&gt;）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A.  &lt;code&gt;&amp;#123;&amp;#123; &amp;#125;&amp;#125;&lt;/code&gt; &lt;/strong&gt;             B.   &lt;code&gt;[]&lt;/code&gt;           C.  &lt;code&gt;&amp;#123; &amp;#125;&lt;/code&gt;        D.  &lt;code&gt;[[]]&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;A.  &lt;code&gt;&amp;#123;&amp;#123; &amp;#125;&amp;#125;&lt;/code&gt;              B.   &lt;code&gt;[]&lt;/code&gt;           C.  &lt;code&gt;&amp;#123; &amp;#125;&lt;/code&gt;        D.  &lt;code&gt;[[]]&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;5. 下列选项中，用于滑动选择某一个值的组件是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. view&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;B. slider&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;B. slider&lt;/p&gt;
 &lt;p&gt;C. input&lt;/p&gt;
 &lt;p&gt;D. audio&lt;/p&gt;
 &lt;p&gt;6. 下列选项中，关于 wx.getRecorderManager () 方法说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. start () 方法表示开始录音&lt;/p&gt;
 &lt;p&gt;B. pause () 方法表示暂停录音&lt;br /&gt;
  C. resume () 方法表示继续录音&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;D. onError () 方法表示停止录音，点击开始录音后会从中断的地方接着继续录音&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;D. onError () 方法表示停止录音，点击开始录音后会从中断的地方接着继续录音&lt;/p&gt;
 &lt;p&gt;7. 下列选项中，用于实现非标签页之间的跳转的方法是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;A&lt;/span&gt; ）。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A.  wx.navigateTo()&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A.  wx.navigateTo()&lt;/p&gt;
 &lt;p&gt;B.   wx.navigate()&lt;/p&gt;
 &lt;p&gt;C.   wx.navigatorTo()&lt;/p&gt;
 &lt;p&gt;D.  wx.navigator()&lt;/p&gt;
@@ -504,46 +504,59 @@
 &lt;p&gt;7.animation.export () 方法每次调用后仍保留之前的动画操作。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;×&lt;/span&gt; ）&lt;/p&gt;
 &lt;p&gt;8. 同一个微信用户在 AppID 不同的微信小程序中的 openid 是不同的。（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;√&lt;/span&gt; ）&lt;/p&gt;
 &lt;h1 id=&#34;四-程序题-6题424分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#四-程序题-6题424分&#34;&gt;#&lt;/a&gt; 四、程序题 6 题 * 4=24 分&lt;/h1&gt;
-&lt;p&gt;1. 标签栏的配置方法，能够完成页面标签栏的配置&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;pages&amp;quot;:[
-   &amp;quot;_____(补充index路径) &amp;quot;
-   &amp;quot;_____(补充info路径) &amp;quot;
-   &amp;quot;_____(补充life路径)&amp;quot;
-],
-&amp;quot;window&amp;quot;:&amp;#123;
-&amp;quot;_____(补充状态文本类型) &amp;quot;:&amp;quot;black&amp;quot;,
-&amp;quot;_____(补充背景文本类型) &amp;quot;:&amp;quot;light&amp;quot;. 
-&amp;quot;____(补充背景颜色) &amp;quot;:&amp;quot;#fff&amp;quot;,
-&amp;quot;____(补充) &amp;quot;:&amp;quot;app.json&amp;quot;
+&lt;p&gt;1. 重点：掌握数据绑定，事件绑定，事件对象，this 关键字的使用以及 setData 方法的使用&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;view class=&amp;quot;container&amp;quot;&amp;gt;
+&amp;#123;&amp;#123;mes&amp;#125;&amp;#125;  //数据绑定&amp;#123;&amp;#123;&amp;#125;&amp;#125;
+&amp;lt;view&amp;gt;
+    // 绑定事件test()，bind:tap=&amp;quot;test()&amp;quot;
+    &amp;lt;button bind:tap=&amp;quot;test()&amp;quot;&amp;gt;按钮1-1&amp;lt;/button&amp;gt;
+    &amp;lt;button bind:tap=&amp;quot;test&amp;quot;&amp;gt;按钮1-2&amp;lt;/button
+    &amp;lt;button bindtap=&amp;quot;test()&amp;quot;&amp;gt;按钮2-1&amp;lt;/button&amp;gt;
+    &amp;lt;button bindtap=&amp;quot;test&amp;quot;&amp;gt;按钮2-2&amp;lt;/button&amp;gt;
+    &amp;lt;button bind:tap=&amp;quot;changetext&amp;quot;&amp;gt;按钮&amp;lt;/button&amp;gt;
+&amp;lt;/view&amp;gt;
+    
+&amp;lt;view bind:tap=&amp;quot;viewtap&amp;quot; id=&amp;quot;out&amp;quot;&amp;gt;out 
+    &amp;lt;view id=&amp;quot;inner&amp;quot; &amp;gt;inner&amp;lt;/view&amp;gt;
+&amp;lt;/view&amp;gt;
+    
+&amp;lt;view wx:if=&amp;quot;false&amp;quot;&amp;gt;单独view1&amp;lt;/view&amp;gt;
+&amp;lt;view wx:elif=&amp;quot;false&amp;quot;&amp;gt;单独view2&amp;lt;/view&amp;gt;
+&amp;lt;view wx:else&amp;gt;单独view3&amp;lt;/view&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code&gt;Page(
+    data:&amp;#123;
+    [msg:&#39;hello&#39; // 数据绑定]&amp;#123;.red&amp;#125;
+    flag:1,
+    hid:1,
 &amp;#125;,
-&amp;quot;tabBar&amp;quot;: &amp;#123;
-&amp;quot;color&amp;quot;: &amp;quot;#ccc&amp;quot;,
-&amp;quot;selectedColor&amp;quot;: &amp;quot;#ff4c91&amp;quot;,
-&amp;quot;____(补充)&amp;quot;: &amp;quot;white&amp;quot;,
-&amp;quot;____(补充背景颜色)&amp;quot;: &amp;quot;#fff&amp;quot;, 
-&amp;quot;list&amp;quot;: [&amp;#123;
-&amp;quot;pagePath&amp;quot;: &amp;quot;pages/index/index&amp;quot;,
-&amp;quot;iconPath&amp;quot;: &amp;quot;images/invite.png&amp;quot;,
-&amp;quot;selectedIconPath&amp;quot;: &amp;quot;images/invite.png&amp;quot;,
-&amp;quot;text&amp;quot;: &amp;quot;邀请函&amp;quot; 
-&amp;#125;, &amp;#123;
-&amp;quot;pagePath&amp;quot;: &amp;quot;pages/picture/picture&amp;quot;,
-&amp;quot;iconPath&amp;quot;: &amp;quot;images/marry.png&amp;quot;,
-&amp;quot;selectedIconPath&amp;quot;: &amp;quot;images/marry.png&amp;quot;,
-&amp;quot;text&amp;quot;: &amp;quot;照片&amp;quot; 
-&amp;#125;, &amp;#123;
-&amp;quot;pagePath&amp;quot;: &amp;quot;pages/video/video&amp;quot;,
-&amp;quot;iconPath&amp;quot;: &amp;quot;images/video.png&amp;quot;,
-&amp;quot;selectedIconPath&amp;quot;: &amp;quot;images/video.png&amp;quot;,
-&amp;quot;text&amp;quot;: &amp;quot;美好时光&amp;quot; 
-&amp;#125;, &amp;#123;
-&amp;quot;pagePath&amp;quot;: &amp;quot;pages/guest/guest&amp;quot;,
-&amp;quot;iconPath&amp;quot;: &amp;quot;images/guest.png&amp;quot;,
-&amp;quot;selectedIconPath&amp;quot;: &amp;quot;images/guest.png&amp;quot;,
-&amp;quot;text&amp;quot;: &amp;quot;宾客信息&amp;quot; 
-&amp;#125;]
-&amp;#123;
-    &amp;quot;____(补充状态栏)&amp;quot;: &amp;quot;邀请函&amp;quot;
+num1:0,// 保存第 1 个数字
+onLoad:function()&amp;#123;
+    console.log(this.num1);
+    console.log(this.data.msg);
+// 报错 //console.log (this.msg);
+    console.log(&#39;onload&#39;);
+onPullDownRefresh:function()&amp;#123;
+    console.log(&#39;onPullDownRefresh&#39;);
+[this.setData（this关键字.setData方法）(&amp;#123; ]&amp;#123;.red&amp;#125;
+    msg:&#39;hello world
+      //num1:42 无效
+&amp;#125;);
+console.log(this.num1);
+test()&amp;#123;
+    console.log(&#39;test&#39;);
+&amp;#125;,
+test()&amp;#123;
+    console.log(&#39;test&#39;);
+&amp;#125;,
+viewtap:function(e)&amp;#123;
+    console.log(e);
+    [console.log(___(补充触发事件组件的一些属性组合)+&#39;/&#39;+ ___(当前组件的一些属性组合));]&amp;#123;.red&amp;#125;
+&amp;#125;,
+changetext()&amp;#123;
+    this.setData(&amp;#123;
+        msg:&#39;新标题&#39;
+    &amp;#125;,this.test());
 &amp;#125;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;2. 表单组件的使用方法&lt;/p&gt;
@@ -656,36 +669,36 @@ num1:0，//保存第1个数字
 &lt;p&gt;1. 下列选项中，关于微信小程序说法错误的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）。&lt;/p&gt;
 &lt;p&gt;A. 微信小程序是运行在微信之中应用&lt;/p&gt;
 &lt;p&gt;B. 微信小程序的体积非常小&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C. 微信小程序不可以跨平台&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C. 微信小程序不可以跨平台&lt;/p&gt;
 &lt;p&gt;D. 通过 “扫一扫” 或 “搜一搜” 即可打开对应的微信小程序&lt;/p&gt;
 &lt;p&gt;2. 下列选项中，用于在微信开发者工具中输出调试信息的面板是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.Wxml&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;B.Console&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;B.Console&lt;/p&gt;
 &lt;p&gt;C.Sources&lt;/p&gt;
 &lt;p&gt;D.Network&lt;/p&gt;
 &lt;p&gt;3. 下列选项中，用于配置微信小程序所有的页面地址的文件是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）&lt;/p&gt;
 &lt;p&gt;A. app.js&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;B. app.json&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;B. app.json&lt;/p&gt;
 &lt;p&gt;C. app.wxss&lt;/p&gt;
 &lt;p&gt;D. project.config.json&lt;/p&gt;
 &lt;p&gt;4. 下列选项中，不属于 Flex 布局的是（&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;C&lt;/span&gt; ）&lt;/p&gt;
 &lt;p&gt;A.  display:flex;&lt;/p&gt;
 &lt;p&gt;B.   flex:1;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C.   float:left;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C.   float:left;&lt;/p&gt;
 &lt;p&gt;D.  flex-flow:column nowrap;&lt;/p&gt;
 &lt;p&gt;5. 下列选项中，关于列表渲染说法正确的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A.   wx:for-index 可以用于重新定义当前项的变量名&lt;/p&gt;
 &lt;p&gt;B.   在列表渲染中，可以使用 item 变量获取当前项的值&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;C.   wx:for 可以用于实现页面中的列表渲染&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;C.   wx:for 可以用于实现页面中的列表渲染&lt;/p&gt;
 &lt;p&gt;D.   wx:for-item 可以用于设置当前索引变量的属性名&lt;/p&gt;
 &lt;p&gt;6. 下列选项中，可以在 wx:for 中指定当前项索引的变量名的一项是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;D&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A. wx:for-i&lt;/p&gt;
 &lt;p&gt;B.  wx:for-j&lt;/p&gt;
 &lt;p&gt;C.  wx:for-item&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;D.  wx:for-index&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;D.  wx:for-index&lt;/p&gt;
 &lt;p&gt;7. 下列 BackgroundAudioManager 实例的方法中，可以将音乐跳转到指定位置的是（ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;B&lt;/span&gt;）。&lt;/p&gt;
 &lt;p&gt;A. stop()&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;B. seek()&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;B. seek()&lt;/p&gt;
 &lt;p&gt;C. pause()&lt;/p&gt;
 &lt;p&gt;D. play()&lt;/p&gt;
 &lt;h1 id=&#34;二填空题-7题214分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二填空题-7题214分&#34;&gt;#&lt;/a&gt; 二。填空题 7 题 * 2=14 分&lt;/h1&gt;
@@ -711,14 +724,14 @@ num1:0，//保存第1个数字
 &lt;pre&gt;&lt;code&gt;&amp;lt;!--index.wxml--&amp;gt;
 
 &amp;lt;!--配置状态栏--&amp;gt;
-&amp;lt;navigation-bar title=&amp;quot;我的主页&amp;quot; back=&amp;quot;&amp;#123;&amp;#123;false&amp;#125;&amp;#125;&amp;quot; color=&amp;quot;blue&amp;quot; background=&amp;quot;#bbf&amp;quot;&amp;gt;
+&amp;lt;_____(1.补充导航栏配置) title=&amp;quot;我的主页&amp;quot; back=&amp;quot;&amp;#123;&amp;#123;false&amp;#125;&amp;#125;&amp;quot; color=&amp;quot;blue&amp;quot; background=&amp;quot;#bbf&amp;quot;&amp;gt;
 &amp;lt;/navigation-bar&amp;gt;
 
 &amp;lt;!-- 头像区域 --&amp;gt;
 &amp;lt;view&amp;gt;
     &amp;lt;view class=&#39;container&#39;&amp;gt;    
         &amp;lt;view class=&amp;quot;top&amp;quot;&amp;gt;        
-            &amp;lt;_____(补充) src=&amp;quot;/images/avatar.png&amp;quot; _____(补充)=&#39;aspectFit&#39;/&amp;gt;
+            &amp;lt;_____(2.补充图片组件) src=&amp;quot;/images/avatar.png&amp;quot; _____(3.补充图片组件属性)=&#39;aspectFit&#39;/&amp;gt;
         &amp;lt;/view&amp;gt;
     &amp;lt;/view&amp;gt;        
 
@@ -735,36 +748,39 @@ num1:0，//保存第1个数字
 
 &amp;lt;!-- 配置页脚 --&amp;gt;
 &amp;lt;view class=&amp;quot;footer&amp;quot; hover-class=&#39;bgc&#39; hover-start-time=&amp;quot;1000&amp;quot; hover-stay-time=&amp;quot;3000&amp;quot;&amp;gt;
-    &amp;lt;_____(补充)&amp;gt;想联系我吗？&amp;lt;_____(补充)&amp;gt;&amp;lt;br/&amp;gt;
-    &amp;lt;_____(补充) value=&amp;quot;&amp;quot;/&amp;gt;发邮箱给我dd@qq.com
-    &amp;lt;_____(补充)&amp;gt;发送&amp;lt;/_____(补充)&amp;gt;
+    &amp;lt;_____(3.补充文本组件)&amp;gt;想联系我吗？&amp;lt;_____(补充文本组件)&amp;gt;&amp;lt;br/&amp;gt;
+    &amp;lt;_____(4.补充单选按钮) value=&amp;quot;&amp;quot;/&amp;gt;发邮箱给我dd@qq.com
+    &amp;lt;_____(5.补充按钮组件)&amp;gt;发送&amp;lt;/_____(补充按钮组件)&amp;gt;
 &amp;lt;/view&amp;gt;
 &amp;lt;/view&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;text&amp;gt;pages/life/life.wxml&amp;lt;/text&amp;gt;
 &amp;lt;view class=&amp;quot;vd&amp;quot;
       &amp;lt;view classs=&amp;quot;item&amp;quot;
-         &amp;lt;_____(补充) src=&amp;quot;http://127.0.0.1:3000/01.mp4poster=&amp;quot;http://127.0.0.1:3000/st2.pngcontrols=&amp;quot;true&amp;quot; loop=&amp;quot;true&amp;quot; /&amp;gt;
+         &amp;lt;_____(1.补充视频组件) src=&amp;quot;http://127.0.0.1:3000/01.mp4“ poster=&amp;quot;http://127.0.0.1:3000/st2.png” controls=&amp;quot;true&amp;quot; loop=&amp;quot;true&amp;quot; /&amp;gt;
 &amp;lt;!-- autoplay=&amp;quot;true--&amp;gt;
         &amp;lt;/view&amp;gt;
 &amp;lt;/view&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;2. 页面路径的配置方法&lt;/p&gt;
+&lt;p&gt;2. 页面路径、标签栏、导航栏的配置&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;pages&amp;quot;:[
+   //1.配置页面路径
    &amp;quot;_____(补充index路径) &amp;quot;
    &amp;quot;_____(补充info路径) &amp;quot;
    &amp;quot;_____(补充life路径)&amp;quot;
 ],
 &amp;quot;window&amp;quot;:&amp;#123;
-&amp;quot;_____(补充状态文本类型) &amp;quot;:&amp;quot;black&amp;quot;,
-&amp;quot;_____(补充背景文本类型) &amp;quot;:&amp;quot;light&amp;quot;. 
-&amp;quot;____(补充背景颜色) &amp;quot;:&amp;quot;#fff&amp;quot;,
-&amp;quot;____(补充) &amp;quot;:&amp;quot;app.json&amp;quot;
+  // 2.配置设置导航栏
+&amp;quot;_____(补充导航栏标题颜色类型) &amp;quot;:&amp;quot;black&amp;quot;,
+&amp;quot;_____(补充背景文本颜色类型) &amp;quot;:&amp;quot;light&amp;quot;. 
+&amp;quot;____(补充导航栏背景颜色) &amp;quot;:&amp;quot;#fff&amp;quot;,
+&amp;quot;____(补充导航栏文字内容) &amp;quot;:&amp;quot;app.json&amp;quot;
 &amp;#125;,
 &amp;quot;tabBar&amp;quot;:&amp;#123;
+ // 3.配置标签栏
 &amp;quot;color&amp;quot;:&amp;quot;#000”，
-&amp;quot;selectedColor&amp;quot;:&amp;quot;blue&amp;quot;,
-&amp;quot;_____(补充边框样式) &amp;quot;: &amp;quot;black&amp;quot;,
+&amp;quot;_____(补充标签栏选择颜色)&amp;quot;:&amp;quot;blue&amp;quot;,
+&amp;quot;_____(补充标签栏边框颜色)&amp;quot;: &amp;quot;black&amp;quot;,
 &amp;quot;backgroundColor&amp;quot;:&amp;quot;#eee&amp;quot;,
 &amp;quot;list&amp;quot;:[&amp;#123;
 &amp;quot;pagePath&amp;quot;:&amp;quot;pages/index/index&amp;quot;
@@ -778,19 +794,25 @@ num1:0，//保存第1个数字
 &amp;quot;iconPath&amp;quot;:&amp;quot;images/guest.png&amp;quot;,
 &amp;#125;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;3.swiper 和 swiper-item 组件的使用方法&lt;/p&gt;
+&lt;p&gt;3. 重点：swiper 和 swiper-item 组件的使用方法&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;&amp;lt;view style=&amp;quot;height:50px; text-align: center, padding-top:30px;&amp;quot;&amp;gt;本地生活&amp;lt;/view&amp;gt;
 
 &amp;lt;!--轮播图区域的页面结构--&amp;gt;
-&amp;lt;_____(补充) _____(补充)=&amp;quot;true&amp;quot; _____(补充)=&amp;quot;true&amp;quot; _____(补充)=&amp;quot;3000&amp;quot;&amp;gt;
-    &amp;lt;_____(补充)&amp;gt;
+// 轮播图
+&amp;lt;_____(1.补充滑块视图组件) _____(2.补充是否自动切换)=&amp;quot;true&amp;quot; _____(补充是否面板显示指示点)=&amp;quot;true&amp;quot; _____(补充切换时间间隔)=&amp;quot;3000&amp;quot;&amp;gt;
+    &amp;lt;_____(补充滑块内容1)&amp;gt;
         &amp;lt;image src=&amp;quot;/images/swiper00.jpg&amp;quot; /&amp;gt;
-    &amp;lt;_____(补充)&amp;gt;    
+    &amp;lt;_____(补充滑块内容1)&amp;gt;  
+    
+    &amp;lt;_____(补充滑块内容2)&amp;gt;
         &amp;lt;image src=&amp;quot;/images/swiper01.jpg&amp;quot; /&amp;gt;
-    &amp;lt;s_____(补充)&amp;gt;
+    &amp;lt;_____(补充滑块内容2)&amp;gt;
+    
+    &amp;lt;_____(补充滑块内容3)&amp;gt;
         &amp;lt;image src=&amp;quot;/images/swiper02.jpg&amp;quot; /&amp;gt;
-    &amp;lt;_____(补充)&amp;gt;
-&amp;lt;_____(补充)&amp;gt;
+    &amp;lt;_____(补充滑块内容3)&amp;gt;
+    
+&amp;lt;_____(补充滑块视图组件)&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;pre&gt;&lt;code&gt;swiper&amp;#123;
     height: 350rpx;
@@ -802,9 +824,9 @@ swiper image&amp;#123;
 
 /* 九宫格 */
 .grids&amp;#123;
-    display:_____(补充);
-    _____(补充)=: wrap;
-    _____(补充)=: column;
+    display:_____(补充flex布局);
+    _____(补充是否项目换行): wrap;
+    _____(补充主轴方向): column;
     height:760rpx;
 &amp;#125;
 .grids .item image &amp;#123;
@@ -817,15 +839,32 @@ swiper image&amp;#123;
     margin-top: 20rpx; 9 
 &amp;#125;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;4. 导航栏的配置方法&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;&amp;#123;
-  &amp;quot;_____(补充)&amp;quot;: &amp;quot;微信小程序&amp;quot;
-&amp;#125;
+&lt;p&gt;4. 表单组件&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;____(补充表单容器) bindsubmit=&amp;quot;&amp;quot;&amp;gt;
+    &amp;lt;text&amp;gt;1 输入文本&amp;lt;/text&amp;gt;
+    &amp;lt;____(补充输入框1) type=&amp;quot;____(文本输出)&amp;quot;/&amp;gt;
+    &amp;lt;text&amp;gt;2 输入数字&amp;lt;/text&amp;gt;
+    &amp;lt;____(补充输入框2) type=&amp;quot;____(数字输出)&amp;quot; placeholder=&amp;quot;数字键盘&amp;quot;/&amp;gt;
+    &amp;lt;text&amp;gt;3 输入身份证号码&amp;lt;/text&amp;gt;
+    &amp;lt;____(补充输入框3) type=&amp;quot;____(身份证输出)&amp;quot;/&amp;gt;
+    &amp;lt;text &amp;gt;4 带小数点的数字键盘&amp;lt;/text&amp;gt;
+    &amp;lt;____(补充输入框4) type=&amp;quot;____(小数点输出)&amp;quot;/&amp;gt;
+    &amp;lt;text&amp;gt;6 密码&amp;lt;/text&amp;gt;
+    &amp;lt;____(补充输入框5) type=&amp;quot;text&amp;quot; password=&amp;quot;true&amp;quot;/&amp;gt;
+&amp;lt;/form&amp;gt;
+
+&amp;lt;____(补充)&amp;gt;普通按钮&amp;lt;/button&amp;gt;
+&amp;lt;button size=&amp;quot;mini&amp;quot;&amp;gt;mini普通按钮&amp;lt;/button&amp;gt;
+&amp;lt;button type=&amp;quot;primary&amp;quot;&amp;gt;primary主色调按钮&amp;lt;/button&amp;gt;
+&amp;lt;button type=&amp;quot;warn&amp;quot;&amp;gt;warn警告按钮&amp;lt;/button)
+&amp;lt;____(单选按钮) value=&amp;quot;&amp;quot;/&amp;gt;单个单选按钮
+    &amp;lt;view&amp;gt;互斥按钮&amp;lt;/view&amp;gt;
+&amp;lt;____(互斥按钮) bindchange=&amp;quot;&amp;quot;&amp;gt;
+    &amp;lt;radio value=&amp;quot;0&amp;quot;/&amp;gt;选择1
+    &amp;lt;radio value=&amp;quot;1&amp;quot; checked=&amp;quot;true&amp;quot;/&amp;gt;选择2
+&amp;lt;/radio-group&amp;gt;
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240623140726376.png&#34; alt=&#34;image-20240623140726376&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240623140828948.png&#34; alt=&#34;image-20240623140828948&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240623140854917.png&#34; alt=&#34;image-20240623140854917&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;五。简答题 2 题 * 15=30 分&lt;/p&gt;
+&lt;h1 id=&#34;五简答题2题1530分&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#五简答题2题1530分&#34;&gt;#&lt;/a&gt; 五。简答题 2 题 * 15=30 分&lt;/h1&gt;
 &lt;p&gt;1. 简述 BackgroundAudioManager 实例的属性和方法。&lt;/p&gt;
 &lt;p&gt;2. 简述微信小程序中应用生命周期回调函数 onLaunch ()、onShow ()、onError ()、onHide () 和 onPageNotFound () 的作用。&lt;/p&gt;
 </content>
