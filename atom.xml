@@ -8,24 +8,425 @@
     <author>
       <name>萝卜仔</name>
     </author>
-    <updated>2024-07-02T12:46:25.000Z</updated>
+    <updated>2024-07-04T01:30:00.000Z</updated>
     <category term="Shoka" />
     <entry>
-        <id>http://rainyblue.cn/2024/07/02/Work/civil-service/civil-service-list-moban/</id>
-        <title>模板</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/07/02/Work/civil-service/civil-service-list-moban/"/>
-        <content type="html">&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
+        <id>http://rainyblue.cn/2024/07/04/Work/civil-service/Graphical-reasoning/</id>
+        <title>推理判断-图形推理</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/07/04/Work/civil-service/Graphical-reasoning/"/>
+        <content type="html">&lt;h1 id=&#34;第一章-图形推理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-图形推理&#34;&gt;#&lt;/a&gt; 第一章、图形推理&lt;/h1&gt;
+&lt;p&gt;图形推理的出题形式：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240704145739550.png&#34; alt=&#34;image-20240704145739550&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;图形推理的考点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;位置规律&lt;/li&gt;
+&lt;li&gt;样式规律&lt;/li&gt;
+&lt;li&gt;属性规律&lt;/li&gt;
+&lt;li&gt;数量规律&lt;/li&gt;
+&lt;li&gt;空间重构&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;快速定位某个考点：&lt;span class=&#34;red&#34;&gt;图形特征&lt;/span&gt;&lt;/p&gt;
+&lt;h2 id=&#34;1-位置规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-位置规律&#34;&gt;#&lt;/a&gt; 1、位置规律&lt;/h2&gt;
+&lt;p&gt;“位置规律” 图形特征：元素组成相同&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;元素组成相同考虑位置上的变化&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;考点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;平移&lt;/li&gt;
+&lt;li&gt;翻转、旋转&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点1平移&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1平移&#34;&gt;#&lt;/a&gt; 考点 1：平移&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;方向：直线（上下、左右、写对角线），绕圈（顺 / 逆时针）&lt;/li&gt;
+&lt;li&gt;步数：恒定、递增 / 减（等差）、等比（没怎么考）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【宫格类题目】（9 宫格、16 宫格）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技巧：&lt;span ,red=&#34;&#34;&gt;看中间，判方向&lt;/span&gt;
+&lt;ol&gt;
+&lt;li&gt;绕圈走：中间黑块数量相同，优先考虑内、外圈分开看&lt;/li&gt;
+&lt;li&gt;走直线：中间黑块数量不同，优先考虑上下左右
+&lt;ul&gt;
+&lt;li&gt;横行黑块数量相同 -- 左右&lt;/li&gt;
+&lt;li&gt;竖行黑块数量相同 -- 上下&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点2翻转-旋转&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2翻转-旋转&#34;&gt;#&lt;/a&gt; 考点 2：翻转、旋转&lt;/h3&gt;
+&lt;h4 id=&#34;翻转&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#翻转&#34;&gt;#&lt;/a&gt; 翻转&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;左右翻转：竖轴对称&lt;/li&gt;
+&lt;li&gt;上下翻转：横轴对称&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择&#34;&gt;#&lt;/a&gt; 选择&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;方向：顺 / 逆时针&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;常见角度：30°、45°、60°、90°、180° 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重要思维：&lt;/p&gt;
+&lt;p&gt;多个元素分开看，对比选项找差异&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;2-样式规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-样式规律&#34;&gt;#&lt;/a&gt; 2、样式规律&lt;/h2&gt;
+&lt;p&gt;“样式规律” 图形特征：元素组成相似&lt;/p&gt;
+&lt;p&gt;考点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加减同异&lt;/li&gt;
+&lt;li&gt;黑白运算&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点1加-减-同-异&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1加-减-同-异&#34;&gt;#&lt;/a&gt; 考点 1：加、减、同、异&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;图形相加、相减&lt;/li&gt;
+&lt;li&gt;求同（保留相同）&lt;/li&gt;
+&lt;li&gt;求异（保留不同）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;线条重复出现 -- 加减同异&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;考点2黑白运算&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2黑白运算&#34;&gt;#&lt;/a&gt; 考点 2：“黑白” 运算&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;特征：图形轮廓和分割区域相同，内部的颜色不同&lt;/li&gt;
+&lt;li&gt;方法：相同位置运算&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;重难点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;对比选项找差异&lt;/li&gt;
+&lt;li&gt;大块面积一起看&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;3-属性规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-属性规律&#34;&gt;#&lt;/a&gt; 3、属性规律&lt;/h2&gt;
+&lt;p&gt;“属性规律” 图形特征：元素组成不相同、不相似&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;元素组成不同，优先考虑属性&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;考点：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;对称性&lt;/li&gt;
+&lt;li&gt;曲直性&lt;/li&gt;
+&lt;li&gt;开闭性&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点1对称性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1对称性&#34;&gt;#&lt;/a&gt; 考点 1：对称性&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;轴对称：” 等腰 “元素出现&lt;/li&gt;
+&lt;li&gt;中心对称：平行四边形、N、Z、S 变形图、相同图形正反&lt;/li&gt;
+&lt;li&gt;轴对称 + 中心对称：存在相互垂直的对称轴&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;识别题型 -- 画出对称轴 -- 考虑数量、反向 -- 对称轴与线、点、面的关系&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;对称性的考法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#对称性的考法&#34;&gt;#&lt;/a&gt; 对称性的考法&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;区别对称轴类型：轴对称、中心对称、轴对称 + 中心对称&lt;/li&gt;
+&lt;li&gt;对称轴的数量和方向&lt;/li&gt;
+&lt;li&gt;对称轴与图形线、点、面的关系&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;最” 火 “对称考法 -- 对称轴经过的部分&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;考点2曲直性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2曲直性&#34;&gt;#&lt;/a&gt; 考点 2：曲直性&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;全直性&lt;/li&gt;
+&lt;li&gt;全曲性&lt;/li&gt;
+&lt;li&gt;曲 + 直&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点3封闭性&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3封闭性&#34;&gt;#&lt;/a&gt; 考点 3：封闭性&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;全封闭&lt;/li&gt;
+&lt;li&gt;全开放&lt;/li&gt;
+&lt;li&gt;半开半闭&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;4-数量规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-数量规律&#34;&gt;#&lt;/a&gt; 4、数量规律&lt;/h2&gt;
+&lt;p&gt;” 数量规律 “图形特征：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;元素组成不同且属性无规律&lt;/li&gt;
+&lt;li&gt;数量特征明显&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;考点：面、线、点、素&lt;/p&gt;
+&lt;h3 id=&#34;考点1面数量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1面数量&#34;&gt;#&lt;/a&gt; 考点 1：面数量&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;面是白色的封闭区域&lt;/p&gt;
+&lt;p&gt;注意：面是白的，黑的是不是面！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;考虑数面的情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;图形被分割、封闭面明显&lt;/li&gt;
+&lt;li&gt;生活化图形、粗线图图形&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;面的细化考法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;所有面的形状（三角形、四边形）&lt;/li&gt;
+&lt;li&gt;相同面的数量&lt;/li&gt;
+&lt;li&gt;最大 / 最小面的形状、属性（对称、曲直）、与外框的关系（相似、相等）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点2线数量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2线数量&#34;&gt;#&lt;/a&gt; 考点 2：线数量&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;直线&lt;/li&gt;
+&lt;li&gt;曲线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;考虑数线的情况：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;直线特征图：多边形、单一直线&lt;/li&gt;
+&lt;li&gt;曲线特征图：曲线图形（圆、弧、单一曲线）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;线的特殊考点：笔画数（不重复的情况下，能够一笔画成）&lt;/p&gt;
+&lt;p&gt;笔画特征图：多端点、圆 / 相切 / 相交、日、田、五角星&lt;/p&gt;
+&lt;p&gt;判断一笔画：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;线条之间连通&lt;/li&gt;
+&lt;li&gt;奇点数量为 0 或 2（奇点：以一个点为中心，发射出奇数条线，注意端点也算）&lt;/li&gt;
+&lt;li&gt;笔画数 = 奇点数 / 2（奇点数一定为偶数个）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点3点数量&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3点数量&#34;&gt;#&lt;/a&gt; 考点 3：点数量&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;线与线的交点为点&lt;/p&gt;
+&lt;p&gt;注意：切点也算点，端点不算&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;考虑数点的情况：&lt;/p&gt;
+&lt;p&gt;点数量特征图：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;线条交叉明显（大树杈）&lt;/li&gt;
+&lt;li&gt;多边形或者圆中叉出一些线条&lt;/li&gt;
+&lt;li&gt;圆相切或者圆相交较多&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;点的细软考法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;切点：相切图较多，切点明显&lt;/li&gt;
+&lt;li&gt;框上 / 框内交点：所有图形都有外框，且内部线条与外框存在相交的情况&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;生活化、粗线条图形常见考法：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;属性（对称、开闭）&lt;/li&gt;
+&lt;li&gt;部门数&lt;/li&gt;
+&lt;li&gt;面&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;5空间重构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5空间重构&#34;&gt;#&lt;/a&gt; 5. 空间重构&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;折叠方向&lt;/p&gt;
+&lt;p&gt;排除错误&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;方法1相对面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法1相对面&#34;&gt;#&lt;/a&gt; 方法 1：相对面&lt;/h3&gt;
+&lt;p&gt;应用：一组相对面同时出现的选项 -- 排除&lt;/p&gt;
+&lt;h3 id=&#34;方法2相邻面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#方法2相邻面&#34;&gt;#&lt;/a&gt; 方法 2：相邻面&lt;/h3&gt;
+&lt;p&gt;平面图中构成直角的两条边是同一条边&lt;/p&gt;
+&lt;p&gt;一列 / 行连着 4 个面，两头的两条边是同一条边&lt;/p&gt;
+&lt;p&gt;相邻三个面的公共点是唯一的&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;三个面在一起 -- 优先公共点&lt;/li&gt;
+&lt;li&gt;三个面没在一起 -- 优先公共边&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <category term="公考" scheme="http://rainyblue.cn/categories/Work/civil-service/" />
         <category term="公考" scheme="http://rainyblue.cn/tags/%E5%85%AC%E8%80%83/" />
-        <updated>2024-07-02T12:46:25.000Z</updated>
+        <updated>2024-07-04T01:30:00.000Z</updated>
     </entry>
     <entry>
         <id>http://rainyblue.cn/2024/07/02/Work/civil-service/civil-service-list/</id>
-        <title>工作记录</title>
+        <title>公考了解</title>
         <link rel="alternate" href="http://rainyblue.cn/2024/07/02/Work/civil-service/civil-service-list/"/>
-        <content type="html">&lt;h1 id=&#34;工作记录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#工作记录&#34;&gt;#&lt;/a&gt; 工作记录&lt;/h1&gt;
+        <content type="html">&lt;hr /&gt;
+&lt;h1 id=&#34;规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#规划&#34;&gt;#&lt;/a&gt; 规划&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;了解什么是公务员，优劣势、薪资待遇、考试时间、考试内容、如何学习&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公务员，是指依法履行公职、纳入国家行政编制、由国家财政负担工资福利的工作人员&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;国家公务员级别分为一级到二十七级 27 个级别。中华人民共和国公务员职务分为国家级正职到乡科级副职 10 级领导职务。公务员的职责是执行国家的法律、法规和政策，管理国家行政事务，提供公共服务，保障国家利益和人民的福祉。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;公务员的薪资待遇由基本工资、津贴补贴和奖金三部分组成&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;基本工资&lt;/strong&gt;：公务员的基本工资由职务工资和级别工资构成，是工资结构的主体，也是确定公务员退休金、抚恤金等项目的主要依据。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;津贴补贴&lt;/strong&gt;：公务员的津贴补贴根据不同地区和岗位的实际情况而有所不同，通常包括地区附加津贴、岗位津贴等。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;奖金&lt;/strong&gt;：公务员的奖金是根据每年的考核结果来发放的，考核结果分为优秀、称职、基本称职和不称职四个等次，奖金发放也会有所差异。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;根据自身情况（专业，优势）确定职位&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开始复习&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;各科提前做 1 套真题，了解考试内容，看看擅长和不擅长的版块规&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;划重要阶段节点，一般把备考分成：基础 + 强化 + 巩固 + 冲刺 4 步&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提前想好如何分配工作、上学和备考之间的时间&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提前确定好各科用什么资料&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;确定好各科需要用到的网课，可以多尝试一些机构试听课&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;行测各模块备考顺序 (建议先资料、判断、言语，再常识、数量)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;申论小题在前，大作文先不学，没事半月谈看看文章提升下语感&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;省考-国考-事业编&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#省考-国考-事业编&#34;&gt;#&lt;/a&gt; 省考、国考、事业编&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;内容&lt;/th&gt;
+&lt;th&gt;国考&lt;/th&gt;
+&lt;th&gt;省考&lt;/th&gt;
+&lt;th&gt;事业编&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;考试时间&lt;/td&gt;
+&lt;td&gt;11 月底或 12 月初&lt;/td&gt;
+&lt;td&gt;3 月份左右&lt;/td&gt;
+&lt;td&gt;上半年在 5 月份 下半年在 10 月份&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;报名方式&lt;/td&gt;
+&lt;td&gt;国家公务员网&lt;/td&gt;
+&lt;td&gt;各省公考网&lt;/td&gt;
+&lt;td&gt;各省人事考试网&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;考试难度&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\bigstar \bigstar \bigstar \bigstar \bigstar&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8866799999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\bigstar \bigstar \bigstar \bigstar \bigstar&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8866799999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;td&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;★&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\bigstar \bigstar \bigstar \bigstar&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8866799999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;span class=&#34;mord amsrm&#34;&gt;★&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;题目数量&lt;/td&gt;
+&lt;td&gt;行测：135 道左右                申论：归纳概括、综 合分析、提出对策、 应用文、大作文共 5 道， 材料字数一般为 8000 字左右&lt;/td&gt;
+&lt;td&gt;行测：120 道左右      申论：五道类似国考 材料字数一般为 5000 字左右&lt;/td&gt;
+&lt;td&gt;公基： 100 题左右 - 100 分 职测： 100 题 - 150 分 综应： 4 道主观题 - 150 分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;分数&lt;/td&gt;
+&lt;td&gt;行测、申论各 100 分&lt;/td&gt;
+&lt;td&gt;行测、申论各 100 分&lt;/td&gt;
+&lt;td&gt;100 分 / 150 分 / 150 分&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;考试时长&lt;/td&gt;
+&lt;td&gt;行测：120 分钟 申论：180 分钟&lt;/td&gt;
+&lt;td&gt;行测：120 分钟 申论：150 分钟&lt;/td&gt;
+&lt;td&gt;公基：90 分钟 职测：90 分钟 综应：120 分钟&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;年龄&lt;/td&gt;
+&lt;td&gt;35 岁以下，研究生、博士适当放宽&lt;/td&gt;
+&lt;td&gt;35 岁以下，研究生、博士适当放宽&lt;/td&gt;
+&lt;td&gt;35 岁以下，研究生、博士适当放宽&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学历&lt;/td&gt;
+&lt;td&gt;专科及以上&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;专科及以上&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;招考数量&lt;/td&gt;
+&lt;td&gt;事业编＞省考＞国考&lt;/td&gt;
+&lt;td&gt;事业编＞省考＞国考&lt;/td&gt;
+&lt;td&gt;事业编＞省考＞国考&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;编制&lt;/td&gt;
+&lt;td&gt;行政编&lt;/td&gt;
+&lt;td&gt;行政编&lt;/td&gt;
+&lt;td&gt;事业编&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;国考重要时间节点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#国考重要时间节点&#34;&gt;#&lt;/a&gt; 国考重要时间节点&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;报名时间：2024 年 10 月 5 日 8:00-10 月 24 日 18:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;资格审核时间：2024 年 10 月 15 日 8:00-10 月 26 日 18:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;查询报名序号：2024 年 10 月 28 日 8:00 后&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网上报名确认缴费：2024 年 11 月 1 日 0:00-11 月 6 日 24:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;准考证打印：2024 年 11 月 20 日 0:00-11 月 26 日 15:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;笔试时间:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;行测 2024 年 11 月 26 日上午 9:00-11:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;申论 2024 年 11 月 26 日下午 14:00-17:00&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;24备考规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24备考规划&#34;&gt;#&lt;/a&gt; 24 备考规划&lt;/h1&gt;
+&lt;p&gt;【2024 年 4 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;先筛选岗位，下载往年的岗位表，根据专业学历、地区、政治面貌等条件筛选符合的岗位，岗位表虽然每年都会变动，但是差异不大完全可作为参考&lt;/li&gt;
+&lt;li&gt;了解考公基本信息，包括时问、内容、难度；确定教材、网课、复习时长等&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2024 年 5-6 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;行测五大模块开始刷网课，每天一节；看课前先做预习，听完一节课做一节课的思维导图，听课后把相关的习题做一遍，剩下的时间用来做复盘&lt;/li&gt;
+&lt;li&gt;听不懂的部分，结合题目反复听，反复做&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2024 年 7-9 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;行测申论几大模块，轮流刷题，一开始不要限制时间，重点把题理解透彻&lt;/li&gt;
+&lt;li&gt;这期间可以听一些拔高类型的课程，资料分析全题型刷题，查漏补缺，申论素材积累、申论真题分析、常识口诀背诵&lt;/li&gt;
+&lt;li&gt;高途考公提供相关资料，助教老师全程伴学，及时答疑解惑，还有高途考公直播试听课可以辅助着进行备考学习&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2024 年 10 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;下载近五年国考及省考的真题试卷，按照一周 3-4 套的标准来做，上午行测、下午申论，可以留一天的时间做复盘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;开始积累时政热点、常识口诀也可以背起来，继续刷真题，探索做题顺序和时间分配&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;10 月国考公告岗位表发布，查询资格审查结果，准备报名事项筛选岗位。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;【2024 年 11 月】&lt;br /&gt;
+到 11 月结束，所有的真题至少要刷三遍以上，一周五套的节奏&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;11 月底国考笔试，上午行测，下午申论&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2024 年 12 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;国考结束后，不要懈怠，北上广深、 山东、江浙的省考也紧跟其后；&lt;/li&gt;
+&lt;li&gt;联考省份的宝子们，也可以立马投入到省考的复习中&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2025 年 1 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;国考成绩会出来，部分省份的省考公告也会出来&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;【2025 年 2 月】&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;大部分联考省份公告会出来，一定要选岗报名&lt;/li&gt;
+&lt;/ol&gt;
 </content>
         <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <category term="公考" scheme="http://rainyblue.cn/categories/Work/civil-service/" />
@@ -392,8 +793,8 @@
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <updated>2024-06-23T07:30:00.000Z</updated>
     </entry>
     <entry>
@@ -687,8 +1088,8 @@ D.pyecharts&lt;/p&gt;
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <updated>2024-06-23T07:00:00.000Z</updated>
     </entry>
     <entry>
@@ -2351,8 +2752,8 @@ swiper image&amp;#123;
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <updated>2024-06-22T04:00:00.000Z</updated>
     </entry>
     <entry>
@@ -12882,8 +13283,8 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="数据分析" scheme="http://rainyblue.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
         <updated>2024-06-18T01:01:00.000Z</updated>
     </entry>
@@ -13953,8 +14354,8 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
+        <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
         <category term="数据分析" scheme="http://rainyblue.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
         <updated>2024-06-18T00:01:00.000Z</updated>
     </entry>
