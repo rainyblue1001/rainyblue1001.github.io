@@ -11,9 +11,9 @@
     <updated>2024-07-04T01:30:00.000Z</updated>
     <category term="Shoka" />
     <entry>
-        <id>http://rainyblue.cn/2024/07/04/Work/civil-service/Graphical-reasoning/</id>
-        <title>推理判断-图形推理</title>
-        <link rel="alternate" href="http://rainyblue.cn/2024/07/04/Work/civil-service/Graphical-reasoning/"/>
+        <id>http://rainyblue.cn/2024/07/04/Work/civil-service/Judgmental-reasoning/</id>
+        <title>推理判断</title>
+        <link rel="alternate" href="http://rainyblue.cn/2024/07/04/Work/civil-service/Judgmental-reasoning/"/>
         <content type="html">&lt;h1 id=&#34;第一章-图形推理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章-图形推理&#34;&gt;#&lt;/a&gt; 第一章、图形推理&lt;/h1&gt;
 &lt;p&gt;图形推理的出题形式：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240704145739550.png&#34; alt=&#34;image-20240704145739550&#34; /&gt;&lt;/p&gt;
@@ -61,7 +61,7 @@
 &lt;li&gt;左右翻转：竖轴对称&lt;/li&gt;
 &lt;li&gt;上下翻转：横轴对称&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id=&#34;选择&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#选择&#34;&gt;#&lt;/a&gt; 选择&lt;/h4&gt;
+&lt;h4 id=&#34;旋转&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#旋转&#34;&gt;#&lt;/a&gt; 旋转&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;方向：顺 / 逆时针&lt;/p&gt;
@@ -74,6 +74,8 @@
 &lt;p&gt;重要思维：&lt;/p&gt;
 &lt;p&gt;多个元素分开看，对比选项找差异&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&#34;思维导图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706204340869.png&#34; alt=&#34;image-20240706204340869&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;2-样式规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-样式规律&#34;&gt;#&lt;/a&gt; 2、样式规律&lt;/h2&gt;
 &lt;p&gt;“样式规律” 图形特征：元素组成相似&lt;/p&gt;
 &lt;p&gt;考点：&lt;/p&gt;
@@ -102,6 +104,8 @@
 &lt;li&gt;大块面积一起看&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&#34;思维导图-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-2&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706204422799.png&#34; alt=&#34;image-20240706204422799&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;3-属性规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-属性规律&#34;&gt;#&lt;/a&gt; 3、属性规律&lt;/h2&gt;
 &lt;p&gt;“属性规律” 图形特征：元素组成不相同、不相似&lt;/p&gt;
 &lt;blockquote&gt;
@@ -143,6 +147,8 @@
 &lt;li&gt;全开放&lt;/li&gt;
 &lt;li&gt;半开半闭&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h3 id=&#34;思维导图-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-3&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/20240706204702.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;4-数量规律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-数量规律&#34;&gt;#&lt;/a&gt; 4、数量规律&lt;/h2&gt;
 &lt;p&gt;” 数量规律 “图形特征：&lt;/p&gt;
 &lt;ul&gt;
@@ -203,12 +209,8 @@
 &lt;li&gt;切点：相切图较多，切点明显&lt;/li&gt;
 &lt;li&gt;框上 / 框内交点：所有图形都有外框，且内部线条与外框存在相交的情况&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;生活化、粗线条图形常见考法：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;属性（对称、开闭）&lt;/li&gt;
-&lt;li&gt;部门数&lt;/li&gt;
-&lt;li&gt;面&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&#34;思维导图-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-4&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/20240706204822.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;5空间重构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#5空间重构&#34;&gt;#&lt;/a&gt; 5. 空间重构&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;折叠方向&lt;/p&gt;
@@ -221,9 +223,279 @@
 &lt;p&gt;一列 / 行连着 4 个面，两头的两条边是同一条边&lt;/p&gt;
 &lt;p&gt;相邻三个面的公共点是唯一的&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;三个面在一起 -- 优先公共点&lt;/li&gt;
-&lt;li&gt;三个面没在一起 -- 优先公共边&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三个面在一起 -- 优先公共点&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;三个面没在一起 -- 优先公共边&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;思维导图-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-5&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706204943699.png&#34; alt=&#34;image-20240706204943699&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;生活化-粗线条图形常见考法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生活化-粗线条图形常见考法&#34;&gt;#&lt;/a&gt; 生活化、粗线条图形常见考法&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;属性（对称、开闭）&lt;/li&gt;
+&lt;li&gt;部门数&lt;/li&gt;
+&lt;li&gt;面&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;第二章-类比推理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章-类比推理&#34;&gt;#&lt;/a&gt; 第二章、类比推理&lt;/h1&gt;
+&lt;h2 id=&#34;1-语义关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-语义关系&#34;&gt;#&lt;/a&gt; 1、语义关系&lt;/h2&gt;
+&lt;h3 id=&#34;考点1近义关系-反义关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1近义关系-反义关系&#34;&gt;#&lt;/a&gt; 考点 1：近义关系、反义关系&lt;/h3&gt;
+&lt;p&gt;1. 近义关系：词语意思相近  例：谦虚∶虚心     走投无路∶山穷水尽 &lt;br /&gt;
+1. 反义关系：词语意思相反  例：慎重∶草率     高瞻远瞩∶鼠目寸光&lt;/p&gt;
+&lt;h3 id=&#34;考点2比喻义-象征义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2比喻义-象征义&#34;&gt;#&lt;/a&gt; 考点 2：比喻义、象征义&lt;/h3&gt;
+&lt;p&gt;1. 比喻义：用跟甲事物有某种相似之处的乙事物来说明甲事物  例：月亮∶小船 &lt;br /&gt;
+1. 象征义：借助某物的具体形象，以表现某种抽象的概念、思想和情感  例：鸽子∶和平&lt;/p&gt;
+&lt;h2 id=&#34;2-逻辑关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-逻辑关系&#34;&gt;#&lt;/a&gt; 2、逻辑关系&lt;/h2&gt;
+&lt;h3 id=&#34;考点1全同关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1全同关系&#34;&gt;#&lt;/a&gt; 考点 1：全同关系&lt;/h3&gt;
+&lt;p&gt;全同关系：两个词语意思完全相同 例：蝉∶知了&lt;/p&gt;
+&lt;h3 id=&#34;考点2并列关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2并列关系&#34;&gt;#&lt;/a&gt; 考点 2：并列关系&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;矛盾关系：是指只有对立的两种情况，不存在第三种情况，二者是非此即彼的 关系 例：动∶静  等腰∶非等腰&lt;/li&gt;
+&lt;li&gt;反对关系：是指在所列的两种情况之外，还存在其他情况，二者不是非此即彼 的关系  例：水稻∶小麦  草鱼∶鲤鱼&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点3包容关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3包容关系&#34;&gt;#&lt;/a&gt; 考点 3：包容关系&lt;/h3&gt;
+&lt;p&gt;1. 种属关系：A 是 B 的一种  例：橡皮∶文具 &lt;br /&gt;
+1. 组成关系：A 是 B 的一个组成部分  例：氧气∶空气 &lt;br /&gt;
+1. 区分：具备包容关系的词语中，若能用 “是” 造句子且造得通顺，则词语间为种 属关系&lt;/p&gt;
+&lt;h3 id=&#34;考点4交叉关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点4交叉关系&#34;&gt;#&lt;/a&gt; 考点 4：交叉关系&lt;/h3&gt;
+&lt;p&gt;判定技巧 —— 造句子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有的 A 是 B  且  有的 A 不是 B&lt;/li&gt;
+&lt;li&gt;有的 B 是 A   且   有的 B 不是 A&lt;/li&gt;
+&lt;li&gt;例：男教师∶公办教师&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点5对应关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点5对应关系&#34;&gt;#&lt;/a&gt; 考点 5：对应关系&lt;/h3&gt;
+&lt;p&gt;高频对应关系：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;材料                    例：玻璃：鱼缸&lt;/li&gt;
+&lt;li&gt;工艺                    例：酱油：发酵&lt;/li&gt;
+&lt;li&gt;功能                     例：药物：治病&lt;/li&gt;
+&lt;li&gt;属性                     例：金属：导电性&lt;/li&gt;
+&lt;li&gt;时间顺序              例：设计：制作：售卖&lt;/li&gt;
+&lt;li&gt;因果                      例：营养不良：发育迟缓&lt;/li&gt;
+&lt;li&gt;方式目的              例：扶贫：脱贫&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;3语法关系&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3语法关系&#34;&gt;#&lt;/a&gt; 3. 语法关系&lt;/h3&gt;
+&lt;p&gt;通常在运用语义关系或逻辑关系找不到答案的情况下，再考虑语法关系&lt;/p&gt;
+&lt;p&gt;1. 主谓关系  例：记者∶采访 裁缝∶剪裁&lt;br /&gt;
+ 2. 动宾关系  例：修剪∶枝叶 排除∶嫌疑 &lt;br /&gt;
+3. 主宾关系  例：农民∶水稻 医生∶患者&lt;/p&gt;
+&lt;h2 id=&#34;3-思维导图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-思维导图&#34;&gt;#&lt;/a&gt; 3、思维导图&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706210930207.png&#34; alt=&#34;image-20240706210930207&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;第三章-定义判断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章-定义判断&#34;&gt;#&lt;/a&gt; 第三章、定义判断&lt;/h1&gt;
+&lt;h2 id=&#34;1-读得准&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-读得准&#34;&gt;#&lt;/a&gt; 1、读得准&lt;/h2&gt;
+&lt;h3 id=&#34;考点1主体-客体&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1主体-客体&#34;&gt;#&lt;/a&gt; 考点 1：主体、客体&lt;/h3&gt;
+&lt;p&gt;关注主体、客体，主体、客体错误的选项一定不符合定义&lt;/p&gt;
+&lt;h3 id=&#34;考点2句式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2句式&#34;&gt;#&lt;/a&gt; 考点 2：句式&lt;/h3&gt;
+&lt;p&gt;常见句式引导词：&lt;/p&gt;
+&lt;p&gt;大前提：当…… 时、在…… 过程中、在…… 后&lt;/p&gt;
+&lt;p&gt;方式：通过、利用&lt;/p&gt;
+&lt;p&gt;目的：以、达到&lt;/p&gt;
+&lt;p&gt;原因：因为、由于&lt;/p&gt;
+&lt;p&gt;结果：导致、从而&lt;/p&gt;
+&lt;h2 id=&#34;2-都得快&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-都得快&#34;&gt;#&lt;/a&gt; 2、都得快&lt;/h2&gt;
+&lt;h3 id=&#34;考点1长定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1长定义&#34;&gt;#&lt;/a&gt; 考点 1：长定义&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;优先看定义所在的句子&lt;/li&gt;
+&lt;li&gt;有解释说明，重点关注解释说明&lt;/li&gt;
+&lt;li&gt;常见的解释说明引导词：即、包括、也就是说、以下情形……&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点2多定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2多定义&#34;&gt;#&lt;/a&gt; 考点 2：多定义&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;问哪个定义优先看哪个定义&lt;/li&gt;
+&lt;li&gt;在两个选项中纠结时，再与其他定义做对比&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点3拆词&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3拆词&#34;&gt;#&lt;/a&gt; 考点 3：拆词&lt;/h3&gt;
+&lt;p&gt;运用：定义本身词汇通俗易懂，优先关注；题干读不懂或选项纠结时，可成为重 要破题点&lt;/p&gt;
+&lt;h2 id=&#34;3-思维导图-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-思维导图-2&#34;&gt;#&lt;/a&gt; 3、思维导图&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706211504105.png&#34; alt=&#34;image-20240706211504105&#34; /&gt;&lt;/p&gt;
+&lt;h1 id=&#34;第四章-逻辑判断翻译推理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章-逻辑判断翻译推理&#34;&gt;#&lt;/a&gt; 第四章、逻辑判断（翻译推理）&lt;/h1&gt;
+&lt;h2 id=&#34;1-翻译推理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1-翻译推理&#34;&gt;#&lt;/a&gt; 1、翻译推理&lt;/h2&gt;
+&lt;p&gt;题型特征：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;题干出现明显的逻辑关联词&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;提问方式为 “可以推出”“不能推出”&lt;/p&gt;
+&lt;p&gt;解题思维： ①先翻译 ② 再推理&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点1前推后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1前推后&#34;&gt;#&lt;/a&gt; 考点 1：“前推后”&lt;/h3&gt;
+&lt;p&gt;典型逻辑关联词：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;如果…… 那么……&lt;/li&gt;
+&lt;li&gt;若…… 则……&lt;/li&gt;
+&lt;li&gt;只要…… 就……&lt;/li&gt;
+&lt;li&gt;所有…… 都……&lt;/li&gt;
+&lt;li&gt;为了…… 一定……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;速记口诀：如果、就、都、一定&lt;/p&gt;
+&lt;h3 id=&#34;考点2逆否等价&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2逆否等价&#34;&gt;#&lt;/a&gt; 考点 2：“逆否等价”&lt;/h3&gt;
+&lt;p&gt;符号表示：A→B = －B→－A&lt;/p&gt;
+&lt;p&gt;文字表示：肯前必肯后，否后必否前，否前肯后不必然（可能 / 可能不）&lt;/p&gt;
+&lt;h3 id=&#34;考点3后推前&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3后推前&#34;&gt;#&lt;/a&gt; 考点 3：“后推前”&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;典型逻辑关联词：&lt;/li&gt;
+&lt;li&gt;只有…… 才……&lt;/li&gt;
+&lt;li&gt;不…… 不……&lt;/li&gt;
+&lt;li&gt;除非…… 否则不……&lt;/li&gt;
+&lt;li&gt;…… 是…… 的基础 / 假设 / 前提 / 关键&lt;/li&gt;
+&lt;li&gt;…… 是…… 的必要条件 / 必不可少的条件&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点4且与或&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点4且与或&#34;&gt;#&lt;/a&gt; 考点 4：“且” 与 “或”&lt;/h3&gt;
+&lt;p&gt;二者同时成立&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;符号表示：A 且 B&lt;/li&gt;
+&lt;li&gt;典型逻辑关联词：
+&lt;ul&gt;
+&lt;li&gt;…… 和……&lt;/li&gt;
+&lt;li&gt;…… 并且……&lt;/li&gt;
+&lt;li&gt;既…… 又……&lt;/li&gt;
+&lt;li&gt;不仅…… 而且……&lt;/li&gt;
+&lt;li&gt;虽然…… 但是……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;二者至少一个成立&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;符号表示：A 或 B&lt;/li&gt;
+&lt;li&gt;典型逻辑关联词：
+&lt;ul&gt;
+&lt;li&gt;…… 或者……&lt;/li&gt;
+&lt;li&gt;或者…… 或者……&lt;/li&gt;
+&lt;li&gt;…… 和…… 至少有一个&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;考点5否一推一&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点5否一推一&#34;&gt;#&lt;/a&gt; 考点 5：“否一推一”&lt;/h3&gt;
+&lt;p&gt;符号表示：A 或 B 为真，-A→B/-B→A&lt;/p&gt;
+&lt;p&gt;文字表示：当 “或” 关系为真时，否定一项可以得到另一项&lt;/p&gt;
+&lt;h3 id=&#34;考点6德摩根定律&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点6德摩根定律&#34;&gt;#&lt;/a&gt; 考点 6：“德・摩根定律”&lt;/h3&gt;
+&lt;p&gt;-（A 且 B）＝-A 或 - B-&lt;/p&gt;
+&lt;p&gt;（A 或 B）＝-A 且 - B&lt;/p&gt;
+&lt;h3 id=&#34;思维导图-6&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-6&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706212320853.png&#34; alt=&#34;image-20240706212320853&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;2-组合排列&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2-组合排列&#34;&gt;#&lt;/a&gt; 2、组合排列&lt;/h2&gt;
+&lt;h3 id=&#34;考点1排除法与代入法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1排除法与代入法&#34;&gt;#&lt;/a&gt; 考点 1：排除法与代入法&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;排除法&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;代入法&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（1）题干条件有真有假&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（2）提问方式为 “补充以下哪个条件”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（3）提问方式为 “可能”“不可能”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;题干信息确定，优先使用排除法；题干信息不确定，优先使用代入法&lt;/p&gt;
+&lt;h3 id=&#34;考点2推理起点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2推理起点&#34;&gt;#&lt;/a&gt; 考点 2：推理起点&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;确定信息：以题干中给出的确定信息为推理起点&lt;/li&gt;
+&lt;li&gt;最大信息：以题干中出现次数最多的信息为推理起点&lt;/li&gt;
+&lt;li&gt;假设法：最大信息不确定，或代入复杂&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;考点3材料题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3材料题&#34;&gt;#&lt;/a&gt; 考点 3：材料题&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;与非材料题的解题方法一致&lt;/li&gt;
+&lt;li&gt;通过材料直接推出来的结论可以直接应用于所有题目&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;思维导图-7&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#思维导图-7&#34;&gt;#&lt;/a&gt; 思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706212710787.png&#34; alt=&#34;image-20240706212710787&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3-日常结论&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#3-日常结论&#34;&gt;#&lt;/a&gt; 3、日常结论&lt;/h2&gt;
+&lt;p&gt;题型特征：题干为类言语的表述，无明显逻辑关联词；提问方式为 “可以推 出”“不能推出” 等&lt;/p&gt;
+&lt;p&gt;解题思维：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;不选&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）逻辑错误&lt;/li&gt;
+&lt;li&gt;（2）无中生有&lt;/li&gt;
+&lt;li&gt;（3）偷换概念&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;慎选&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;（1）比较性的词：比……、越来越……、更等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（2）绝对化的词：一定、必须、肯定、只要…… 就……、只有…… 才…… 等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;（3）程度性的词：最 / 极大 / 很等&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;优选&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可能性表述：可能、有的、有些等&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706213015729.png&#34; alt=&#34;image-20240706213015729&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4-逻辑判断&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#4-逻辑判断&#34;&gt;#&lt;/a&gt; 4、逻辑判断&lt;/h2&gt;
+&lt;p&gt;论证的基础知识：&lt;/p&gt;
+&lt;p&gt;1. 论点：观点、态度、结论&lt;br /&gt;
+ 2. 论据：证明论点成立的原因、例子&lt;br /&gt;
+ 3. 论证：论点与论据之间的联系&lt;/p&gt;
+&lt;p&gt;找论点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;结合提问方式&lt;/li&gt;
+&lt;li&gt;关键词：因此、所以、认为、由此推出、据此可知等&lt;/li&gt;
+&lt;li&gt;首尾句原则&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;找论据：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;关键词：由于、因为、理由是、根据等&lt;/li&gt;
+&lt;li&gt;就近原则：如果文段有论据，一般紧挨着论点&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;解题步骤： 第一步：看清问法（削弱 / 反驳 / 质疑，加强 / 支持、前提 / 假设）&lt;/p&gt;
+&lt;h3 id=&#34;考点1削弱之否定论点&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点1削弱之否定论点&#34;&gt;#&lt;/a&gt; 考点 1：削弱之否定论点&lt;/h3&gt;
+&lt;p&gt;题干特征： （1）只有论点，无论据 （2）论点、论据话题一致&lt;/p&gt;
+&lt;p&gt;选项特征：与论点表述的意思相反&lt;/p&gt;
+&lt;h3 id=&#34;考点2削弱之拆桥&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点2削弱之拆桥&#34;&gt;#&lt;/a&gt; 考点 2：削弱之拆桥&lt;/h3&gt;
+&lt;p&gt;题干特征： （1）论点、论据话题不一致 （2）提问方式为 “削弱论证” 时，可优先考虑拆桥&lt;/p&gt;
+&lt;p&gt;选项特征：指出论点与论据之间没有必然联系&lt;/p&gt;
+&lt;h3 id=&#34;考点3削弱之否定论据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点3削弱之否定论据&#34;&gt;#&lt;/a&gt; 考点 3：削弱之否定论据&lt;/h3&gt;
+&lt;p&gt;题目特征：&lt;/p&gt;
+&lt;p&gt;（1）题干中出现支持方、反对方观点相反的情况，经常采用否定论据来削弱 （2）题干存在论据且找不到否定论点和拆桥的选项时，考虑否定论据&lt;/p&gt;
+&lt;p&gt;选项特征：与论据表述的意思相反&lt;/p&gt;
+&lt;h3 id=&#34;考点4削弱之因果倒置和他因削弱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点4削弱之因果倒置和他因削弱&#34;&gt;#&lt;/a&gt; 考点 4：削弱之因果倒置和他因削弱&lt;/h3&gt;
+&lt;p&gt;题干特征： 论点具有因果关系&lt;/p&gt;
+&lt;p&gt;选项特征：&lt;/p&gt;
+&lt;p&gt;（1）因果倒置：将论点中的因果关系顺序颠倒&lt;/p&gt;
+&lt;p&gt;（2）他因削弱：在论点原因 1 的基础上，选项增加另一个同时存在的原因 2，也 可能导致该结果，削弱的是原来原因 1 的重要性或者唯一性&lt;/p&gt;
+&lt;h3 id=&#34;特殊提问不能削弱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特殊提问不能削弱&#34;&gt;#&lt;/a&gt; 特殊提问：不能削弱&lt;/h3&gt;
+&lt;h3 id=&#34;削弱论证的思维导图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#削弱论证的思维导图&#34;&gt;#&lt;/a&gt; 削弱论证的思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706213347834.png&#34; alt=&#34;image-20240706213347834&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;考点5加强之补充论据&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点5加强之补充论据&#34;&gt;#&lt;/a&gt; 考点 5：加强之补充论据&lt;/h3&gt;
+&lt;p&gt;题干特征： （1）只有论点，无论据 （2）论点、论据话题一致&lt;/p&gt;
+&lt;p&gt;选项特征：&lt;/p&gt;
+&lt;p&gt;解释原因 —— 说明论点成立的原因&lt;/p&gt;
+&lt;p&gt;举例子 —— 证明论点成立的例子&lt;/p&gt;
+&lt;h3 id=&#34;考点6加强之搭桥&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点6加强之搭桥&#34;&gt;#&lt;/a&gt; 考点 6：加强之搭桥&lt;/h3&gt;
+&lt;p&gt;题干特征：&lt;/p&gt;
+&lt;p&gt;（1）提问方式为 “前提”“假设” 时，优先考虑搭桥&lt;/p&gt;
+&lt;p&gt;（2）论点、论据话题不一致 选项特征：指出论点与论据之间有关系&lt;/p&gt;
+&lt;h3 id=&#34;考点7加强之必要条件&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考点7加强之必要条件&#34;&gt;#&lt;/a&gt; 考点 7：加强之必要条件&lt;/h3&gt;
+&lt;p&gt;题目特征：提问方式为 “前提”“假设”，且无搭桥项；或只有论点&lt;/p&gt;
+&lt;p&gt;选项特征：选项为论点成立的必要条件（没它不行）&lt;/p&gt;
+&lt;h3 id=&#34;特殊提问不能加强&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#特殊提问不能加强&#34;&gt;#&lt;/a&gt; 特殊提问：不能加强&lt;/h3&gt;
+&lt;h3 id=&#34;加强论证的思维导图&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#加强论证的思维导图&#34;&gt;#&lt;/a&gt; 加强论证的思维导图&lt;/h3&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://images.weserv.nl/?url=https://raw.githubusercontent.com/rainyblue1001/image/main/img/image-20240706213618513.png&#34; alt=&#34;image-20240706213618513&#34; /&gt;&lt;/p&gt;
 </content>
         <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <category term="公考" scheme="http://rainyblue.cn/categories/Work/civil-service/" />
@@ -255,10 +527,10 @@
 &lt;p&gt;开始复习&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;各科提前做 1 套真题，了解考试内容，看看擅长和不擅长的版块规&lt;/p&gt;
+&lt;p&gt;各科提前做 1 套真题，了解考试内容，看看擅长和不擅长的版块&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;划重要阶段节点，一般把备考分成：基础 + 强化 + 巩固 + 冲刺 4 步&lt;/p&gt;
+&lt;p&gt;规划重要阶段节点，一般把备考分成：基础 + 强化 + 巩固 + 冲刺 4 步&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;提前想好如何分配工作、上学和备考之间的时间&lt;/p&gt;
@@ -297,7 +569,7 @@
 &lt;td&gt;报名方式&lt;/td&gt;
 &lt;td&gt;国家公务员网&lt;/td&gt;
 &lt;td&gt;各省公考网&lt;/td&gt;
-&lt;td&gt;各省人事考试网&lt;/td&gt;
+&lt;td&gt;guan 各省人事考试网&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;考试难度&lt;/td&gt;
@@ -307,9 +579,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;题目数量&lt;/td&gt;
-&lt;td&gt;行测：135 道左右                申论：归纳概括、综 合分析、提出对策、 应用文、大作文共 5 道， 材料字数一般为 8000 字左右&lt;/td&gt;
-&lt;td&gt;行测：120 道左右      申论：五道类似国考 材料字数一般为 5000 字左右&lt;/td&gt;
-&lt;td&gt;公基： 100 题左右 - 100 分 职测： 100 题 - 150 分 综应： 4 道主观题 - 150 分&lt;/td&gt;
+&lt;td&gt;行测：135 道左右                                               申论：归纳概括、综合分析、提出对策、 应用文、大作文共 5 道， 材料字数一般为 8000 字左右&lt;/td&gt;
+&lt;td&gt;行测：120 道左右               申论：五道类似国考 材料字数一般为 5000 字左右&lt;/td&gt;
+&lt;td&gt;公基： 100 题左右 - 100 分 职测： 100 题 - 150 分         综应： 4 道主观题 - 150 分&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;分数&lt;/td&gt;
@@ -320,7 +592,7 @@
 &lt;tr&gt;
 &lt;td&gt;考试时长&lt;/td&gt;
 &lt;td&gt;行测：120 分钟 申论：180 分钟&lt;/td&gt;
-&lt;td&gt;行测：120 分钟 申论：150 分钟&lt;/td&gt;
+&lt;td&gt;行测：120 分钟                  申论：150 分钟&lt;/td&gt;
 &lt;td&gt;公基：90 分钟 职测：90 分钟 综应：120 分钟&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -332,7 +604,7 @@
 &lt;tr&gt;
 &lt;td&gt;学历&lt;/td&gt;
 &lt;td&gt;专科及以上&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;专科及以上&lt;/td&gt;
 &lt;td&gt;专科及以上&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -378,13 +650,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h1 id=&#34;24备考规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24备考规划&#34;&gt;#&lt;/a&gt; 24 备考规划&lt;/h1&gt;
-&lt;p&gt;【2024 年 4 月】&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;先筛选岗位，下载往年的岗位表，根据专业学历、地区、政治面貌等条件筛选符合的岗位，岗位表虽然每年都会变动，但是差异不大完全可作为参考&lt;/li&gt;
-&lt;li&gt;了解考公基本信息，包括时问、内容、难度；确定教材、网课、复习时长等&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;【2024 年 5-6 月】&lt;/p&gt;
+&lt;h1 id=&#34;24备考时间规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#24备考时间规划&#34;&gt;#&lt;/a&gt; 24 备考时间规划&lt;/h1&gt;
+&lt;p&gt;【2024 年 6-7 月】&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;行测五大模块开始刷网课，每天一节；看课前先做预习，听完一节课做一节课的思维导图，听课后把相关的习题做一遍，剩下的时间用来做复盘&lt;/li&gt;
 &lt;li&gt;听不懂的部分，结合题目反复听，反复做&lt;/li&gt;
@@ -396,24 +663,30 @@
 &lt;li&gt;高途考公提供相关资料，助教老师全程伴学，及时答疑解惑，还有高途考公直播试听课可以辅助着进行备考学习&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;【2024 年 10 月】&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;国考报名时间：2024 年 10 月 5 日 8:00-10 月 24 日 18:00&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;资格审核时间：2024 年 10 月 15 日 8:00-10 月 26 日 18:00&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;查询报名序号：2024 年 10 月 28 日 8:00 后&lt;/span&gt;&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;下载近五年国考及省考的真题试卷，按照一周 3-4 套的标准来做，上午行测、下午申论，可以留一天的时间做复盘&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;开始积累时政热点、常识口诀也可以背起来，继续刷真题，探索做题顺序和时间分配&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;10 月国考公告岗位表发布，查询资格审查结果，准备报名事项筛选岗位。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;【2024 年 11 月】&lt;br /&gt;
-到 11 月结束，所有的真题至少要刷三遍以上，一周五套的节奏&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;11 月底国考笔试，上午行测，下午申论&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;下载近五年国考及省考的真题试卷，按照一周 3-4 套的标准来做，上午行测、下午申论，可以留一天的时间做复盘&lt;/li&gt;
+&lt;li&gt;开始积累时政热点、常识口诀也可以背起来，继续刷真题，探索做题顺序和时间分配&lt;/li&gt;
+&lt;li&gt;10 月国考公告岗位表发布，查询资格审查结果，准备报名事项筛选岗位。&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;【2024 年 11 月】&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;网上报名确认缴费：2024 年 11 月 1 日 0:00-11 月 6 日 24:00&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;准考证打印：2024 年 11 月 20 日 0:00-11 月 26 日 15:00&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;到 11 月结束，所有的真题至少要刷三遍以上，一周五套的节奏&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;11 月底国考笔试，上午行测，下午申论&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;笔试时间:&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;行测 2024 年 11 月 26 日上午 9:00-11:00&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;span class=&#34;red&#34;&gt;申论 2024 年 11 月 26 日下午 14:00-17:00&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;【2024 年 12 月】&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;国考结束后，不要懈怠，北上广深、 山东、江浙的省考也紧跟其后；&lt;/li&gt;
@@ -427,6 +700,111 @@
 &lt;ol&gt;
 &lt;li&gt;大部分联考省份公告会出来，一定要选岗报名&lt;/li&gt;
 &lt;/ol&gt;
+&lt;h1 id=&#34;行测题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#行测题型&#34;&gt;#&lt;/a&gt; 行测题型&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;模块&lt;/th&gt;
+&lt;th&gt;题型&lt;/th&gt;
+&lt;th&gt;题量&lt;/th&gt;
+&lt;th&gt;分值 / 题&lt;/th&gt;
+&lt;th&gt;总分&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;言语理解与表达&lt;/td&gt;
+&lt;td&gt;40&lt;/td&gt;
+&lt;td&gt;0.8&lt;/td&gt;
+&lt;td&gt;32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;数量关系&lt;/td&gt;
+&lt;td&gt;15&lt;/td&gt;
+&lt;td&gt;0.8&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;判断推理（图形推理）&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;0.6&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;判断推理（定义判断）&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;0.7&lt;/td&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;判断推理（类比推理）&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;0.5&lt;/td&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;判断推理（逻辑判断）&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;td&gt;0.8&lt;/td&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;资料分析&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;常识判断&lt;/td&gt;
+&lt;td&gt;20&lt;/td&gt;
+&lt;td&gt;0.5&lt;/td&gt;
+&lt;td&gt;10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;总计&lt;/td&gt;
+&lt;td&gt;135&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;100&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&#34;审测题型&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#审测题型&#34;&gt;#&lt;/a&gt; 审测题型&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;试卷类型&lt;/th&gt;
+&lt;th&gt;考察重点&lt;/th&gt;
+&lt;th&gt;考试主题&lt;/th&gt;
+&lt;th&gt;题 量&lt;/th&gt;
+&lt;th&gt;题型&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;副省级以上 (含副省级)&lt;/td&gt;
+&lt;td&gt;1. 阅读理解能力              2. 综合分析能力          3. 提出和解决问题能力                                                                                                                               4. 文字表达能力&lt;/td&gt;
+&lt;td&gt;海纳百川          聚四方之 才&lt;/td&gt;
+&lt;td&gt;5 题&lt;/td&gt;
+&lt;td&gt;第一题归纳概括 (10 分);                                                                           第二题综合分析 (15 分);                                                                              第三题提出对策 (20 分);                                                                                  第四题贯彻执行 (25 分);                                                                                            第五题贯彻执行 (30 分)；&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;市 (地) 级 以下&lt;/td&gt;
+&lt;td&gt;1. 阅读理解能力           2. 贯彻执行能力          3. 解决问题能力          4. 文字表达能力&lt;/td&gt;
+&lt;td&gt;乡村治理 题&lt;/td&gt;
+&lt;td&gt;5 题&lt;/td&gt;
+&lt;td&gt;第一题归纳概括 (10 分);                                                                           第二题归纳概括 (15 分);                                                                           第三题贯彻执行 (20 分);                                                                           第四题提出对策 (25 分);                                                                           第五题贯彻执行 (30 分)；&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </content>
         <category term="工作类" scheme="http://rainyblue.cn/categories/Work/" />
         <category term="公考" scheme="http://rainyblue.cn/categories/Work/civil-service/" />
@@ -793,8 +1171,8 @@
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <updated>2024-06-23T07:30:00.000Z</updated>
     </entry>
     <entry>
@@ -1088,8 +1466,8 @@ D.pyecharts&lt;/p&gt;
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <updated>2024-06-23T07:00:00.000Z</updated>
     </entry>
     <entry>
@@ -2752,8 +3130,8 @@ swiper image&amp;#123;
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <updated>2024-06-22T04:00:00.000Z</updated>
     </entry>
     <entry>
@@ -13283,8 +13661,8 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
         <updated>2024-06-18T01:01:00.000Z</updated>
     </entry>
@@ -14354,8 +14732,8 @@ D.  在实现数据缓存的方法中，方法名以Sync结尾的都是同步方
         <category term="学习类" scheme="http://rainyblue.cn/categories/Educational/" />
         <category term="Python语言" scheme="http://rainyblue.cn/categories/Educational/python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/categories/Educational/python/Data-analysis/" />
-        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="期末复习" scheme="http://rainyblue.cn/tags/%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0/" />
+        <category term="Python" scheme="http://rainyblue.cn/tags/Python/" />
         <category term="数据分析" scheme="http://rainyblue.cn/tags/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90/" />
         <updated>2024-06-18T00:01:00.000Z</updated>
     </entry>
